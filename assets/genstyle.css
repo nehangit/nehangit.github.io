@@ -5,9 +5,30 @@
 h1 {
     color: darkred;
     text-align: center;
+    font-size: 60px;
 }
 
 p {
     font-family: verdana;
     font-size: 20px;
+}
+
+button {
+    background-color: darkgreen;
+    border: none;
+    color: white;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    margin: 2px;
+}
+hr {
+    border: 2px dotted red;
+    margin: 15px;
+}
+a {
+    font-size: 25px;
 }
