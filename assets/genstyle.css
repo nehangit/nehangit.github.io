@@ -10,7 +10,7 @@ h1 {
 
 p {
     font-family: verdana;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 button {
@@ -31,4 +31,14 @@ hr {
 }
 a {
     font-size: 25px;
+}
+
+li a {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+li {
+    font-family: Arial;
+    font-size: 30px;
 }
