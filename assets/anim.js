@@ -1,7 +1,7 @@
 const screen = document.querySelector('.scrn');
 
 if (document.cookie.indexOf("visited") >= 0) {
-    $('.scrn').remove();
+    screen.remove();
 } else {
     document.cookie = "visited";
     document.addEventListener('DOMContentLoaded', (e) => {
@@ -10,6 +10,5 @@ if (document.cookie.indexOf("visited") >= 0) {
         }, 2000);
     });
 }
-
 
 
