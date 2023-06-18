@@ -6,11 +6,39 @@ h1 {
     color: darkred;
     text-align: center;
     font-size: 60px;
+    margin-bottom: 0px;
+}
+
+#jtoolhead {
+    font-family: "Courier New", Courier, monospace;
+    color: black;
+    text-align: center;
+    font-size: 60px;
+}
+
+#fgpac {
+    margin-left: 60px;
+    height: 800px;
+    width: 500px;
+    background-color: white;
+}
+
+input.inputs {
+    border: 2px solid darkgreen;
+    border-radius: 4px;
+    background-color: navajowhite;
+}
+
+label{
+    display: inline-block;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
 p {
     font-family: verdana;
     font-size: 25px;
+    margin-left: 20px;
 }
 
 button {
@@ -24,6 +52,8 @@ button {
     font-size: 16px;
     border-radius: 8px;
     margin: 2px;
+    margin-left: 15px;
+    margin-top: 15px;
 }
 
 button:hover {
@@ -31,12 +61,14 @@ button:hover {
 }
 
 hr {
-    border: 2px dotted red;
+    border: 2px dashed red;
     margin: 15px;
+    opacity: 40%;
 }
 
 a {
-    font-size: 25px;
+    font-size: 35px;
+    font-family: Arial;
 }
 
 a:hover {

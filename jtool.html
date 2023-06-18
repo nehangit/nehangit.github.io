@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The J Tool</title>
+        <link type="image/png" sizes="32x32" rel="icon" href="images/hat-32.png">
+        <link rel="stylesheet" href="assets/genstyle.css">
+    </head>
+    <body>
+        <button onclick="location.href = 'index.html';" class="button">HOME</button>
+        <button onclick="location.href = 'about.html';" class="button">ABOUT ME</button>
+        <h1 id="jtoolhead">THE J TOOL</h1>
+        <h2 style="text-align: center; font-size: 18px; margin-top: 6px; color: darkred">Named after the great valedictorian, Jeffrey Yang.</h2>
+        <hr style="color: darkgray">
+        <div style="display: flex;">
+            <div id="fgpac">
+                <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 20px;">Finals Grade Calculator</h2>
+                <form id="frm" style="padding-left: 20px;">
+                    <label for="current">Enter your current grade (percentage):</label><br />
+                    <input type="number" step="0.001" class="inputs" id="current" placeholder="Current Grade" /><br />
+                    <label for="mingrade">Enter the minimum grade you would like (percentage):</label><br />
+                    <input type="number" step="0.001" class="inputs" id="mingrade" placeholder="Goal Grade" /><br />
+                    <label for="finweight">Enter the weighting of your final (percentage):</label><br />
+                    <input type="number" step="0.001" class="inputs" id="finweight" placeholder="Weight" /><br />
+                    <input type="button" value="Calculate" style="margin-top: 40px" onclick="finalCalc()"/>
+                </form>
+                <p id="ret"></p>
+            </div>
+            <div id="undercon" style="padding-left: 50px;">
+                <h2 style="text-align: center;">Under Construction :)</h2>
+                <img src="images/rain.gif" alt="Under construction image" style="width: 1100px; height: 700px; text-align: center;">
+            </div>
+            <div id="div3">
+
+            </div>
+        </div>
+        <script src="assets/jt.js"></script>
+    </body>
+</html>
