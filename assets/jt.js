@@ -4,7 +4,7 @@ function finalCalc() {
     const grade = parseFloat(document.getElementById("current").value);
     const minimum = parseFloat(document.getElementById("mingrade").value);
     const weight = parseFloat(document.getElementById("finweight").value);
-    disp.innerHTML = "";
+    disp.innerHTML = "<br>";
     const inps = document.getElementsByClassName("inputs");
     for (let x of inps) {
         x.style.borderColor = 'darkgreen';
@@ -27,7 +27,7 @@ function finalCalc() {
     }
     if (valid == true) {
         const calculation = (minimum - (((100 - weight) / 100) * grade)) / (weight / 100);
-        disp.innerHTML = 'You will need at least a ' + calculation.toFixed(3) + '% on your final!!';
+        disp.innerHTML += 'You will need at least a ' + calculation.toFixed(3) + '% on your final!!';
         document.getElementById("frm").reset();
     }
 }
