@@ -1,0 +1,1358 @@
+{
+  "0": {
+    "name": "Adelphi University",
+    "numreq": ""
+  },
+  "1": {
+    "name": "Agnes Scott College",
+    "numreq": "2"
+  },
+  "2": {
+    "name": "Alfred University",
+    "numreq": ""
+  },
+  "3": {
+    "name": "Allegheny College",
+    "numreq": "2"
+  },
+  "4": {
+    "name": "American University",
+    "numreq": "2"
+  },
+  "5": {
+    "name": "Amherst College",
+    "numreq": ""
+  },
+  "6": {
+    "name": "Appalachian State University",
+    "numreq": "2"
+  },
+  "7": {
+    "name": "Arizona State University",
+    "numreq": "2"
+  },
+  "8": {
+    "name": "Auburn University",
+    "numreq": ""
+  },
+  "9": {
+    "name": "Austin College",
+    "numreq": "2"
+  },
+  "10": {
+    "name": "Babson College",
+    "numreq": ""
+  },
+  "11": {
+    "name": "Bard College",
+    "numreq": "4"
+  },
+  "12": {
+    "name": "Barnard College",
+    "numreq": ""
+  },
+  "13": {
+    "name": "Bates College",
+    "numreq": "2"
+  },
+  "14": {
+    "name": "Baylor University",
+    "numreq": "2"
+  },
+  "15": {
+    "name": "Belmont University",
+    "numreq": "2"
+  },
+  "16": {
+    "name": "Beloit College",
+    "numreq": ""
+  },
+  "17": {
+    "name": "Bennington College",
+    "numreq": ""
+  },
+  "18": {
+    "name": "Bentley University",
+    "numreq": "3"
+  },
+  "19": {
+    "name": "Berea College",
+    "numreq": ""
+  },
+  "20": {
+    "name": "Binghamton University",
+    "numreq": "3"
+  },
+  "21": {
+    "name": "Boston College",
+    "numreq": ""
+  },
+  "22": {
+    "name": "Boston University",
+    "numreq": "2"
+  },
+  "23": {
+    "name": "Bowdoin College",
+    "numreq": ""
+  },
+  "24": {
+    "name": "Bradley University",
+    "numreq": ""
+  },
+  "25": {
+    "name": "Brandeis University",
+    "numreq": ""
+  },
+  "26": {
+    "name": "Brigham Young University-Provo",
+    "numreq": ""
+  },
+  "27": {
+    "name": "Brown University",
+    "numreq": "3"
+  },
+  "28": {
+    "name": "Bryant University",
+    "numreq": "2"
+  },
+  "29": {
+    "name": "Bryn Mawr College",
+    "numreq": ""
+  },
+  "30": {
+    "name": "Bucknell University",
+    "numreq": "2"
+  },
+  "31": {
+    "name": "Butler University",
+    "numreq": "2"
+  },
+  "32": {
+    "name": "Cal Poly, Pomona",
+    "numreq": "2"
+  },
+  "33": {
+    "name": "Cal Poly, San Luis Obispo",
+    "numreq": "2"
+  },
+  "34": {
+    "name": "California Institute of Technology",
+    "numreq": ""
+  },
+  "35": {
+    "name": "California State University, Fresno",
+    "numreq": "2"
+  },
+  "36": {
+    "name": "California State University, Fullerton",
+    "numreq": "2"
+  },
+  "37": {
+    "name": "California State University, Long Beach",
+    "numreq": "2"
+  },
+  "38": {
+    "name": "Carleton College",
+    "numreq": ""
+  },
+  "39": {
+    "name": "Carnegie Mellon University",
+    "numreq": "2"
+  },
+  "40": {
+    "name": "Case Western Reserve University",
+    "numreq": "2"
+  },
+  "41": {
+    "name": "Centre College",
+    "numreq": "2"
+  },
+  "42": {
+    "name": "Chapman University",
+    "numreq": "2"
+  },
+  "43": {
+    "name": "Claremont McKenna College",
+    "numreq": "3"
+  },
+  "44": {
+    "name": "Clark University",
+    "numreq": ""
+  },
+  "45": {
+    "name": "Clarkson University",
+    "numreq": ""
+  },
+  "46": {
+    "name": "Clemson University",
+    "numreq": "2"
+  },
+  "47": {
+    "name": "Coastal Carolina University",
+    "numreq": "2"
+  },
+  "48": {
+    "name": "Colby College",
+    "numreq": ""
+  },
+  "49": {
+    "name": "Colgate University",
+    "numreq": "3"
+  },
+  "50": {
+    "name": "College of Charleston",
+    "numreq": "3"
+  },
+  "51": {
+    "name": "College of the Holy Cross",
+    "numreq": ""
+  },
+  "52": {
+    "name": "College of William and Mary",
+    "numreq": ""
+  },
+  "53": {
+    "name": "Colorado College",
+    "numreq": ""
+  },
+  "54": {
+    "name": "Colorado School of Mines",
+    "numreq": "1"
+  },
+  "55": {
+    "name": "Colorado State University",
+    "numreq": "1"
+  },
+  "56": {
+    "name": "Columbia University",
+    "numreq": "3"
+  },
+  "57": {
+    "name": "Connecticut College",
+    "numreq": ""
+  },
+  "58": {
+    "name": "Cooper Union for the Advancement of Science and Art",
+    "numreq": ""
+  },
+  "59": {
+    "name": "Cornell University",
+    "numreq": ""
+  },
+  "60": {
+    "name": "Creighton University",
+    "numreq": "2"
+  },
+  "61": {
+    "name": "CUNY Bernard M Baruch College",
+    "numreq": "2"
+  },
+  "62": {
+    "name": "CUNY Brooklyn College",
+    "numreq": ""
+  },
+  "63": {
+    "name": "CUNY City College",
+    "numreq": "3"
+  },
+  "64": {
+    "name": "CUNY Hunter College",
+    "numreq": ""
+  },
+  "65": {
+    "name": "CUNY Lehman College",
+    "numreq": "2"
+  },
+  "66": {
+    "name": "Dartmouth College",
+    "numreq": ""
+  },
+  "67": {
+    "name": "Davidson College",
+    "numreq": "2"
+  },
+  "68": {
+    "name": "Denison University",
+    "numreq": ""
+  },
+  "69": {
+    "name": "DePaul University",
+    "numreq": ""
+  },
+  "70": {
+    "name": "DePauw University",
+    "numreq": "2"
+  },
+  "71": {
+    "name": "Dickinson College",
+    "numreq": "2"
+  },
+  "72": {
+    "name": "Drew University",
+    "numreq": "2"
+  },
+  "73": {
+    "name": "Drexel University",
+    "numreq": ""
+  },
+  "74": {
+    "name": "Duke University",
+    "numreq": ""
+  },
+  "75": {
+    "name": "Duquesne University",
+    "numreq": "2"
+  },
+  "76": {
+    "name": "Earlham College",
+    "numreq": "2"
+  },
+  "77": {
+    "name": "East Carolina University",
+    "numreq": "2"
+  },
+  "78": {
+    "name": "Eckerd College",
+    "numreq": ""
+  },
+  "79": {
+    "name": "Elon University",
+    "numreq": "2"
+  },
+  "80": {
+    "name": "Emerson College",
+    "numreq": "3"
+  },
+  "81": {
+    "name": "Emory University",
+    "numreq": ""
+  },
+  "82": {
+    "name": "Fairfield University",
+    "numreq": "2"
+  },
+  "83": {
+    "name": "Florida Atlantic University",
+    "numreq": "2"
+  },
+  "84": {
+    "name": "Florida Gulf Coast University",
+    "numreq": "2"
+  },
+  "85": {
+    "name": "Florida Institute of Technology",
+    "numreq": ""
+  },
+  "86": {
+    "name": "Florida International University",
+    "numreq": "2"
+  },
+  "87": {
+    "name": "Florida Southern College",
+    "numreq": ""
+  },
+  "88": {
+    "name": "Florida State University",
+    "numreq": "2"
+  },
+  "89": {
+    "name": "Fordham University",
+    "numreq": "2"
+  },
+  "90": {
+    "name": "Franklin and Marshall College",
+    "numreq": "2"
+  },
+  "91": {
+    "name": "Franklin W. Olin College of Engineering",
+    "numreq": ""
+  },
+  "92": {
+    "name": "Furman University",
+    "numreq": "2"
+  },
+  "93": {
+    "name": "George Mason University",
+    "numreq": "2"
+  },
+  "94": {
+    "name": "George Washington University",
+    "numreq": "2"
+  },
+  "95": {
+    "name": "Georgetown University",
+    "numreq": "2"
+  },
+  "96": {
+    "name": "Georgia College",
+    "numreq": "2"
+  },
+  "97": {
+    "name": "Georgia Institute of Technology",
+    "numreq": "2"
+  },
+  "98": {
+    "name": "Georgia State University",
+    "numreq": "2"
+  },
+  "99": {
+    "name": "Gettysburg College",
+    "numreq": "3"
+  },
+  "100": {
+    "name": "Gonzaga University",
+    "numreq": "2"
+  },
+  "101": {
+    "name": "Goucher College",
+    "numreq": "2"
+  },
+  "102": {
+    "name": "Grinnell College",
+    "numreq": ""
+  },
+  "103": {
+    "name": "Gustavus Adolphus College",
+    "numreq": "2"
+  },
+  "104": {
+    "name": "Hamilton College",
+    "numreq": "3"
+  },
+  "105": {
+    "name": "Hampshire College",
+    "numreq": "3"
+  },
+  "106": {
+    "name": "Hanover College",
+    "numreq": "2"
+  },
+  "107": {
+    "name": "Harvard University",
+    "numreq": ""
+  },
+  "108": {
+    "name": "Harvey Mudd College",
+    "numreq": ""
+  },
+  "109": {
+    "name": "Haverford College",
+    "numreq": "3"
+  },
+  "110": {
+    "name": "Hendrix College",
+    "numreq": "2"
+  },
+  "111": {
+    "name": "High Point University",
+    "numreq": "2"
+  },
+  "112": {
+    "name": "Hobart William Smith Colleges",
+    "numreq": "2"
+  },
+  "113": {
+    "name": "Hofstra University",
+    "numreq": "2"
+  },
+  "114": {
+    "name": "Howard University",
+    "numreq": "2"
+  },
+  "115": {
+    "name": "Illinois Institute of Technology",
+    "numreq": ""
+  },
+  "116": {
+    "name": "Illinois Wesleyan University",
+    "numreq": ""
+  },
+  "117": {
+    "name": "Indiana University Bloomington",
+    "numreq": "2"
+  },
+  "118": {
+    "name": "Indiana University-Purdue University-Indianapolis",
+    "numreq": ""
+  },
+  "119": {
+    "name": "Iowa State University",
+    "numreq": "1"
+  },
+  "120": {
+    "name": "Ithaca College",
+    "numreq": "2"
+  },
+  "121": {
+    "name": "James Madison University",
+    "numreq": "3"
+  },
+  "122": {
+    "name": "Johns Hopkins University",
+    "numreq": ""
+  },
+  "123": {
+    "name": "Juniata College",
+    "numreq": "2"
+  },
+  "124": {
+    "name": "Kalamazoo College",
+    "numreq": "3"
+  },
+  "125": {
+    "name": "Kansas State University",
+    "numreq": ""
+  },
+  "126": {
+    "name": "Kenyon College",
+    "numreq": "3"
+  },
+  "127": {
+    "name": "Lafayette College",
+    "numreq": "2"
+  },
+  "128": {
+    "name": "Lake Forest College",
+    "numreq": "2"
+  },
+  "129": {
+    "name": "Lawrence University",
+    "numreq": ""
+  },
+  "130": {
+    "name": "Lehigh University",
+    "numreq": "2"
+  },
+  "131": {
+    "name": "Lewis & Clark College",
+    "numreq": ""
+  },
+  "132": {
+    "name": "Linfield College-McMinnville Campus",
+    "numreq": ""
+  },
+  "133": {
+    "name": "Louisiana State University",
+    "numreq": "2"
+  },
+  "134": {
+    "name": "Loyola Marymount University",
+    "numreq": ""
+  },
+  "135": {
+    "name": "Loyola University Chicago",
+    "numreq": "2"
+  },
+  "136": {
+    "name": "Loyola University Maryland",
+    "numreq": "3"
+  },
+  "137": {
+    "name": "Macalester College",
+    "numreq": ""
+  },
+  "138": {
+    "name": "Manhattan College",
+    "numreq": "2"
+  },
+  "139": {
+    "name": "Marist College",
+    "numreq": "2"
+  },
+  "140": {
+    "name": "Marquette University",
+    "numreq": ""
+  },
+  "141": {
+    "name": "Massachusetts College of Liberal Arts",
+    "numreq": "2"
+  },
+  "142": {
+    "name": "Massachusetts Institute of Technology",
+    "numreq": ""
+  },
+  "143": {
+    "name": "Miami University",
+    "numreq": ""
+  },
+  "144": {
+    "name": "Michigan State University",
+    "numreq": "2"
+  },
+  "145": {
+    "name": "Michigan Technological University",
+    "numreq": ""
+  },
+  "146": {
+    "name": "Middlebury College",
+    "numreq": ""
+  },
+  "147": {
+    "name": "Milwaukee School of Engineering",
+    "numreq": ""
+  },
+  "148": {
+    "name": "Mississippi State University",
+    "numreq": ""
+  },
+  "149": {
+    "name": "Morehouse College",
+    "numreq": ""
+  },
+  "150": {
+    "name": "Mount Holyoke College",
+    "numreq": "3"
+  },
+  "151": {
+    "name": "Muhlenberg College",
+    "numreq": "2"
+  },
+  "152": {
+    "name": "New College of Florida",
+    "numreq": "2"
+  },
+  "153": {
+    "name": "New Jersey Institute of Technology",
+    "numreq": ""
+  },
+  "154": {
+    "name": "New York Institute of Technology",
+    "numreq": ""
+  },
+  "155": {
+    "name": "New York University",
+    "numreq": "3"
+  },
+  "156": {
+    "name": "North Carolina State University",
+    "numreq": "2"
+  },
+  "157": {
+    "name": "Northeastern University",
+    "numreq": "2"
+  },
+  "158": {
+    "name": "Northern Arizona University",
+    "numreq": "2"
+  },
+  "159": {
+    "name": "Northwestern University",
+    "numreq": "2"
+  },
+  "160": {
+    "name": "Oberlin College",
+    "numreq": "3"
+  },
+  "161": {
+    "name": "Occidental College",
+    "numreq": ""
+  },
+  "162": {
+    "name": "Ohio State University",
+    "numreq": "2"
+  },
+  "163": {
+    "name": "Ohio University",
+    "numreq": "2"
+  },
+  "164": {
+    "name": "Ohio Wesleyan University",
+    "numreq": "2"
+  },
+  "165": {
+    "name": "Oklahoma State University",
+    "numreq": ""
+  },
+  "166": {
+    "name": "Oregon State University",
+    "numreq": "2"
+  },
+  "167": {
+    "name": "Pennsylvania State University - University Park",
+    "numreq": "2"
+  },
+  "168": {
+    "name": "Pepperdine University",
+    "numreq": ""
+  },
+  "169": {
+    "name": "Pitzer College",
+    "numreq": "3"
+  },
+  "170": {
+    "name": "Pomona College",
+    "numreq": "3"
+  },
+  "171": {
+    "name": "Princeton University",
+    "numreq": ""
+  },
+  "172": {
+    "name": "Providence College",
+    "numreq": "3"
+  },
+  "173": {
+    "name": "Purdue University",
+    "numreq": "2"
+  },
+  "174": {
+    "name": "Quinnipiac University",
+    "numreq": "2"
+  },
+  "175": {
+    "name": "Ramapo College of New Jersey",
+    "numreq": "2"
+  },
+  "176": {
+    "name": "Reed College",
+    "numreq": ""
+  },
+  "177": {
+    "name": "Rensselaer Polytechnic Institute",
+    "numreq": ""
+  },
+  "178": {
+    "name": "Rhodes College",
+    "numreq": "2"
+  },
+  "179": {
+    "name": "Rice University",
+    "numreq": "2"
+  },
+  "180": {
+    "name": "Rochester Institute of Technology",
+    "numreq": ""
+  },
+  "181": {
+    "name": "Rollins College",
+    "numreq": "2"
+  },
+  "182": {
+    "name": "Rose-Hulman Institute of Technology",
+    "numreq": ""
+  },
+  "183": {
+    "name": "Rutgers University-New Brunswick",
+    "numreq": "2"
+  },
+  "184": {
+    "name": "Saint Johns University",
+    "numreq": ""
+  },
+  "185": {
+    "name": "Saint Mary's College of California",
+    "numreq": "2"
+  },
+  "186": {
+    "name": "San Diego State University",
+    "numreq": "3"
+  },
+  "187": {
+    "name": "San Francisco State University",
+    "numreq": "2"
+  },
+  "188": {
+    "name": "San Jose State University",
+    "numreq": "2"
+  },
+  "189": {
+    "name": "Santa Clara University",
+    "numreq": "2"
+  },
+  "190": {
+    "name": "Sarah Lawrence College",
+    "numreq": "2"
+  },
+  "191": {
+    "name": "Scripps College",
+    "numreq": "3"
+  },
+  "192": {
+    "name": "Seattle University",
+    "numreq": "2"
+  },
+  "193": {
+    "name": "Seton Hall University",
+    "numreq": "2"
+  },
+  "194": {
+    "name": "Skidmore College",
+    "numreq": ""
+  },
+  "195": {
+    "name": "Smith College",
+    "numreq": ""
+  },
+  "196": {
+    "name": "Southern Methodist University",
+    "numreq": "2"
+  },
+  "197": {
+    "name": "Spelman College",
+    "numreq": "2"
+  },
+  "198": {
+    "name": "St John's University-New York",
+    "numreq": ""
+  },
+  "199": {
+    "name": "St Lawrence University",
+    "numreq": ""
+  },
+  "200": {
+    "name": "St Olaf College",
+    "numreq": ""
+  },
+  "201": {
+    "name": "St. John's College (MD)",
+    "numreq": "2"
+  },
+  "202": {
+    "name": "St. John's College (NM)",
+    "numreq": "2"
+  },
+  "203": {
+    "name": "St. Mary's College of Maryland",
+    "numreq": ""
+  },
+  "204": {
+    "name": "Stanford University",
+    "numreq": ""
+  },
+  "205": {
+    "name": "State University of New York at New Paltz",
+    "numreq": "2"
+  },
+  "206": {
+    "name": "Stetson University",
+    "numreq": "2"
+  },
+  "207": {
+    "name": "Stevens Institute of Technology",
+    "numreq": "2"
+  },
+  "208": {
+    "name": "Stonehill College",
+    "numreq": "3"
+  },
+  "209": {
+    "name": "Stony Brook University",
+    "numreq": ""
+  },
+  "210": {
+    "name": "SUNY at Albany",
+    "numreq": "1"
+  },
+  "211": {
+    "name": "SUNY at Fredonia",
+    "numreq": "3"
+  },
+  "212": {
+    "name": "SUNY at Purchase College",
+    "numreq": "3"
+  },
+  "213": {
+    "name": "SUNY College at Brockport",
+    "numreq": "1"
+  },
+  "214": {
+    "name": "SUNY College at Geneseo",
+    "numreq": ""
+  },
+  "215": {
+    "name": "SUNY College at Oswego",
+    "numreq": "2"
+  },
+  "216": {
+    "name": "SUNY College at Plattsburgh",
+    "numreq": ""
+  },
+  "217": {
+    "name": "SUNY College at Potsdam",
+    "numreq": ""
+  },
+  "218": {
+    "name": "SUNY College of Environmental Science and Forestry",
+    "numreq": ""
+  },
+  "219": {
+    "name": "SUNY Cortland",
+    "numreq": "3"
+  },
+  "220": {
+    "name": "SUNY Oneonta",
+    "numreq": "3"
+  },
+  "221": {
+    "name": "Susquehanna University",
+    "numreq": ""
+  },
+  "222": {
+    "name": "Swarthmore College",
+    "numreq": ""
+  },
+  "223": {
+    "name": "Syracuse University",
+    "numreq": ""
+  },
+  "224": {
+    "name": "Temple University",
+    "numreq": "2"
+  },
+  "225": {
+    "name": "Texas A & M University-College Station",
+    "numreq": "2"
+  },
+  "226": {
+    "name": "Texas Christian University",
+    "numreq": "2"
+  },
+  "227": {
+    "name": "Texas Tech University",
+    "numreq": "2"
+  },
+  "228": {
+    "name": "The College of New Jersey",
+    "numreq": "2"
+  },
+  "229": {
+    "name": "The College of Wooster",
+    "numreq": "2"
+  },
+  "230": {
+    "name": "The University of Tennessee-Knoxville",
+    "numreq": ""
+  },
+  "231": {
+    "name": "The University of Texas at Austin",
+    "numreq": "2"
+  },
+  "232": {
+    "name": "The University of Texas at Dallas",
+    "numreq": "2"
+  },
+  "233": {
+    "name": "The University of the South",
+    "numreq": "2"
+  },
+  "234": {
+    "name": "Trinity College",
+    "numreq": "3"
+  },
+  "235": {
+    "name": "Trinity University",
+    "numreq": "2"
+  },
+  "236": {
+    "name": "Tufts University",
+    "numreq": "3"
+  },
+  "237": {
+    "name": "Tulane University",
+    "numreq": ""
+  },
+  "238": {
+    "name": "Union College",
+    "numreq": "2"
+  },
+  "239": {
+    "name": "United States Air Force Academy",
+    "numreq": ""
+  },
+  "240": {
+    "name": "United States Coast Guard Academy",
+    "numreq": ""
+  },
+  "241": {
+    "name": "United States Merchant Marine Academy",
+    "numreq": ""
+  },
+  "242": {
+    "name": "United States Military Academy",
+    "numreq": ""
+  },
+  "243": {
+    "name": "United States Naval Academy",
+    "numreq": ""
+  },
+  "244": {
+    "name": "University at Buffalo",
+    "numreq": ""
+  },
+  "245": {
+    "name": "University of Alabama",
+    "numreq": "1"
+  },
+  "246": {
+    "name": "University of Alabama at Birmingham",
+    "numreq": "3"
+  },
+  "247": {
+    "name": "University of Arizona",
+    "numreq": "2"
+  },
+  "248": {
+    "name": "University of Arkansas",
+    "numreq": ""
+  },
+  "249": {
+    "name": "University of California, Berkeley",
+    "numreq": "2"
+  },
+  "250": {
+    "name": "University of California, Davis",
+    "numreq": "2"
+  },
+  "251": {
+    "name": "University of California, Irvine",
+    "numreq": "2"
+  },
+  "252": {
+    "name": "University of California, Los Angeles",
+    "numreq": "2"
+  },
+  "253": {
+    "name": "University of California, Merced",
+    "numreq": "2"
+  },
+  "254": {
+    "name": "University of California, Riverside",
+    "numreq": "2"
+  },
+  "255": {
+    "name": "University of California, San Diego",
+    "numreq": "2"
+  },
+  "256": {
+    "name": "University of California, Santa Barbara",
+    "numreq": "2"
+  },
+  "257": {
+    "name": "University of California, Santa Cruz",
+    "numreq": "2"
+  },
+  "258": {
+    "name": "University of Central Florida",
+    "numreq": "2"
+  },
+  "259": {
+    "name": "University of Chicago",
+    "numreq": ""
+  },
+  "260": {
+    "name": "University of Cincinnati",
+    "numreq": ""
+  },
+  "261": {
+    "name": "University of Colorado Boulder",
+    "numreq": "3"
+  },
+  "262": {
+    "name": "University of Connecticut",
+    "numreq": "2"
+  },
+  "263": {
+    "name": "University of Delaware",
+    "numreq": "2"
+  },
+  "264": {
+    "name": "University of Denver",
+    "numreq": ""
+  },
+  "265": {
+    "name": "University of Florida",
+    "numreq": "2"
+  },
+  "266": {
+    "name": "University of Georgia",
+    "numreq": "2"
+  },
+  "267": {
+    "name": "University of Houston",
+    "numreq": ""
+  },
+  "268": {
+    "name": "University of Illinois at Chicago",
+    "numreq": "2"
+  },
+  "269": {
+    "name": "University of Illinois at Urbana-Champaign",
+    "numreq": "2"
+  },
+  "270": {
+    "name": "University of Iowa",
+    "numreq": "2"
+  },
+  "271": {
+    "name": "University of Kansas",
+    "numreq": ""
+  },
+  "272": {
+    "name": "University of Kentucky",
+    "numreq": "2"
+  },
+  "273": {
+    "name": "University of Louisville",
+    "numreq": "2"
+  },
+  "274": {
+    "name": "University of Maine",
+    "numreq": ""
+  },
+  "275": {
+    "name": "University of Mary Washington",
+    "numreq": "3"
+  },
+  "276": {
+    "name": "University of Maryland, Baltimore County",
+    "numreq": "2"
+  },
+  "277": {
+    "name": "University of Maryland, College Park",
+    "numreq": "2"
+  },
+  "278": {
+    "name": "University of Massachusetts Amherst",
+    "numreq": "2"
+  },
+  "279": {
+    "name": "University of Massachusetts Boston",
+    "numreq": "2"
+  },
+  "280": {
+    "name": "University of Miami",
+    "numreq": ""
+  },
+  "281": {
+    "name": "University of Michigan",
+    "numreq": "2"
+  },
+  "282": {
+    "name": "University of Minnesota-Twin Cities",
+    "numreq": "2"
+  },
+  "283": {
+    "name": "University of Mississippi",
+    "numreq": "2"
+  },
+  "284": {
+    "name": "University of Missouri-Columbia",
+    "numreq": "2"
+  },
+  "285": {
+    "name": "University of Nebraska-Lincoln",
+    "numreq": "2"
+  },
+  "286": {
+    "name": "University of Nevada-Las Vegas",
+    "numreq": ""
+  },
+  "287": {
+    "name": "University of Nevada-Reno",
+    "numreq": ""
+  },
+  "288": {
+    "name": "University of New Hampshire",
+    "numreq": "2"
+  },
+  "289": {
+    "name": "University of New Mexico",
+    "numreq": "2"
+  },
+  "290": {
+    "name": "University of North Carolina at Asheville",
+    "numreq": "2"
+  },
+  "291": {
+    "name": "University of North Carolina at Chapel Hill",
+    "numreq": "2"
+  },
+  "292": {
+    "name": "University of North Carolina at Charlotte",
+    "numreq": "2"
+  },
+  "293": {
+    "name": "University of North Carolina at Greensboro",
+    "numreq": "2"
+  },
+  "294": {
+    "name": "University of North Carolina Wilmington",
+    "numreq": "2"
+  },
+  "295": {
+    "name": "University of Notre Dame",
+    "numreq": "2"
+  },
+  "296": {
+    "name": "University of Oklahoma",
+    "numreq": ""
+  },
+  "297": {
+    "name": "University of Oregon",
+    "numreq": "2"
+  },
+  "298": {
+    "name": "University of Pennsylvania",
+    "numreq": ""
+  },
+  "299": {
+    "name": "University of Pittsburgh",
+    "numreq": "2"
+  },
+  "300": {
+    "name": "University of Portland",
+    "numreq": "2"
+  },
+  "301": {
+    "name": "University of Puget Sound",
+    "numreq": ""
+  },
+  "302": {
+    "name": "University of Redlands",
+    "numreq": "2"
+  },
+  "303": {
+    "name": "University of Rhode Island",
+    "numreq": "1"
+  },
+  "304": {
+    "name": "University of Richmond",
+    "numreq": "2"
+  },
+  "305": {
+    "name": "University of Rochester",
+    "numreq": ""
+  },
+  "306": {
+    "name": "University of San Diego",
+    "numreq": "3"
+  },
+  "307": {
+    "name": "University of San Francisco",
+    "numreq": "2"
+  },
+  "308": {
+    "name": "University of South Carolina",
+    "numreq": "2"
+  },
+  "309": {
+    "name": "University of South Florida",
+    "numreq": "2"
+  },
+  "310": {
+    "name": "University of Southern California",
+    "numreq": "2"
+  },
+  "311": {
+    "name": "University of Tulsa",
+    "numreq": ""
+  },
+  "312": {
+    "name": "University of Utah",
+    "numreq": ""
+  },
+  "313": {
+    "name": "University of Vermont",
+    "numreq": "2"
+  },
+  "314": {
+    "name": "University of Virginia-Main Campus",
+    "numreq": "2"
+  },
+  "315": {
+    "name": "University of Washington",
+    "numreq": "2"
+  },
+  "316": {
+    "name": "University of Wisconsin-Madison",
+    "numreq": "3"
+  },
+  "317": {
+    "name": "Ursinus College",
+    "numreq": "2"
+  },
+  "318": {
+    "name": "Vanderbilt University",
+    "numreq": "2"
+  },
+  "319": {
+    "name": "Vassar College",
+    "numreq": ""
+  },
+  "320": {
+    "name": "Villanova University",
+    "numreq": "3"
+  },
+  "321": {
+    "name": "Virginia Commonwealth University",
+    "numreq": "2"
+  },
+  "322": {
+    "name": "Virginia Polytechnic Institute and State University",
+    "numreq": ""
+  },
+  "323": {
+    "name": "Wake Forest University",
+    "numreq": "2"
+  },
+  "324": {
+    "name": "Washington and Lee University",
+    "numreq": "3"
+  },
+  "325": {
+    "name": "Washington College",
+    "numreq": "2"
+  },
+  "326": {
+    "name": "Washington State University",
+    "numreq": "2"
+  },
+  "327": {
+    "name": "Washington University in St. Louis",
+    "numreq": "2"
+  },
+  "328": {
+    "name": "Wellesley College",
+    "numreq": ""
+  },
+  "329": {
+    "name": "Wesleyan University",
+    "numreq": ""
+  },
+  "330": {
+    "name": "West Virginia University",
+    "numreq": "2"
+  },
+  "331": {
+    "name": "Wheaton College (IL)",
+    "numreq": "2"
+  },
+  "332": {
+    "name": "Wheaton College (MA)",
+    "numreq": ""
+  },
+  "333": {
+    "name": "Whitman College",
+    "numreq": ""
+  },
+  "334": {
+    "name": "Willamette University",
+    "numreq": ""
+  },
+  "335": {
+    "name": "Williams College",
+    "numreq": ""
+  },
+  "336": {
+    "name": "Worcester Polytechnic Institute",
+    "numreq": ""
+  },
+  "337": {
+    "name": "Yale University",
+    "numreq": ""
+  },
+  "338": {
+    "name": "Yeshiva University",
+    "numreq": ""
+  }
+}

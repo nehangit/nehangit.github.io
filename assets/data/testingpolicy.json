@@ -1,0 +1,2830 @@
+{
+  "0": {
+    "name": "Adelphi University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "1": {
+    "name": "Agnes Scott College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "2": {
+    "name": "Allegheny College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "3": {
+    "name": "American University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "4": {
+    "name": "Amherst College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "5": {
+    "name": "Appalachian State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "6": {
+    "name": "Arizona State University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "7": {
+    "name": "Auburn University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "8": {
+    "name": "Augustana College (IL)",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "9": {
+    "name": "Austin College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "10": {
+    "name": "Babson College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "11": {
+    "name": "Bard College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "12": {
+    "name": "Barnard College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "13": {
+    "name": "Bates College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "14": {
+    "name": "Baylor University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "15": {
+    "name": "Belmont University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "16": {
+    "name": "Beloit College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "17": {
+    "name": "Bennington College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "18": {
+    "name": "Bentley University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "19": {
+    "name": "Berea College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "20": {
+    "name": "Binghamton University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "21": {
+    "name": "Bloomsburg University of Pennsylvania",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "22": {
+    "name": "Boston College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "23": {
+    "name": "Boston University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "24": {
+    "name": "Bowdoin College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "25": {
+    "name": "Bowling Green State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "26": {
+    "name": "Bradley University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "27": {
+    "name": "Brandeis University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "28": {
+    "name": "Brigham Young University-Provo",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "29": {
+    "name": "Brown University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "30": {
+    "name": "Bryant University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "31": {
+    "name": "Bryn Mawr College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "32": {
+    "name": "Bucknell University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "33": {
+    "name": "Butler University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes  ",
+    "scorechoice": "Yes"
+  },
+  "34": {
+    "name": "Cal Poly, Pomona",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test-Blind",
+    "scorechoice": ""
+  },
+  "35": {
+    "name": "Cal Poly, San Luis Obispo",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test-Blind",
+    "scorechoice": ""
+  },
+  "36": {
+    "name": "California Institute of Technology",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test-Blind",
+    "scorechoice": ""
+  },
+  "37": {
+    "name": "California State University, Fresno",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test-Blind",
+    "scorechoice": ""
+  },
+  "38": {
+    "name": "California State University, Fullerton",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test-Blind",
+    "scorechoice": ""
+  },
+  "39": {
+    "name": "California State University, Long Beach",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test-Blind",
+    "scorechoice": ""
+  },
+  "40": {
+    "name": "Carleton College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "41": {
+    "name": "Carnegie Mellon University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "42": {
+    "name": "Case Western Reserve University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "43": {
+    "name": "Catholic University of America",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "44": {
+    "name": "Central Michigan University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "45": {
+    "name": "Centre College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "46": {
+    "name": "Chapman University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "47": {
+    "name": "Christopher Newport University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "48": {
+    "name": "Citadel Military College of South Carolina",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": ""
+  },
+  "49": {
+    "name": "Claremont McKenna College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "50": {
+    "name": "Clark University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "51": {
+    "name": "Clarkson University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "52": {
+    "name": "Clemson University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "53": {
+    "name": "Coastal Carolina University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes (Min GPA)",
+    "scorechoice": ""
+  },
+  "54": {
+    "name": "Colby College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "55": {
+    "name": "Colgate University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "56": {
+    "name": "College of Charleston",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "57": {
+    "name": "College of Saint Benedict",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "58": {
+    "name": "College of the Holy Cross",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "59": {
+    "name": "College of William and Mary",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "60": {
+    "name": "Colorado College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "61": {
+    "name": "Colorado School of Mines",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "62": {
+    "name": "Colorado State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "63": {
+    "name": "Columbia University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "64": {
+    "name": "Connecticut College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "65": {
+    "name": "Cooper Union for the Advancement of Science and Art",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes ",
+    "scorechoice": "Yes"
+  },
+  "66": {
+    "name": "Cornell College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "67": {
+    "name": "Cornell University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "68": {
+    "name": "Creighton University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "69": {
+    "name": "CUNY Bernard M Baruch College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "70": {
+    "name": "CUNY Hunter College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "71": {
+    "name": "Dartmouth College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "72": {
+    "name": "Davidson College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes ",
+    "scorechoice": "Yes"
+  },
+  "73": {
+    "name": "Denison University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "74": {
+    "name": "DePaul University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "75": {
+    "name": "DePauw University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "76": {
+    "name": "Dickinson College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Test Free",
+    "scorechoice": "Yes"
+  },
+  "77": {
+    "name": "Drake University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "78": {
+    "name": "Drew University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "79": {
+    "name": "Drexel University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "80": {
+    "name": "Duke University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "81": {
+    "name": "Duquesne University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "82": {
+    "name": "Earlham College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "83": {
+    "name": "East Carolina University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "84": {
+    "name": "Eckerd College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "85": {
+    "name": "Elon University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "86": {
+    "name": "Embry-Riddle Aeronautical University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "87": {
+    "name": "Emerson College",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "88": {
+    "name": "Emory University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "89": {
+    "name": "Fairfield University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "90": {
+    "name": "Florida Atlantic University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": ""
+  },
+  "91": {
+    "name": "Florida Gulf Coast University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "92": {
+    "name": "Florida Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "93": {
+    "name": "Florida International University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "94": {
+    "name": "Florida Southern College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "95": {
+    "name": "Florida State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "96": {
+    "name": "Fordham University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "97": {
+    "name": "Franklin and Marshall College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "98": {
+    "name": "Franklin W. Olin College of Engineering",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "99": {
+    "name": "Furman University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "100": {
+    "name": "George Mason University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "101": {
+    "name": "George Washington University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "102": {
+    "name": "Georgetown University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "No"
+  },
+  "103": {
+    "name": "Georgia College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "104": {
+    "name": "Georgia Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "105": {
+    "name": "Georgia Southern University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": ""
+  },
+  "106": {
+    "name": "Georgia State University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "107": {
+    "name": "Gettysburg College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "108": {
+    "name": "Gonzaga University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "109": {
+    "name": "Goucher College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "110": {
+    "name": "Grinnell College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "111": {
+    "name": "Gustavus Adolphus College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "112": {
+    "name": "Hamilton College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "113": {
+    "name": "Harvard University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "114": {
+    "name": "Harvey Mudd College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "115": {
+    "name": "Haverford College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "116": {
+    "name": "Hendrix College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "117": {
+    "name": "High Point University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "118": {
+    "name": "Hobart William Smith Colleges",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "119": {
+    "name": "Hofstra University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "120": {
+    "name": "Hope College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "121": {
+    "name": "Howard University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "122": {
+    "name": "Illinois Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "123": {
+    "name": "Illinois State University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "124": {
+    "name": "Illinois Wesleyan University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "125": {
+    "name": "Indiana University Bloomington",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "126": {
+    "name": "Indiana University-Purdue University-Indianapolis",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "127": {
+    "name": "Iowa State University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "128": {
+    "name": "Ithaca College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "129": {
+    "name": "James Madison University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "130": {
+    "name": "John Carroll University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "131": {
+    "name": "Johns Hopkins University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "132": {
+    "name": "Juniata College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "133": {
+    "name": "Kalamazoo College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "134": {
+    "name": "Kansas State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "135": {
+    "name": "Kenyon College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "136": {
+    "name": "Kettering University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "137": {
+    "name": "Knox College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "138": {
+    "name": "Lafayette College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "139": {
+    "name": "Lake Forest College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "140": {
+    "name": "Lawrence University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "141": {
+    "name": "Lehigh University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "142": {
+    "name": "Lewis & Clark College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "143": {
+    "name": "Louisiana State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "144": {
+    "name": "Loyola Marymount University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "145": {
+    "name": "Loyola University Chicago",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "146": {
+    "name": "Loyola University Maryland",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "147": {
+    "name": "Macalester College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "148": {
+    "name": "Manhattan College",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "149": {
+    "name": "Marist College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "150": {
+    "name": "Marquette University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "151": {
+    "name": "Massachusetts Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "152": {
+    "name": "Massachusetts Maritime Academy",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "153": {
+    "name": "McDaniel College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "154": {
+    "name": "Mercer University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "155": {
+    "name": "Mercyhurst University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "156": {
+    "name": "Merrimack College",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "157": {
+    "name": "Miami University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "158": {
+    "name": "Michigan State University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "159": {
+    "name": "Michigan Technological University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "160": {
+    "name": "Middlebury College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "161": {
+    "name": "Millersville University of Pennsylvania",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "162": {
+    "name": "Milwaukee School of Engineering",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "163": {
+    "name": "Mississippi State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes ",
+    "scorechoice": "Yes"
+  },
+  "164": {
+    "name": "Missouri University of Science and Technology",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "165": {
+    "name": "Monmouth University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "166": {
+    "name": "Morehouse College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "167": {
+    "name": "Mount Holyoke College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "168": {
+    "name": "Muhlenberg College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "169": {
+    "name": "New College of Florida",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "170": {
+    "name": "New Jersey Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "171": {
+    "name": "New Mexico Institute of Mining and Technology",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "172": {
+    "name": "New York University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "173": {
+    "name": "North Carolina State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "174": {
+    "name": "Northeastern University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "175": {
+    "name": "Northern Arizona University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "176": {
+    "name": "Northwestern University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "177": {
+    "name": "Oberlin College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "178": {
+    "name": "Occidental College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "179": {
+    "name": "Ohio State University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "180": {
+    "name": "Ohio University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "181": {
+    "name": "Ohio Wesleyan University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "182": {
+    "name": "Oklahoma State University",
+    "actsuper": "Yes",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "183": {
+    "name": "Old Dominion University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "184": {
+    "name": "Oregon State University",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "185": {
+    "name": "Pennsylvania State University - University Park",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "186": {
+    "name": "Pepperdine University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "187": {
+    "name": "Pitzer College",
+    "actsuper": " ",
+    "satsuper": " ",
+    "testopt": "Test Free",
+    "scorechoice": "Yes"
+  },
+  "188": {
+    "name": "Pomona College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "189": {
+    "name": "Princeton University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "190": {
+    "name": "Providence College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "191": {
+    "name": "Purdue University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "192": {
+    "name": "Quinnipiac University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "193": {
+    "name": "Ramapo College of New Jersey",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "194": {
+    "name": "Reed College",
+    "actsuper": " ",
+    "satsuper": " ",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "195": {
+    "name": "Rensselaer Polytechnic Institute",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "196": {
+    "name": "Rhode Island School of Design",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "197": {
+    "name": "Rhodes College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "198": {
+    "name": "Rice University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "199": {
+    "name": "Rochester Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "200": {
+    "name": "Roger Williams University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "201": {
+    "name": "Rollins College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "202": {
+    "name": "Rose-Hulman Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "203": {
+    "name": "Rowan University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "204": {
+    "name": "Rutgers University-Camden",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "205": {
+    "name": "Rutgers University-New Brunswick",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "206": {
+    "name": "Rutgers University-Newark",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": ""
+  },
+  "207": {
+    "name": "Sacred Heart University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "208": {
+    "name": "Saint Anselm College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "209": {
+    "name": "Saint Johns University (MN)",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "210": {
+    "name": "Saint Joseph's University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "211": {
+    "name": "Saint Louis University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "212": {
+    "name": "Saint Mary's College (Notre Dame)",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "213": {
+    "name": "Saint Mary's College of California",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "214": {
+    "name": "Saint Michael's College",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "215": {
+    "name": "Salisbury University",
+    "actsuper": "",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "216": {
+    "name": "Salve Regina University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "217": {
+    "name": "Samford University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "218": {
+    "name": "San Diego State University",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": ""
+  },
+  "219": {
+    "name": "San Francisco State University",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": ""
+  },
+  "220": {
+    "name": "San Jose State University",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": ""
+  },
+  "221": {
+    "name": "Santa Clara University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "222": {
+    "name": "Sarah Lawrence College",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "223": {
+    "name": "Scripps College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "224": {
+    "name": "Seattle University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "225": {
+    "name": "Seton Hall University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "226": {
+    "name": "Sewanee: The University of the South",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "227": {
+    "name": "Siena College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "228": {
+    "name": "Simmons University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "229": {
+    "name": "Skidmore College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "230": {
+    "name": "Smith College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "231": {
+    "name": "Soka University of America",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "232": {
+    "name": "Southern Methodist University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "233": {
+    "name": "Southwestern University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "234": {
+    "name": "Spelman College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "235": {
+    "name": "St John's University-New York",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "236": {
+    "name": "St Lawrence University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "237": {
+    "name": "St Olaf College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "238": {
+    "name": "St. John's College (MD)",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "239": {
+    "name": "St. John's College (NM)",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "240": {
+    "name": "St. Mary's College of Maryland",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "241": {
+    "name": "Stanford University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "242": {
+    "name": "State University of New York at New Paltz",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "243": {
+    "name": "Stetson University",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "244": {
+    "name": "Stevens Institute of Technology",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "245": {
+    "name": "Stonehill College",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "246": {
+    "name": "Stony Brook University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "247": {
+    "name": "Suffolk University",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "248": {
+    "name": "SUNY at Albany",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "249": {
+    "name": "SUNY at Purchase College",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "250": {
+    "name": "SUNY College at Geneseo",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "251": {
+    "name": "SUNY College at Oswego",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "252": {
+    "name": "SUNY College at Potsdam",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "253": {
+    "name": "SUNY College of Environmental Science and Forestry",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "254": {
+    "name": "SUNY Cortland",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "255": {
+    "name": "SUNY Oneonta",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "256": {
+    "name": "Susquehanna University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "257": {
+    "name": "Swarthmore College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "258": {
+    "name": "Syracuse University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "259": {
+    "name": "Temple University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "260": {
+    "name": "Texas A & M University-College Station",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "261": {
+    "name": "Texas Christian University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "262": {
+    "name": "The College of New Jersey",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "263": {
+    "name": "The College of Wooster",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "264": {
+    "name": "The University of Montana",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "265": {
+    "name": "The University of Tennessee-Knoxville",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "266": {
+    "name": "The University of Texas at Austin",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "267": {
+    "name": "The University of Texas at Dallas",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "268": {
+    "name": "Towson University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "269": {
+    "name": "Transylvania University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "270": {
+    "name": "Trinity College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "271": {
+    "name": "Trinity University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "272": {
+    "name": "Truman State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "273": {
+    "name": "Tufts University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "274": {
+    "name": "Tulane University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "275": {
+    "name": "Union College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "276": {
+    "name": "United States Air Force Academy",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "277": {
+    "name": "United States Coast Guard Academy",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "278": {
+    "name": "United States Merchant Marine Academy",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "279": {
+    "name": "United States Military Academy",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "280": {
+    "name": "United States Naval Academy",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Test Flexible*",
+    "scorechoice": "Yes"
+  },
+  "281": {
+    "name": "University at Buffalo",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "282": {
+    "name": "University of Alabama",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "283": {
+    "name": "University of Alabama at Birmingham",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "284": {
+    "name": "University of Arizona",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "285": {
+    "name": "University of Arkansas",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "286": {
+    "name": "University of California, Berkeley",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "287": {
+    "name": "University of California, Davis",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "288": {
+    "name": "University of California, Irvine",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "289": {
+    "name": "University of California, Los Angeles",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "290": {
+    "name": "University of California, Merced",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": ""
+  },
+  "291": {
+    "name": "University of California, Riverside",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "292": {
+    "name": "University of California, San Diego",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "293": {
+    "name": "University of California, Santa Barbara",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "294": {
+    "name": "University of California, Santa Cruz",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "295": {
+    "name": "University of Central Florida",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "296": {
+    "name": "University of Chicago",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "297": {
+    "name": "University of Cincinnati",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "298": {
+    "name": "University of Colorado Boulder",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "299": {
+    "name": "University of Connecticut",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "300": {
+    "name": "University of Dallas",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "301": {
+    "name": "University of Dayton",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "302": {
+    "name": "University of Delaware",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "303": {
+    "name": "University of Denver",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "304": {
+    "name": "University of Florida",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "305": {
+    "name": "University of Georgia",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "306": {
+    "name": "University of Houston",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "307": {
+    "name": "University of Illinois at Chicago",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "308": {
+    "name": "University of Illinois at Urbana-Champaign",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "309": {
+    "name": "University of Iowa",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "310": {
+    "name": "University of Kansas",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "311": {
+    "name": "University of Kentucky",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "312": {
+    "name": "University of Louisville",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "313": {
+    "name": "University of Maine",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "314": {
+    "name": "University of Mary Washington",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "315": {
+    "name": "University of Maryland, Baltimore County",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "316": {
+    "name": "University of Maryland, College Park",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "317": {
+    "name": "University of Massachusetts Amherst",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "318": {
+    "name": "University of Massachusetts Boston",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "319": {
+    "name": "University of Massachusetts Lowell",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "320": {
+    "name": "University of Memphis",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "No",
+    "scorechoice": ""
+  },
+  "321": {
+    "name": "University of Miami",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "322": {
+    "name": "University of Michigan",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "323": {
+    "name": "University of Michigan-Dearborn",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "324": {
+    "name": "University of Minnesota-Duluth",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "325": {
+    "name": "University of Minnesota-Morris",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "326": {
+    "name": "University of Minnesota-Twin Cities",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "327": {
+    "name": "University of Mississippi",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "328": {
+    "name": "University of Missouri-Columbia",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "329": {
+    "name": "University of Nebraska-Lincoln",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "330": {
+    "name": "University of Nevada-Las Vegas",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "331": {
+    "name": "University of Nevada-Reno",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "332": {
+    "name": "University of New Hampshire",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "333": {
+    "name": "University of New Mexico",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "334": {
+    "name": "University of North Carolina at Asheville",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "335": {
+    "name": "University of North Carolina at Chapel Hill",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "336": {
+    "name": "University of North Carolina at Charlotte",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "337": {
+    "name": "University of North Carolina Wilmington",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "338": {
+    "name": "University of North Dakota",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "339": {
+    "name": "University of North Florida",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": ""
+  },
+  "340": {
+    "name": "University of North Texas",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "341": {
+    "name": "University of Notre Dame",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "342": {
+    "name": "University of Oklahoma",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "343": {
+    "name": "University of Oregon",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "344": {
+    "name": "University of Pennsylvania",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "345": {
+    "name": "University of Pittsburgh",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "346": {
+    "name": "University of Portland",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "347": {
+    "name": "University of Puget Sound",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "348": {
+    "name": "University of Redlands",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "349": {
+    "name": "University of Rhode Island",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "350": {
+    "name": "University of Richmond",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "351": {
+    "name": "University of Rochester",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "352": {
+    "name": "University of San Diego",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Free",
+    "scorechoice": "Yes"
+  },
+  "353": {
+    "name": "University of San Francisco",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "354": {
+    "name": "University of Scranton",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "355": {
+    "name": "University of South Carolina",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "356": {
+    "name": "University of South Dakota",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "No",
+    "scorechoice": ""
+  },
+  "357": {
+    "name": "University of South Florida",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "358": {
+    "name": "University of Southern California",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "359": {
+    "name": "University of St Thomas (MN)",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "360": {
+    "name": "University of Tampa",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "361": {
+    "name": "University of the Pacific",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "362": {
+    "name": "University of Tulsa",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "363": {
+    "name": "University of Utah",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "364": {
+    "name": "University of Vermont",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "365": {
+    "name": "University of Virginia-Main Campus",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "366": {
+    "name": "University of Washington",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "367": {
+    "name": "University of Wisconsin-La Crosse",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "368": {
+    "name": "University of Wisconsin-Madison",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "369": {
+    "name": "University of Wyoming",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "370": {
+    "name": "Ursinus College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "371": {
+    "name": "Valparaiso University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "372": {
+    "name": "Vanderbilt University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "373": {
+    "name": "Vassar College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "374": {
+    "name": "Villanova University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "375": {
+    "name": "Virginia Commonwealth University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "376": {
+    "name": "Virginia Military Institute",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "377": {
+    "name": "Virginia Polytechnic Institute and State University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "378": {
+    "name": "Wabash College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "379": {
+    "name": "Wake Forest University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "380": {
+    "name": "Washington & Jefferson College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "381": {
+    "name": "Washington and Lee University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "382": {
+    "name": "Washington College",
+    "actsuper": "Yes",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "383": {
+    "name": "Washington State University",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Free",
+    "scorechoice": "Yes"
+  },
+  "384": {
+    "name": "Washington University in St. Louis",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "385": {
+    "name": "Wellesley College",
+    "actsuper": "Yes*",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "386": {
+    "name": "Wesleyan University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "387": {
+    "name": "West Chester University of Pennsylvania",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "388": {
+    "name": "West Virginia University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "389": {
+    "name": "Western Carolina University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "No",
+    "scorechoice": "Yes"
+  },
+  "390": {
+    "name": "Western Washington University",
+    "actsuper": "No",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "391": {
+    "name": "Westmont College",
+    "actsuper": "No",
+    "satsuper": "No",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "392": {
+    "name": "Wheaton College IL",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "393": {
+    "name": "Wheaton College MA",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "394": {
+    "name": "Whitman College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "395": {
+    "name": "Whittier College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "396": {
+    "name": "Whitworth University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "397": {
+    "name": "Willamette University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": ""
+  },
+  "398": {
+    "name": "Williams College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "399": {
+    "name": "Wofford College",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "400": {
+    "name": "Worcester Polytechnic Institute",
+    "actsuper": "",
+    "satsuper": "",
+    "testopt": "Test Blind",
+    "scorechoice": "Yes"
+  },
+  "401": {
+    "name": "Xavier University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "402": {
+    "name": "Yale University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  },
+  "403": {
+    "name": "Yeshiva University",
+    "actsuper": "Yes",
+    "satsuper": "Yes",
+    "testopt": "Yes",
+    "scorechoice": "Yes"
+  }
+}

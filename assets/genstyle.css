@@ -18,7 +18,7 @@ h1 {
 
 #fgpac {
     margin-left: 60px;
-    height: 800px;
+    height: 700px;
     width: 500px;
     background-color: white;
     border-radius: 25px;
@@ -26,13 +26,19 @@ h1 {
 
 #colsearch {
     margin-left: 60px;
-    height: 800px;
+    height: 900px;
     width: 1200px;
     background-color: lightgrey;
     border-radius: 25px;
 }
 
-input.inputs {
+.inputs {
+    border: 2px solid darkgreen;
+    border-radius: 4px;
+    background-color: navajowhite;
+}
+
+.inputs2 {
     border: 2px solid darkgreen;
     border-radius: 4px;
     background-color: navajowhite;

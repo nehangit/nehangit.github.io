@@ -1,0 +1,2022 @@
+{
+  "0": {
+    "name": "Adelphi University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "1": {
+    "name": "Agnes Scott College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "2": {
+    "name": "Allegheny College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "3": {
+    "name": "American University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "4": {
+    "name": "Amherst College",
+    "admitofficer": "",
+    "alum": "No"
+  },
+  "5": {
+    "name": "Appalachian State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "6": {
+    "name": "Arizona State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "7": {
+    "name": "Auburn University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "8": {
+    "name": "Augustana College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "9": {
+    "name": "Austin College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "10": {
+    "name": "Babson College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "11": {
+    "name": "Bard College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "12": {
+    "name": "Barnard College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "13": {
+    "name": "Bates College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "14": {
+    "name": "Baylor University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "15": {
+    "name": "Belmont University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "16": {
+    "name": "Beloit College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "17": {
+    "name": "Bennington College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "18": {
+    "name": "Bentley University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "19": {
+    "name": "Berea College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "20": {
+    "name": "Binghamton University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "21": {
+    "name": "Bloomsburg University of Pennsylvania",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "22": {
+    "name": "Boston College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "23": {
+    "name": "Boston University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "24": {
+    "name": "Bowdoin College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "25": {
+    "name": "Bowling Green State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "26": {
+    "name": "Bradley University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "27": {
+    "name": "Brandeis University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "28": {
+    "name": "Brigham Young University-Provo",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "29": {
+    "name": "Brown University",
+    "admitofficer": "Yes",
+    "alum": "No"
+  },
+  "30": {
+    "name": "Bryant University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "31": {
+    "name": "Bryn Mawr College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "32": {
+    "name": "Bucknell University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "33": {
+    "name": "Butler University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "34": {
+    "name": "Cal Poly, Pomona",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "35": {
+    "name": "Cal Poly, San Luis Obispo",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "36": {
+    "name": "California Institute of Technology",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "37": {
+    "name": "California State University, Fresno",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "38": {
+    "name": "California State University, Fullerton",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "39": {
+    "name": "California State University, Long Beach",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "40": {
+    "name": "Carleton College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "41": {
+    "name": "Carnegie Mellon University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "42": {
+    "name": "Case Western Reserve University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "43": {
+    "name": "Catholic University of America",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "44": {
+    "name": "Central Michigan University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "45": {
+    "name": "Centre College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "46": {
+    "name": "Chapman University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "47": {
+    "name": "Christopher Newport University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "48": {
+    "name": "Citadel Military College of South Carolina",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "49": {
+    "name": "Claremont McKenna College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "50": {
+    "name": "Clark University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "51": {
+    "name": "Clarkson University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "52": {
+    "name": "Clemson University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "53": {
+    "name": "Coastal Carolina University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "54": {
+    "name": "Colby College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "55": {
+    "name": "Colgate University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "56": {
+    "name": "College of Charleston",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "57": {
+    "name": "College of Saint Benedict",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "58": {
+    "name": "College of the Holy Cross",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "59": {
+    "name": "College of William and Mary",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "60": {
+    "name": "Colorado College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "61": {
+    "name": "Colorado School of Mines",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "62": {
+    "name": "Colorado State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "63": {
+    "name": "Columbia University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "64": {
+    "name": "Connecticut College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "65": {
+    "name": "Cooper Union for the Advancement of Science and Art",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "66": {
+    "name": "Cornell College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "67": {
+    "name": "Cornell University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "68": {
+    "name": "Creighton University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "69": {
+    "name": "CUNY Bernard M Baruch College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "70": {
+    "name": "CUNY Hunter College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "71": {
+    "name": "Dartmouth College",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "72": {
+    "name": "Davidson College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "73": {
+    "name": "Denison University",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "74": {
+    "name": "DePaul University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "75": {
+    "name": "DePauw University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "76": {
+    "name": "Dickinson College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "77": {
+    "name": "Drake University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "78": {
+    "name": "Drew University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "79": {
+    "name": "Drexel University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "80": {
+    "name": "Duke University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "81": {
+    "name": "Duquesne University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "82": {
+    "name": "Earlham College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "83": {
+    "name": "East Carolina University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "84": {
+    "name": "Eckerd College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "85": {
+    "name": "Elon University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "86": {
+    "name": "Embry-Riddle Aeronautical University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "87": {
+    "name": "Emerson College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "88": {
+    "name": "Emory University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "89": {
+    "name": "Fairfield University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "90": {
+    "name": "Florida Atlantic University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "91": {
+    "name": "Florida Gulf Coast University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "92": {
+    "name": "Florida Institute of Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "93": {
+    "name": "Florida International University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "94": {
+    "name": "Florida Southern College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "95": {
+    "name": "Florida State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "96": {
+    "name": "Fordham University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "97": {
+    "name": "Franklin and Marshall College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "98": {
+    "name": "Franklin W. Olin College of Engineering",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "99": {
+    "name": "Furman University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "100": {
+    "name": "George Mason University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "101": {
+    "name": "George Washington University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "102": {
+    "name": "Georgetown University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "103": {
+    "name": "Georgia College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "104": {
+    "name": "Georgia Institute of Technology",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "105": {
+    "name": "Georgia Southern University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "106": {
+    "name": "Georgia State University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "107": {
+    "name": "Gettysburg College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "108": {
+    "name": "Gonzaga University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "109": {
+    "name": "Goucher College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "110": {
+    "name": "Grinnell College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "111": {
+    "name": "Gustavus Adolphus College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "112": {
+    "name": "Hamilton College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "113": {
+    "name": "Harvard University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "114": {
+    "name": "Harvey Mudd College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "115": {
+    "name": "Haverford College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "116": {
+    "name": "Hendrix College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "117": {
+    "name": "High Point University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "118": {
+    "name": "Hobart William Smith Colleges",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "119": {
+    "name": "Hofstra University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "120": {
+    "name": "Hope College",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "121": {
+    "name": "Howard University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "122": {
+    "name": "Illinois Institute of Technology",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "123": {
+    "name": "Illinois State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "124": {
+    "name": "Illinois Wesleyan University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "125": {
+    "name": "Indiana University Bloomington",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "126": {
+    "name": "Indiana University-Purdue University-Indianapolis",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "127": {
+    "name": "Iowa State University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "128": {
+    "name": "Ithaca College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "129": {
+    "name": "James Madison University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "130": {
+    "name": "John Carroll University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "131": {
+    "name": "Johns Hopkins University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "132": {
+    "name": "Juniata College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "133": {
+    "name": "Kalamazoo College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "134": {
+    "name": "Kansas State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "135": {
+    "name": "Kenyon College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "136": {
+    "name": "Kettering University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "137": {
+    "name": "Knox College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "138": {
+    "name": "Lafayette College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "139": {
+    "name": "Lake Forest College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "140": {
+    "name": "Lawrence University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "141": {
+    "name": "Lehigh University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "142": {
+    "name": "Lewis & Clark College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "143": {
+    "name": "Louisiana State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "144": {
+    "name": "Loyola Marymount University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "145": {
+    "name": "Loyola University Chicago",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "146": {
+    "name": "Loyola University Maryland",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "147": {
+    "name": "Macalester College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "148": {
+    "name": "Manhattan College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "149": {
+    "name": "Marist College",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "150": {
+    "name": "Marquette University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "151": {
+    "name": "Massachusetts Institute of Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "152": {
+    "name": "Massachusetts Maritime Academy",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "153": {
+    "name": "McDaniel College",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "154": {
+    "name": "Mercer University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "155": {
+    "name": "Mercyhurst University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "156": {
+    "name": "Merrimack College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "157": {
+    "name": "Miami University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "158": {
+    "name": "Michigan State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "159": {
+    "name": "Michigan Technological University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "160": {
+    "name": "Middlebury College",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "161": {
+    "name": "Millersville University of Pennsylvania",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "162": {
+    "name": "Milwaukee School of Engineering",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "163": {
+    "name": "Mississippi State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "164": {
+    "name": "Missouri University of Science and Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "165": {
+    "name": "Monmouth University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "166": {
+    "name": "Morehouse College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "167": {
+    "name": "Mount Holyoke College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "168": {
+    "name": "Muhlenberg College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "169": {
+    "name": "New College of Florida",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "170": {
+    "name": "New Jersey Institute of Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "171": {
+    "name": "New Mexico Institute of Mining and Technology",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "172": {
+    "name": "New York University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "173": {
+    "name": "North Carolina State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "174": {
+    "name": "Northeastern University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "175": {
+    "name": "Northern Arizona University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "176": {
+    "name": "Northwestern University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "177": {
+    "name": "Oberlin College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "178": {
+    "name": "Occidental College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "179": {
+    "name": "Ohio State University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "180": {
+    "name": "Ohio University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "181": {
+    "name": "Ohio Wesleyan University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "182": {
+    "name": "Oklahoma State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "183": {
+    "name": "Old Dominion University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "184": {
+    "name": "Oregon State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "185": {
+    "name": "Pennsylvania State University - University Park",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "186": {
+    "name": "Pepperdine University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "187": {
+    "name": "Pitzer College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "188": {
+    "name": "Pomona College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "189": {
+    "name": "Princeton University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "190": {
+    "name": "Providence College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "191": {
+    "name": "Purdue University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "192": {
+    "name": "Quinnipiac University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "193": {
+    "name": "Ramapo College of New Jersey",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "194": {
+    "name": "Reed College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "195": {
+    "name": "Rensselaer Polytechnic Institute",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "196": {
+    "name": "Rhode Island School of Design",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "197": {
+    "name": "Rhodes College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "198": {
+    "name": "Rice University",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "199": {
+    "name": "Rochester Institute of Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "200": {
+    "name": "Roger Williams University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "201": {
+    "name": "Rollins College",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "202": {
+    "name": "Rose-Hulman Institute of Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "203": {
+    "name": "Rowan University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "204": {
+    "name": "Rutgers University-Camden",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "205": {
+    "name": "Rutgers University-New Brunswick",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "206": {
+    "name": "Rutgers University-Newark",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "207": {
+    "name": "Sacred Heart University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "208": {
+    "name": "Saint Anselm College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "209": {
+    "name": "Saint Johns University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "210": {
+    "name": "Saint Joseph's University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "211": {
+    "name": "Saint Louis University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "212": {
+    "name": "Saint Mary's College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "213": {
+    "name": "Saint Mary's College of California",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "214": {
+    "name": "Saint Michael's College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "215": {
+    "name": "Salisbury University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "216": {
+    "name": "Salve Regina University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "217": {
+    "name": "Samford University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "218": {
+    "name": "San Diego State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "219": {
+    "name": "San Francisco State University",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "220": {
+    "name": "San Jose State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "221": {
+    "name": "Santa Clara University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "222": {
+    "name": "Sarah Lawrence College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "223": {
+    "name": "Scripps College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "224": {
+    "name": "Seattle University",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "225": {
+    "name": "Seton Hall University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "226": {
+    "name": "Sewanee: The University of the South",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "227": {
+    "name": "Siena College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "228": {
+    "name": "Simmons University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "229": {
+    "name": "Skidmore College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "230": {
+    "name": "Smith College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "231": {
+    "name": "Soka University of America",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "232": {
+    "name": "Southern Methodist University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "233": {
+    "name": "Southwestern University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "234": {
+    "name": "Spelman College",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "235": {
+    "name": "St John's University-New York",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "236": {
+    "name": "St Lawrence University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "237": {
+    "name": "St Olaf College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "238": {
+    "name": "St. John's College (MD)",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "239": {
+    "name": "St. John's College (NM)",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "240": {
+    "name": "St. Mary's College of Maryland",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "241": {
+    "name": "Stanford University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "242": {
+    "name": "State University of New York at New Paltz",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "243": {
+    "name": "Stetson University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "244": {
+    "name": "Stevens Institute of Technology",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "245": {
+    "name": "Stonehill College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "246": {
+    "name": "Stony Brook University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "247": {
+    "name": "Suffolk University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "248": {
+    "name": "SUNY at Albany",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "249": {
+    "name": "SUNY at Purchase College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "250": {
+    "name": "SUNY College at Geneseo",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "251": {
+    "name": "SUNY College at Oswego",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "252": {
+    "name": "SUNY College at Potsdam",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "253": {
+    "name": "SUNY College of Environmental Science and Forestry",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "254": {
+    "name": "SUNY Cortland",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "255": {
+    "name": "SUNY Oneonta",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "256": {
+    "name": "Susquehanna University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "257": {
+    "name": "Swarthmore College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "258": {
+    "name": "Syracuse University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "259": {
+    "name": "Temple University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "260": {
+    "name": "Texas A & M University-College Station",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "261": {
+    "name": "Texas Christian University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "262": {
+    "name": "The College of New Jersey",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "263": {
+    "name": "The College of Wooster",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "264": {
+    "name": "The University of Montana",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "265": {
+    "name": "The University of Tennessee-Knoxville",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "266": {
+    "name": "The University of Texas at Austin",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "267": {
+    "name": "The University of Texas at Dallas",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "268": {
+    "name": "Towson University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "269": {
+    "name": "Transylvania University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "270": {
+    "name": "Trinity College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "271": {
+    "name": "Trinity University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "272": {
+    "name": "Truman State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "273": {
+    "name": "Tufts University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "274": {
+    "name": "Tulane University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "275": {
+    "name": "Union College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "276": {
+    "name": "United States Air Force Academy",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "277": {
+    "name": "United States Coast Guard Academy",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "278": {
+    "name": "United States Merchant Marine Academy",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "279": {
+    "name": "United States Military Academy",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "280": {
+    "name": "United States Naval Academy",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "281": {
+    "name": "University at Buffalo",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "282": {
+    "name": "University of Alabama",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "283": {
+    "name": "University of Alabama at Birmingham",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "284": {
+    "name": "University of Arizona",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "285": {
+    "name": "University of Arkansas",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "286": {
+    "name": "University of California, Berkeley",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "287": {
+    "name": "University of California, Davis",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "288": {
+    "name": "University of California, Irvine",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "289": {
+    "name": "University of California, Los Angeles",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "290": {
+    "name": "University of California, Merced",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "291": {
+    "name": "University of California, Riverside",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "292": {
+    "name": "University of California, San Diego",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "293": {
+    "name": "University of California, Santa Barbara",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "294": {
+    "name": "University of California, Santa Cruz",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "295": {
+    "name": "University of Central Florida",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "296": {
+    "name": "University of Chicago",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "297": {
+    "name": "University of Cincinnati",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "298": {
+    "name": "University of Colorado Boulder",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "299": {
+    "name": "University of Connecticut",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "300": {
+    "name": "University of Dallas",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "301": {
+    "name": "University of Dayton",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "302": {
+    "name": "University of Delaware",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "303": {
+    "name": "University of Denver",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "304": {
+    "name": "University of Florida",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "305": {
+    "name": "University of Georgia",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "306": {
+    "name": "University of Houston",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "307": {
+    "name": "University of Illinois at Chicago",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "308": {
+    "name": "University of Illinois at Urbana-Champaign",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "309": {
+    "name": "University of Iowa",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "310": {
+    "name": "University of Kansas",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "311": {
+    "name": "University of Kentucky",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "312": {
+    "name": "University of Louisville",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "313": {
+    "name": "University of Maine",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "314": {
+    "name": "University of Mary Washington",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "315": {
+    "name": "University of Maryland, Baltimore County",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "316": {
+    "name": "University of Maryland, College Park",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "317": {
+    "name": "University of Massachusetts Amherst",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "318": {
+    "name": "University of Massachusetts Boston",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "319": {
+    "name": "University of Massachusetts Lowell",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "320": {
+    "name": "University of Memphis",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "321": {
+    "name": "University of Miami",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "322": {
+    "name": "University of Michigan",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "323": {
+    "name": "University of Michigan-Dearborn",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "324": {
+    "name": "University of Minnesota-Duluth",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "325": {
+    "name": "University of Minnesota-Morris",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "326": {
+    "name": "University of Minnesota-Twin Cities",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "327": {
+    "name": "University of Mississippi",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "328": {
+    "name": "University of Missouri-Columbia",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "329": {
+    "name": "University of Nebraska-Lincoln",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "330": {
+    "name": "University of Nevada-Las Vegas",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "331": {
+    "name": "University of Nevada-Reno",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "332": {
+    "name": "University of New Hampshire",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "333": {
+    "name": "University of New Mexico",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "334": {
+    "name": "University of North Carolina at Asheville",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "335": {
+    "name": "University of North Carolina at Chapel Hill",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "336": {
+    "name": "University of North Carolina at Charlotte",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "337": {
+    "name": "University of North Carolina Wilmington",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "338": {
+    "name": "University of North Dakota",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "339": {
+    "name": "University of North Florida",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "340": {
+    "name": "University of North Texas",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "341": {
+    "name": "University of Notre Dame",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "342": {
+    "name": "University of Oklahoma",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "343": {
+    "name": "University of Oregon",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "344": {
+    "name": "University of Pennsylvania",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "345": {
+    "name": "University of Pittsburgh",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "346": {
+    "name": "University of Portland",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "347": {
+    "name": "University of Puget Sound",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "348": {
+    "name": "University of Redlands",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "349": {
+    "name": "University of Rhode Island",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "350": {
+    "name": "University of Richmond",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "351": {
+    "name": "University of Rochester",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "352": {
+    "name": "University of San Diego",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "353": {
+    "name": "University of San Francisco",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "354": {
+    "name": "University of Scranton",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "355": {
+    "name": "University of South Carolina",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "356": {
+    "name": "University of South Dakota",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "357": {
+    "name": "University of South Florida",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "358": {
+    "name": "University of Southern California",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "359": {
+    "name": "University of St Thomas",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "360": {
+    "name": "University of Tampa",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "361": {
+    "name": "University of the Pacific",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "362": {
+    "name": "University of Tulsa",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "363": {
+    "name": "University of Utah",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "364": {
+    "name": "University of Vermont",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "365": {
+    "name": "University of Virginia-Main Campus",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "366": {
+    "name": "University of Washington",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "367": {
+    "name": "University of Wisconsin-La Crosse",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "368": {
+    "name": "University of Wisconsin-Madison",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "369": {
+    "name": "University of Wyoming",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "370": {
+    "name": "Ursinus College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "371": {
+    "name": "Valparaiso University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "372": {
+    "name": "Vanderbilt University",
+    "admitofficer": "",
+    "alum": "Yes"
+  },
+  "373": {
+    "name": "Vassar College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "374": {
+    "name": "Villanova University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "375": {
+    "name": "Virginia Commonwealth University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "376": {
+    "name": "Virginia Military Institute",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "377": {
+    "name": "Virginia Polytechnic Institute and State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "378": {
+    "name": "Wabash College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "379": {
+    "name": "Wake Forest University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "380": {
+    "name": "Washington & Jefferson College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "381": {
+    "name": "Washington and Lee University",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "382": {
+    "name": "Washington College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "383": {
+    "name": "Washington State University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "384": {
+    "name": "Washington University in St. Louis",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "385": {
+    "name": "Wellesley College",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "386": {
+    "name": "Wesleyan University",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "387": {
+    "name": "West Chester University of Pennsylvania",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "388": {
+    "name": "West Virginia University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "389": {
+    "name": "Western Carolina University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "390": {
+    "name": "Western Washington University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "391": {
+    "name": "Westmont College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "392": {
+    "name": "Wheaton College IL",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "393": {
+    "name": "Wheaton College MA",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "394": {
+    "name": "Whitman College",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "395": {
+    "name": "Whittier College",
+    "admitofficer": "",
+    "alum": ""
+  },
+  "396": {
+    "name": "Whitworth University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "397": {
+    "name": "Willamette University",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "398": {
+    "name": "Williams College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "399": {
+    "name": "Wofford College",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "400": {
+    "name": "Worcester Polytechnic Institute",
+    "admitofficer": "Yes",
+    "alum": ""
+  },
+  "401": {
+    "name": "Xavier University",
+    "admitofficer": "No",
+    "alum": ""
+  },
+  "402": {
+    "name": "Yale University",
+    "admitofficer": "Yes",
+    "alum": "Yes"
+  },
+  "403": {
+    "name": "Yeshiva University",
+    "admitofficer": "Yes",
+    "alum": ""
+  }
+}

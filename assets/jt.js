@@ -31,3 +31,19 @@ function finalCalc() {
         document.getElementById("frm").reset();
     }
 }
+
+
+function searchz() {
+    const disp2 = document.getElementById("ret2")
+    const inps2 = document.getElementsByClassName("inputs2")
+    disp2.innerHTML = ""
+    for (let y of inps2) {
+        y.style.borderColor = 'darkgreen';
+    }
+    let valid2 = true;
+    const coldata = require("./data/collegeadmissions.json")
+    console.log(coldata)
+    if (valid2 == true) {
+        document.getElementById("searcher").reset()
+    }
+}

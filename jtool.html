@@ -21,37 +21,55 @@
                     <input type="number" step="0.001" class="inputs" id="mingrade" placeholder="Goal Grade" /><br />
                     <label for="finweight">Enter the weighting of your final (percentage):</label><br />
                     <input type="number" step="0.001" class="inputs" id="finweight" placeholder="Weight" /><br />
-                    <input type="button" value="Calculate" style="margin-top: 40px" onclick="finalCalc()"/>
+                    <input type="button" value="Calculate" style="margin-top: 40px; background-color: lightyellow; padding: 7px 25px 7px 25px; color: darkblue" onclick="finalCalc()"/>
                 </form>
                 <p id="ret"></p>
             </div>
             <div id="colsearch" style="padding-left: 50px;">
                 <!--<h2 style="text-align: center;">Under Construction :)</h2>
     <img src="images/rain.gif" alt="Under construction image" style="width: 1100px; height: 700px; text-align: center;">-->
-                <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 10px; font-size: 30px">College Searcher</h2>
-                <h3 style="font-size: 25px; margin-bottom: 0px;">Years of foreign language required:</h3>
-                <form id="flang">
-                    <input id="oney" type="radio" name="years" />
-                    <label for="oney">1 year</label>
-                    <input id="twoy" type="radio" name="years" />
-                    <label for="twoy">2 years</label>
-                    <input id="threey" type="radio" name="years" />
-                    <label for="threey">3 years</label>
-                    <input id="foury" type="radio" name="years" />
-                    <label for="foury">4 years</label>
-                </form>
-                <input id="demint" type="checkbox" />
-                <label for="demint">Considers demonstrated interest?</label>
-                <input id="interv" type="checkbox" />
-                <label for="interv">Offers interviews?</label> <br>
-                <h3 style="font-size: 25px; margin-bottom: 0px;">Testing Policies:</h3>
-                <form id="testpol">
-                    <input id="supact" type="checkbox" />
-                    <label for="supact">Superscores ACT?</label>
-                    <input id="supsat" type="checkbox" />
-                    <label for="supsat">Superscores SAT?</label>
-                </form>
-                <p id="ret2"></p>
+                <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 10px; margin-bottom: 0px; font-size: 30px">College Searcher</h2>
+                <div style="display: flex;">
+                    <form id="searcher">
+                        <h3 style="font-size: 25px; margin-bottom: 0px;">Years of foreign language required:</h3>
+                        <input id="oney" type="radio" name="years" value="One" />
+                        <label for="oney">1 year</label>
+                        <input id="twoy" type="radio" name="years" value="Two" />
+                        <label for="twoy">2 years</label>
+                        <input id="threey" type="radio" name="years" value="Three" />
+                        <label for="threey">3 years</label>
+                        <input id="foury" type="radio" name="years" value="Four" />
+                        <label for="foury">4 years</label>
+                        <h3 style="font-size: 25px; margin-bottom: 0px;">Testing Policies:</h3>
+                        <input id="supact" type="checkbox" />
+                        <label for="supact">Superscores ACT?</label>
+                        <input id="supsat" type="checkbox" />
+                        <label for="supsat">Superscores SAT?</label><br>
+                        <input id="scorechoice" type="checkbox" />
+                        <label for="scorechoice">Allows Score Choice?</label>
+                        <h3 style="font-size: 25px; margin-bottom: 0px;">Test Optional:</h3>
+                        <input id="opt" type="radio" name="toptional" value="yes" />
+                        <label for="opt">Yes</label>
+                        <input id="notopt" type="radio" name="toptional" value="no" />
+                        <label for="notopt">No</label>
+                        <input id="tblind" type="radio" name="toptional" value="blind" />
+                        <label for="tblind">Test-blind</label>
+                        <h3 style="font-size: 25px; margin-bottom: 0px;">Top 25%?:</h3>
+                        <label for="actcomp">Your ACT Composite (1-36):</label>
+                        <input type="number" step="1" class="inputs2" placeholder="ACT Composite" id="actcomp" style="width: 200px" /> <br>
+                        <label for="satrw">Your SAT Reading/Writing Score (200-800):</label>
+                        <input type="number" step="1" class="inputs2" placeholder="SAT R/W" id="satrw" style="width: 200px" /> <br>
+                        <label for="satm">Your SAT Math Score (200-800):</label>
+                        <input type="number" step="1" class="inputs2" placeholder="SAT Math" id="satm" style="width: 200px" /> <br>
+                        <h3 style="font-size: 25px; margin-bottom: 0px;">Other:</h3>
+                        <input id="demint" type="checkbox" />
+                        <label for="demint">Considers demonstrated interest?</label>
+                        <input id="interv" type="checkbox" />
+                        <label for="interv">Offers interviews?</label> <br>
+                        <input type="button" value="Search" style="margin-top: 15px; background-color: lightyellow; padding: 7px 25px 7px 25px; color: darkblue" onclick="searchz()" />
+                    </form>
+                    <div id="ret2" style="display: grid; background-color: red;">testtestesttes</div>
+                </div>
             </div>
             <div id="div3">
 

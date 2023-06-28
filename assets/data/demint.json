@@ -1,0 +1,1294 @@
+{
+  "0": {
+    "name": "Adelphi University",
+    "interest": "Considered"
+  },
+  "1": {
+    "name": "Agnes Scott College",
+    "interest": "Considered"
+  },
+  "2": {
+    "name": "Alfred University",
+    "interest": "Considered"
+  },
+  "3": {
+    "name": "Allegheny College",
+    "interest": "Considered"
+  },
+  "4": {
+    "name": "American University",
+    "interest": "Considered"
+  },
+  "5": {
+    "name": "Amherst College",
+    "interest": "Not Considered"
+  },
+  "6": {
+    "name": "Appalachian State University",
+    "interest": "Considered"
+  },
+  "7": {
+    "name": "Arizona State University-Tempe",
+    "interest": "Not Considered"
+  },
+  "8": {
+    "name": "Auburn University",
+    "interest": "Considered"
+  },
+  "9": {
+    "name": "Austin College",
+    "interest": "Considered"
+  },
+  "10": {
+    "name": "Babson College",
+    "interest": "Considered"
+  },
+  "11": {
+    "name": "Bard College",
+    "interest": "Considered"
+  },
+  "12": {
+    "name": "Barnard College",
+    "interest": "Considered"
+  },
+  "13": {
+    "name": "Bates College",
+    "interest": "Considered"
+  },
+  "14": {
+    "name": "Baylor University",
+    "interest": "Considered"
+  },
+  "15": {
+    "name": "Belmont University",
+    "interest": "Not Considered"
+  },
+  "16": {
+    "name": "Beloit College",
+    "interest": "Considered"
+  },
+  "17": {
+    "name": "Bennington College",
+    "interest": "Not Considered"
+  },
+  "18": {
+    "name": "Bentley University",
+    "interest": "Considered"
+  },
+  "19": {
+    "name": "Berea College",
+    "interest": "Considered"
+  },
+  "20": {
+    "name": "Binghamton University",
+    "interest": "Considered"
+  },
+  "21": {
+    "name": "Boston College",
+    "interest": "Not Considered"
+  },
+  "22": {
+    "name": "Boston University",
+    "interest": "Considered"
+  },
+  "23": {
+    "name": "Bowdoin College",
+    "interest": "Not Considered"
+  },
+  "24": {
+    "name": "Bradley University",
+    "interest": "Considered"
+  },
+  "25": {
+    "name": "Brandeis University",
+    "interest": "Considered"
+  },
+  "26": {
+    "name": "Brigham Young University-Provo",
+    "interest": "Considered"
+  },
+  "27": {
+    "name": "Brown University",
+    "interest": "Not Considered"
+  },
+  "28": {
+    "name": "Bryant University",
+    "interest": "Considered"
+  },
+  "29": {
+    "name": "Bryn Mawr College",
+    "interest": "Not Considered"
+  },
+  "30": {
+    "name": "Bucknell University",
+    "interest": "Not Considered"
+  },
+  "31": {
+    "name": "Butler University",
+    "interest": "Considered"
+  },
+  "32": {
+    "name": "California Institute of Technology",
+    "interest": "Not Considered"
+  },
+  "33": {
+    "name": "California Polytechnic State University-San Luis Obispo",
+    "interest": "Not Considered"
+  },
+  "34": {
+    "name": "California State Polytechnic University-Pomona",
+    "interest": "Not Considered"
+  },
+  "35": {
+    "name": "California State University-Fresno",
+    "interest": "Not Considered"
+  },
+  "36": {
+    "name": "California State University-Fullerton",
+    "interest": "Not Considered"
+  },
+  "37": {
+    "name": "California State University-Long Beach",
+    "interest": "Not Considered"
+  },
+  "38": {
+    "name": "California State University-Los Angeles",
+    "interest": "Not Considered"
+  },
+  "39": {
+    "name": "Carleton College",
+    "interest": "Not Considered"
+  },
+  "40": {
+    "name": "Carnegie Mellon University",
+    "interest": "Not Considered"
+  },
+  "41": {
+    "name": "Case Western Reserve University",
+    "interest": "Considered"
+  },
+  "42": {
+    "name": "Centre College",
+    "interest": "Not Considered"
+  },
+  "43": {
+    "name": "Chapman University",
+    "interest": "Considered"
+  },
+  "44": {
+    "name": "Claremont McKenna College",
+    "interest": "Not Considered"
+  },
+  "45": {
+    "name": "Clark University",
+    "interest": "Considered"
+  },
+  "46": {
+    "name": "Clarkson University",
+    "interest": "Considered"
+  },
+  "47": {
+    "name": "Clemson University",
+    "interest": "Not Considered"
+  },
+  "48": {
+    "name": "Coastal Carolina University",
+    "interest": "Not Considered"
+  },
+  "49": {
+    "name": "Colby College",
+    "interest": "Considered"
+  },
+  "50": {
+    "name": "Colgate University",
+    "interest": "Not Considered"
+  },
+  "51": {
+    "name": "College of Charleston",
+    "interest": "Considered"
+  },
+  "52": {
+    "name": "College of the Holy Cross",
+    "interest": "Not Considered"
+  },
+  "53": {
+    "name": "College of William and Mary",
+    "interest": "Considered"
+  },
+  "54": {
+    "name": "Colorado College",
+    "interest": "Considered"
+  },
+  "55": {
+    "name": "Colorado School of Mines",
+    "interest": "Considered"
+  },
+  "56": {
+    "name": "Colorado State University-Fort Collins",
+    "interest": "Not Considered"
+  },
+  "57": {
+    "name": "Columbia University in the City of New York",
+    "interest": "Not Considered"
+  },
+  "58": {
+    "name": "Connecticut College",
+    "interest": "Considered"
+  },
+  "59": {
+    "name": "Cooper Union for the Advancement of Science and Art",
+    "interest": "Considered"
+  },
+  "60": {
+    "name": "Cornell University",
+    "interest": "Not Considered"
+  },
+  "61": {
+    "name": "Creighton University",
+    "interest": "Considered"
+  },
+  "62": {
+    "name": "CUNY Bernard M Baruch College",
+    "interest": "Not Considered"
+  },
+  "63": {
+    "name": "CUNY Brooklyn College",
+    "interest": "Not Considered"
+  },
+  "64": {
+    "name": "CUNY Hunter College",
+    "interest": "Not Considered"
+  },
+  "65": {
+    "name": "Dartmouth College",
+    "interest": "Considered"
+  },
+  "66": {
+    "name": "Davidson College",
+    "interest": "Not Considered"
+  },
+  "67": {
+    "name": "Denison University",
+    "interest": "Considered"
+  },
+  "68": {
+    "name": "DePaul University",
+    "interest": "Considered"
+  },
+  "69": {
+    "name": "DePauw University",
+    "interest": "Considered"
+  },
+  "70": {
+    "name": "Dickinson College",
+    "interest": "Considered"
+  },
+  "71": {
+    "name": "Drew University",
+    "interest": "Considered"
+  },
+  "72": {
+    "name": "Drexel University",
+    "interest": "Considered"
+  },
+  "73": {
+    "name": "Duke University",
+    "interest": "Considered"
+  },
+  "74": {
+    "name": "Duquesne University",
+    "interest": "Considered"
+  },
+  "75": {
+    "name": "Earlham College",
+    "interest": "Not Considered"
+  },
+  "76": {
+    "name": "East Carolina University",
+    "interest": "Considered"
+  },
+  "77": {
+    "name": "Eckerd College",
+    "interest": "Considered"
+  },
+  "78": {
+    "name": "Elon University",
+    "interest": "Considered"
+  },
+  "79": {
+    "name": "Emerson College",
+    "interest": "Not Considered"
+  },
+  "80": {
+    "name": "Emory University",
+    "interest": "Not Considered"
+  },
+  "81": {
+    "name": "Fairfield University",
+    "interest": "Considered"
+  },
+  "82": {
+    "name": "Florida Atlantic University",
+    "interest": "Considered"
+  },
+  "83": {
+    "name": "Florida Gulf Coast University",
+    "interest": "Not Considered"
+  },
+  "84": {
+    "name": "Florida Institute of Technology",
+    "interest": "Considered"
+  },
+  "85": {
+    "name": "Florida International University",
+    "interest": "Considered"
+  },
+  "86": {
+    "name": "Florida Southern College",
+    "interest": "Considered"
+  },
+  "87": {
+    "name": "Florida State University",
+    "interest": "Not Considered"
+  },
+  "88": {
+    "name": "Fordham University",
+    "interest": "Considered"
+  },
+  "89": {
+    "name": "Franklin and Marshall College",
+    "interest": "Considered"
+  },
+  "90": {
+    "name": "Franklin W Olin College of Engineering",
+    "interest": "Considered"
+  },
+  "91": {
+    "name": "Furman University",
+    "interest": "Considered"
+  },
+  "92": {
+    "name": "George Mason University",
+    "interest": "Considered"
+  },
+  "93": {
+    "name": "George Washington University",
+    "interest": "Considered"
+  },
+  "94": {
+    "name": "Georgetown University",
+    "interest": "Not Considered"
+  },
+  "95": {
+    "name": "Georgia College & State University",
+    "interest": "Considered"
+  },
+  "96": {
+    "name": "Georgia Institute of Technology-Main Campus",
+    "interest": "Considered"
+  },
+  "97": {
+    "name": "Georgia State University",
+    "interest": "Not Considered"
+  },
+  "98": {
+    "name": "Gettysburg College",
+    "interest": "Considered"
+  },
+  "99": {
+    "name": "Gonzaga University",
+    "interest": "Considered"
+  },
+  "100": {
+    "name": "Grinnell College",
+    "interest": "Considered"
+  },
+  "101": {
+    "name": "Gustavus Adolphus College",
+    "interest": "Considered"
+  },
+  "102": {
+    "name": "Hamilton College",
+    "interest": "Considered"
+  },
+  "103": {
+    "name": "Harvard University",
+    "interest": "Not Considered"
+  },
+  "104": {
+    "name": "Harvey Mudd College",
+    "interest": "Not Considered"
+  },
+  "105": {
+    "name": "Haverford College",
+    "interest": "Considered"
+  },
+  "106": {
+    "name": "Hendrix College",
+    "interest": "Not Considered"
+  },
+  "107": {
+    "name": "High Point University",
+    "interest": "Considered"
+  },
+  "108": {
+    "name": "Hobart William Smith Colleges",
+    "interest": "Considered"
+  },
+  "109": {
+    "name": "Hofstra University",
+    "interest": "Considered"
+  },
+  "110": {
+    "name": "Howard University",
+    "interest": "Considered"
+  },
+  "111": {
+    "name": "Illinois College",
+    "interest": "Considered"
+  },
+  "112": {
+    "name": "Illinois Institute of Technology",
+    "interest": "Considered"
+  },
+  "113": {
+    "name": "Illinois Wesleyan University",
+    "interest": "Considered"
+  },
+  "114": {
+    "name": "Indiana University-Bloomington",
+    "interest": "Not Considered"
+  },
+  "115": {
+    "name": "Indiana University-Purdue University-Indianapolis",
+    "interest": "Not Considered"
+  },
+  "116": {
+    "name": "Iowa State University",
+    "interest": "Not Considered"
+  },
+  "117": {
+    "name": "Ithaca College",
+    "interest": "Considered"
+  },
+  "118": {
+    "name": "James Madison University",
+    "interest": "Not Considered"
+  },
+  "119": {
+    "name": "Johns Hopkins University",
+    "interest": "Not Considered"
+  },
+  "120": {
+    "name": "Juniata College",
+    "interest": "Considered"
+  },
+  "121": {
+    "name": "Kalamazoo College",
+    "interest": "Considered"
+  },
+  "122": {
+    "name": "Kansas State University",
+    "interest": "Considered"
+  },
+  "123": {
+    "name": "Kenyon College",
+    "interest": "Considered"
+  },
+  "124": {
+    "name": "Lafayette College",
+    "interest": "Considered"
+  },
+  "125": {
+    "name": "Lake Forest College",
+    "interest": "Considered"
+  },
+  "126": {
+    "name": "Lawrence University",
+    "interest": "Considered"
+  },
+  "127": {
+    "name": "Lehigh University",
+    "interest": "Considered"
+  },
+  "128": {
+    "name": "Lewis & Clark College",
+    "interest": "Considered"
+  },
+  "129": {
+    "name": "Linfield College-McMinnville Campus",
+    "interest": "Considered"
+  },
+  "130": {
+    "name": "Loyola Marymount University",
+    "interest": "Not Considered"
+  },
+  "131": {
+    "name": "Loyola University Chicago",
+    "interest": "Considered"
+  },
+  "132": {
+    "name": "Loyola University Maryland",
+    "interest": "Not Considered"
+  },
+  "133": {
+    "name": "Macalester College",
+    "interest": "Not Considered"
+  },
+  "134": {
+    "name": "Manhattan College",
+    "interest": "Considered"
+  },
+  "135": {
+    "name": "Marist College",
+    "interest": "Considered"
+  },
+  "136": {
+    "name": "Marquette University",
+    "interest": "Not Considered"
+  },
+  "137": {
+    "name": "Massachusetts College of Liberal Arts",
+    "interest": "Considered"
+  },
+  "138": {
+    "name": "Massachusetts Institute of Technology",
+    "interest": "Not Considered"
+  },
+  "139": {
+    "name": "Miami University-Oxford",
+    "interest": "Not Considered"
+  },
+  "140": {
+    "name": "Michigan State University",
+    "interest": "Considered"
+  },
+  "141": {
+    "name": "Michigan Technological University",
+    "interest": "Not Considered"
+  },
+  "142": {
+    "name": "Middlebury College",
+    "interest": "Considered"
+  },
+  "143": {
+    "name": "Milwaukee School of Engineering",
+    "interest": "Not Considered"
+  },
+  "144": {
+    "name": "Morehouse College",
+    "interest": "Considered"
+  },
+  "145": {
+    "name": "Mount Holyoke College",
+    "interest": "Considered"
+  },
+  "146": {
+    "name": "Muhlenberg College",
+    "interest": "Considered"
+  },
+  "147": {
+    "name": "New College of Florida",
+    "interest": "Considered"
+  },
+  "148": {
+    "name": "New Jersey Institute of Technology",
+    "interest": "Considered"
+  },
+  "149": {
+    "name": "New York Institute of Technology",
+    "interest": "Considered"
+  },
+  "150": {
+    "name": "New York University",
+    "interest": "Considered"
+  },
+  "151": {
+    "name": "North Carolina State University at Raleigh",
+    "interest": "Not Considered"
+  },
+  "152": {
+    "name": "Northeastern University",
+    "interest": "Considered"
+  },
+  "153": {
+    "name": "Northern Arizona University",
+    "interest": "Not Considered"
+  },
+  "154": {
+    "name": "Northwestern University",
+    "interest": "Considered"
+  },
+  "155": {
+    "name": "Oberlin College",
+    "interest": "Considered"
+  },
+  "156": {
+    "name": "Occidental College",
+    "interest": "Considered"
+  },
+  "157": {
+    "name": "Ohio State University-Main Campus",
+    "interest": "Not Considered"
+  },
+  "158": {
+    "name": "Ohio University-Main Campus",
+    "interest": "Not Considered"
+  },
+  "159": {
+    "name": "Ohio Wesleyan University",
+    "interest": "Not Considered"
+  },
+  "160": {
+    "name": "Oklahoma State University-Main Campus",
+    "interest": "Not Considered"
+  },
+  "161": {
+    "name": "Oregon State University",
+    "interest": "Considered"
+  },
+  "162": {
+    "name": "Pennsylvania State University-Main Campus",
+    "interest": "Not Considered"
+  },
+  "163": {
+    "name": "Pepperdine University",
+    "interest": "Not Considered"
+  },
+  "164": {
+    "name": "Pitzer College",
+    "interest": "Considered"
+  },
+  "165": {
+    "name": "Pomona College",
+    "interest": "Not Considered"
+  },
+  "166": {
+    "name": "Princeton University",
+    "interest": "Not Considered"
+  },
+  "167": {
+    "name": "Providence College",
+    "interest": "Considered"
+  },
+  "168": {
+    "name": "Purdue University-Main Campus",
+    "interest": "Considered"
+  },
+  "169": {
+    "name": "Quinnipiac University",
+    "interest": "Considered"
+  },
+  "170": {
+    "name": "Ramapo College of New Jersey",
+    "interest": "Considered"
+  },
+  "171": {
+    "name": "Reed College",
+    "interest": "Considered"
+  },
+  "172": {
+    "name": "Rensselaer Polytechnic Institute",
+    "interest": "Considered"
+  },
+  "173": {
+    "name": "Rhodes College",
+    "interest": "Considered"
+  },
+  "174": {
+    "name": "Rice University",
+    "interest": "Considered"
+  },
+  "175": {
+    "name": "Rochester Institute of Technology",
+    "interest": "Considered"
+  },
+  "176": {
+    "name": "Rollins College",
+    "interest": "Considered"
+  },
+  "177": {
+    "name": "Rose-Hulman Institute of Technology",
+    "interest": "Considered"
+  },
+  "178": {
+    "name": "Rutgers University-New Brunswick",
+    "interest": "Not Considered"
+  },
+  "179": {
+    "name": "Saint Johns University",
+    "interest": "Not Considered"
+  },
+  "180": {
+    "name": "Saint Mary's College of California",
+    "interest": "Considered"
+  },
+  "181": {
+    "name": "San Diego State University",
+    "interest": "Not Considered"
+  },
+  "182": {
+    "name": "San Francisco State University",
+    "interest": "Not Considered"
+  },
+  "183": {
+    "name": "San Jose State University",
+    "interest": "Not Considered"
+  },
+  "184": {
+    "name": "Santa Clara University",
+    "interest": "Considered"
+  },
+  "185": {
+    "name": "Sarah Lawrence College",
+    "interest": "Considered"
+  },
+  "186": {
+    "name": "Scripps College",
+    "interest": "Not Considered"
+  },
+  "187": {
+    "name": "Seattle University",
+    "interest": "Considered"
+  },
+  "188": {
+    "name": "Seton Hall University",
+    "interest": "Considered"
+  },
+  "189": {
+    "name": "Skidmore College",
+    "interest": "Considered"
+  },
+  "190": {
+    "name": "Smith College",
+    "interest": "Not Considered"
+  },
+  "191": {
+    "name": "Southern Methodist University",
+    "interest": "Considered"
+  },
+  "192": {
+    "name": "Spelman College",
+    "interest": "Considered"
+  },
+  "193": {
+    "name": "St John's University-New York",
+    "interest": "Considered"
+  },
+  "194": {
+    "name": "St Lawrence University",
+    "interest": "Considered"
+  },
+  "195": {
+    "name": "St Olaf College",
+    "interest": "Considered"
+  },
+  "196": {
+    "name": "St. John's College",
+    "interest": "Considered"
+  },
+  "197": {
+    "name": "St. John's College",
+    "interest": "Considered"
+  },
+  "198": {
+    "name": "St. Mary's College of Maryland",
+    "interest": "Considered"
+  },
+  "199": {
+    "name": "Stanford University",
+    "interest": "Not Considered"
+  },
+  "200": {
+    "name": "Stetson University",
+    "interest": "Not Considered"
+  },
+  "201": {
+    "name": "Stevens Institute of Technology",
+    "interest": "Considered"
+  },
+  "202": {
+    "name": "Stony Brook University",
+    "interest": "Considered"
+  },
+  "203": {
+    "name": "SUNY at Albany",
+    "interest": "Not Considered"
+  },
+  "204": {
+    "name": "SUNY College at Geneseo",
+    "interest": "Considered"
+  },
+  "205": {
+    "name": "SUNY College at Oswego",
+    "interest": "Considered"
+  },
+  "206": {
+    "name": "SUNY College of Environmental Science and Forestry",
+    "interest": "Considered"
+  },
+  "207": {
+    "name": "SUNY Oneonta",
+    "interest": "Considered"
+  },
+  "208": {
+    "name": "Susquehanna University",
+    "interest": "Considered"
+  },
+  "209": {
+    "name": "Swarthmore College",
+    "interest": "Not Considered"
+  },
+  "210": {
+    "name": "Syracuse University",
+    "interest": "Considered"
+  },
+  "211": {
+    "name": "Temple University",
+    "interest": "Considered"
+  },
+  "212": {
+    "name": "Texas A & M University-College Station",
+    "interest": "Considered"
+  },
+  "213": {
+    "name": "Texas Christian University",
+    "interest": "Considered"
+  },
+  "214": {
+    "name": "Texas Tech University",
+    "interest": "Considered"
+  },
+  "215": {
+    "name": "The College of New Jersey",
+    "interest": "Considered"
+  },
+  "216": {
+    "name": "The College of Wooster",
+    "interest": "Considered"
+  },
+  "217": {
+    "name": "The University of Tennessee-Knoxville",
+    "interest": "Considered"
+  },
+  "218": {
+    "name": "The University of Texas at Austin",
+    "interest": "Not Considered"
+  },
+  "219": {
+    "name": "The University of Texas at Dallas",
+    "interest": "Considered"
+  },
+  "220": {
+    "name": "The University of the South",
+    "interest": "Considered"
+  },
+  "221": {
+    "name": "Trinity College",
+    "interest": "Considered"
+  },
+  "222": {
+    "name": "Trinity University",
+    "interest": "Considered"
+  },
+  "223": {
+    "name": "Tufts University",
+    "interest": "Considered"
+  },
+  "224": {
+    "name": "Tulane University of Louisiana",
+    "interest": "Considered"
+  },
+  "225": {
+    "name": "Union College",
+    "interest": "Considered"
+  },
+  "226": {
+    "name": "United States Air Force Academy",
+    "interest": "Considered"
+  },
+  "227": {
+    "name": "United States Coast Guard Academy",
+    "interest": "Considered"
+  },
+  "228": {
+    "name": "United States Merchant Marine Academy",
+    "interest": "Considered"
+  },
+  "229": {
+    "name": "United States Military Academy",
+    "interest": "Considered"
+  },
+  "230": {
+    "name": "United States Naval Academy",
+    "interest": "Considered"
+  },
+  "231": {
+    "name": "University at Buffalo",
+    "interest": "Not Considered"
+  },
+  "232": {
+    "name": "University of Alabama at Birmingham",
+    "interest": "Not Considered"
+  },
+  "233": {
+    "name": "University of Arizona",
+    "interest": "Considered"
+  },
+  "234": {
+    "name": "University of Arkansas",
+    "interest": "Not Considered"
+  },
+  "235": {
+    "name": "University of California-Berkeley",
+    "interest": "Not Considered"
+  },
+  "236": {
+    "name": "University of California-Davis",
+    "interest": "Not Considered"
+  },
+  "237": {
+    "name": "University of California-Irvine",
+    "interest": "Not Considered"
+  },
+  "238": {
+    "name": "University of California-Los Angeles",
+    "interest": "Not Considered"
+  },
+  "239": {
+    "name": "University of California-Merced",
+    "interest": "Not Considered"
+  },
+  "240": {
+    "name": "University of California-Riverside",
+    "interest": "Not Considered"
+  },
+  "241": {
+    "name": "University of California-San Diego",
+    "interest": "Not Considered"
+  },
+  "242": {
+    "name": "University of California-Santa Barbara",
+    "interest": "Not Considered"
+  },
+  "243": {
+    "name": "University of California-Santa Cruz",
+    "interest": "Not Considered"
+  },
+  "244": {
+    "name": "University of Central Florida",
+    "interest": "Considered"
+  },
+  "245": {
+    "name": "University of Chicago",
+    "interest": "Considered"
+  },
+  "246": {
+    "name": "University of Cincinnati-Main Campus",
+    "interest": "Not Considered"
+  },
+  "247": {
+    "name": "University of Colorado Boulder",
+    "interest": "Not Considered"
+  },
+  "248": {
+    "name": "University of Connecticut",
+    "interest": "Considered"
+  },
+  "249": {
+    "name": "University of Dayton",
+    "interest": "Considered"
+  },
+  "250": {
+    "name": "University of Delaware",
+    "interest": "Considered"
+  },
+  "251": {
+    "name": "University of Denver",
+    "interest": "Considered"
+  },
+  "252": {
+    "name": "University of Florida",
+    "interest": "Not Considered"
+  },
+  "253": {
+    "name": "University of Georgia",
+    "interest": "Not Considered"
+  },
+  "254": {
+    "name": "University of Houston",
+    "interest": "Not Considered"
+  },
+  "255": {
+    "name": "University of Illinois at Chicago",
+    "interest": "Not Considered"
+  },
+  "256": {
+    "name": "University of Illinois at Urbana-Champaign",
+    "interest": "Not Considered"
+  },
+  "257": {
+    "name": "University of Iowa",
+    "interest": "Not Considered"
+  },
+  "258": {
+    "name": "University of Kentucky",
+    "interest": "Not Considered"
+  },
+  "259": {
+    "name": "University of Louisville",
+    "interest": "Not Considered"
+  },
+  "260": {
+    "name": "University of Maine",
+    "interest": "Not Considered"
+  },
+  "261": {
+    "name": "University of Mary Washington",
+    "interest": "Considered"
+  },
+  "262": {
+    "name": "University of Maryland-Baltimore County",
+    "interest": "Not Considered"
+  },
+  "263": {
+    "name": "University of Maryland-College Park",
+    "interest": "Not Considered"
+  },
+  "264": {
+    "name": "University of Massachusetts-Amherst",
+    "interest": "Considered"
+  },
+  "265": {
+    "name": "University of Massachusetts-Boston",
+    "interest": "Not Considered"
+  },
+  "266": {
+    "name": "University of Miami",
+    "interest": "Considered"
+  },
+  "267": {
+    "name": "University of Michigan-Ann Arbor",
+    "interest": "Considered"
+  },
+  "268": {
+    "name": "University of Minnesota-Morris",
+    "interest": "Considered"
+  },
+  "269": {
+    "name": "University of Minnesota-Twin Cities",
+    "interest": "Not Considered"
+  },
+  "270": {
+    "name": "University of Mississippi",
+    "interest": "Not Considered"
+  },
+  "271": {
+    "name": "University of Missouri-Columbia",
+    "interest": "Not Considered"
+  },
+  "272": {
+    "name": "University of Nebraska-Lincoln",
+    "interest": "Not Considered"
+  },
+  "273": {
+    "name": "University of Nevada-Las Vegas",
+    "interest": "Not Considered"
+  },
+  "274": {
+    "name": "University of Nevada-Reno",
+    "interest": "Not Considered"
+  },
+  "275": {
+    "name": "University of New Hampshire-Main Campus",
+    "interest": "Not Considered"
+  },
+  "276": {
+    "name": "University of New Mexico-Main Campus",
+    "interest": "Not Considered"
+  },
+  "277": {
+    "name": "University of North Carolina at Asheville",
+    "interest": "Considered"
+  },
+  "278": {
+    "name": "University of North Carolina at Chapel Hill",
+    "interest": "Not Considered"
+  },
+  "279": {
+    "name": "University of North Carolina at Charlotte",
+    "interest": "Considered"
+  },
+  "280": {
+    "name": "University of North Carolina at Greensboro",
+    "interest": "Not Considered"
+  },
+  "281": {
+    "name": "University of North Carolina Wilmington",
+    "interest": "Considered"
+  },
+  "282": {
+    "name": "University of Notre Dame",
+    "interest": "Considered"
+  },
+  "283": {
+    "name": "University of Oklahoma-Norman Campus",
+    "interest": "Considered"
+  },
+  "284": {
+    "name": "University of Oregon",
+    "interest": "Not Considered"
+  },
+  "285": {
+    "name": "University of Pennsylvania",
+    "interest": "Not Considered"
+  },
+  "286": {
+    "name": "University of Pittsburgh-Pittsburgh Campus",
+    "interest": "Considered"
+  },
+  "287": {
+    "name": "University of Portland",
+    "interest": "Considered"
+  },
+  "288": {
+    "name": "University of Puget Sound",
+    "interest": "Considered"
+  },
+  "289": {
+    "name": "University of Redlands",
+    "interest": "Not Considered"
+  },
+  "290": {
+    "name": "University of Rhode Island",
+    "interest": "Considered"
+  },
+  "291": {
+    "name": "University of Richmond",
+    "interest": "Not Considered"
+  },
+  "292": {
+    "name": "University of Rochester",
+    "interest": "Considered"
+  },
+  "293": {
+    "name": "University of San Diego",
+    "interest": "Considered"
+  },
+  "294": {
+    "name": "University of San Francisco",
+    "interest": "Considered"
+  },
+  "295": {
+    "name": "University of South Carolina-Columbia",
+    "interest": "Not Considered"
+  },
+  "296": {
+    "name": "University of South Florida-Main Campus",
+    "interest": "Not Considered"
+  },
+  "297": {
+    "name": "University of Southern California",
+    "interest": "Not Considered"
+  },
+  "298": {
+    "name": "University of Tulsa",
+    "interest": "Considered"
+  },
+  "299": {
+    "name": "University of Utah",
+    "interest": "Not Considered"
+  },
+  "300": {
+    "name": "University of Vermont",
+    "interest": "Considered"
+  },
+  "301": {
+    "name": "University of Virginia-Main Campus",
+    "interest": "Not Considered"
+  },
+  "302": {
+    "name": "University of Washington-Seattle Campus",
+    "interest": "Not Considered"
+  },
+  "303": {
+    "name": "University of Wisconsin-Madison",
+    "interest": "Not Considered"
+  },
+  "304": {
+    "name": "Vanderbilt University",
+    "interest": "Not Considered"
+  },
+  "305": {
+    "name": "Vassar College",
+    "interest": "Not Considered"
+  },
+  "306": {
+    "name": "Villanova University",
+    "interest": "Considered"
+  },
+  "307": {
+    "name": "Virginia Commonwealth University",
+    "interest": "Not Considered"
+  },
+  "308": {
+    "name": "Virginia Polytechnic Institute and State University",
+    "interest": "Not Considered"
+  },
+  "309": {
+    "name": "Wake Forest University",
+    "interest": "Considered"
+  },
+  "310": {
+    "name": "Washington and Lee University",
+    "interest": "Considered"
+  },
+  "311": {
+    "name": "Washington University in St Louis",
+    "interest": "Considered"
+  },
+  "312": {
+    "name": "Wellesley College",
+    "interest": "Considered"
+  },
+  "313": {
+    "name": "Wesleyan University",
+    "interest": "Not Considered"
+  },
+  "314": {
+    "name": "West Virginia University",
+    "interest": "Considered"
+  },
+  "315": {
+    "name": "Wheaton College",
+    "interest": "Considered"
+  },
+  "316": {
+    "name": "Wheaton College",
+    "interest": "Considered"
+  },
+  "317": {
+    "name": "Whitman College",
+    "interest": "Considered"
+  },
+  "318": {
+    "name": "Willamette University",
+    "interest": "Not Considered"
+  },
+  "319": {
+    "name": "Williams College",
+    "interest": "Not Considered"
+  },
+  "320": {
+    "name": "Worcester Polytechnic Institute",
+    "interest": "Considered"
+  },
+  "321": {
+    "name": "Yale University",
+    "interest": "Not Considered"
+  },
+  "322": {
+    "name": "Yeshiva University",
+    "interest": "Considered"
+  }
+}
