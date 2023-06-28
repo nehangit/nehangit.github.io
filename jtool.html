@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>The J Tool</title>
+        <title>The G Tool</title>
         <link type="image/png" sizes="32x32" rel="icon" href="images/hat-32.png">
         <link rel="stylesheet" href="assets/genstyle.css">
     </head>
     <body>
         <button onclick="location.href = 'index.html';" class="button">HOME</button>
         <button onclick="location.href = 'about.html';" class="button">ABOUT ME</button>
-        <h1 id="jtoolhead">THE J TOOL</h1>
-        <h2 style="text-align: center; font-size: 20px; margin-top: 6px; color: darkred">Named after the great valedictorian, Jeffrey Yang.</h2>
+        <h1 id="jtoolhead">THE G TOOL</h1>
+        <h2 style="text-align: center; font-size: 20px; margin-top: 6px; color: darkred">A tool made for every grinder</h2>
         <hr style="color: darkgray">
         <div style="display: flex;">
             <div id="fgpac">
@@ -25,9 +25,33 @@
                 </form>
                 <p id="ret"></p>
             </div>
-            <div id="undercon" style="padding-left: 50px;">
-                <h2 style="text-align: center;">Under Construction :)</h2>
-                <img src="images/rain.gif" alt="Under construction image" style="width: 1100px; height: 700px; text-align: center;">
+            <div id="colsearch" style="padding-left: 50px;">
+                <!--<h2 style="text-align: center;">Under Construction :)</h2>
+    <img src="images/rain.gif" alt="Under construction image" style="width: 1100px; height: 700px; text-align: center;">-->
+                <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 10px; font-size: 30px">College Searcher</h2>
+                <h3 style="font-size: 25px; margin-bottom: 0px;">Years of foreign language required:</h3>
+                <form id="flang">
+                    <input id="oney" type="radio" name="years" />
+                    <label for="oney">1 year</label>
+                    <input id="twoy" type="radio" name="years" />
+                    <label for="twoy">2 years</label>
+                    <input id="threey" type="radio" name="years" />
+                    <label for="threey">3 years</label>
+                    <input id="foury" type="radio" name="years" />
+                    <label for="foury">4 years</label>
+                </form>
+                <input id="demint" type="checkbox" />
+                <label for="demint">Considers demonstrated interest?</label>
+                <input id="interv" type="checkbox" />
+                <label for="interv">Offers interviews?</label> <br>
+                <h3 style="font-size: 25px; margin-bottom: 0px;">Testing Policies:</h3>
+                <form id="testpol">
+                    <input id="supact" type="checkbox" />
+                    <label for="supact">Superscores ACT?</label>
+                    <input id="supsat" type="checkbox" />
+                    <label for="supsat">Superscores SAT?</label>
+                </form>
+                <p id="ret2"></p>
             </div>
             <div id="div3">
 

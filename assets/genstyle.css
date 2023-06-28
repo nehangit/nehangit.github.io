@@ -21,6 +21,15 @@ h1 {
     height: 800px;
     width: 500px;
     background-color: white;
+    border-radius: 25px;
+}
+
+#colsearch {
+    margin-left: 60px;
+    height: 800px;
+    width: 1200px;
+    background-color: lightgrey;
+    border-radius: 25px;
 }
 
 input.inputs {
