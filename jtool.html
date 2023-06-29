@@ -16,11 +16,11 @@
                 <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 20px;">Finals Grade Calculator</h2>
                 <form id="frm" style="padding-left: 20px;">
                     <label for="current">Enter your current grade (percentage):</label><br />
-                    <input type="number" step="0.001" class="inputs" id="current" placeholder="Current Grade" /><br />
+                    <input type="number" step="0.01" class="inputs" id="current" placeholder="Current Grade" /><br />
                     <label for="mingrade">Enter the minimum grade you would like (percentage):</label><br />
-                    <input type="number" step="0.001" class="inputs" id="mingrade" placeholder="Goal Grade" /><br />
+                    <input type="number" step="0.01" class="inputs" id="mingrade" placeholder="Goal Grade" /><br />
                     <label for="finweight">Enter the weighting of your final (percentage):</label><br />
-                    <input type="number" step="0.001" class="inputs" id="finweight" placeholder="Weight" /><br />
+                    <input type="number" step="0.01" class="inputs" id="finweight" placeholder="Weight" /><br />
                     <input type="button" value="Calculate" style="margin-top: 40px; background-color: lightyellow; padding: 7px 25px 7px 25px; color: darkblue" onclick="finalCalc()"/>
                 </form>
                 <p id="ret"></p>
@@ -56,11 +56,11 @@
                         <label for="tblind">Test-blind</label>
                         <h3 style="font-size: 25px; margin-bottom: 0px;">Top 25%?:</h3>
                         <label for="actcomp">Your ACT Composite (1-36):</label>
-                        <input type="number" step="1" class="inputs2" placeholder="ACT Composite" id="actcomp" style="width: 200px" /> <br>
+                        <input type="number" class="inputs2" placeholder="ACT Composite" id="actcomp" style="width: 200px" /> <br>
                         <label for="satrw">Your SAT Reading/Writing Score (200-800):</label>
-                        <input type="number" step="1" class="inputs2" placeholder="SAT R/W" id="satrw" style="width: 200px" /> <br>
+                        <input type="number" class="inputs2" placeholder="SAT R/W" id="satrw" style="width: 200px" /> <br>
                         <label for="satm">Your SAT Math Score (200-800):</label>
-                        <input type="number" step="1" class="inputs2" placeholder="SAT Math" id="satm" style="width: 200px" /> <br>
+                        <input type="number" class="inputs2" placeholder="SAT Math" id="satm" style="width: 200px" /> <br>
                         <h3 style="font-size: 25px; margin-bottom: 0px;">Other:</h3>
                         <input id="demint" type="checkbox" />
                         <label for="demint">Considers demonstrated interest?</label>
@@ -68,10 +68,11 @@
                         <label for="interv">Offers interviews?</label> <br>
                         <input type="button" value="Search" style="margin-top: 15px; background-color: lightyellow; padding: 7px 25px 7px 25px; color: darkblue" onclick="searchz()" />
                     </form>
-                    <div id="ret2" style="display: grid; background-color: red;">testtestesttes</div>
+                    <div id="ret2" style="display: grid;">Under construction</div>
                 </div>
             </div>
-            <div id="div3">
+            <div id="div3" style="margin-left: 20px;">
+            <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 10px; margin-bottom: 0px; font-size: 30px">Word Counter</h2>
 
             </div>
         </div>

@@ -36,14 +36,36 @@ function finalCalc() {
 function searchz() {
     const disp2 = document.getElementById("ret2")
     const inps2 = document.getElementsByClassName("inputs2")
+    const actcomp = parseInt(document.getElementById("actcomp").value)
+    const satrw = parseInt(document.getElementById("satrw").value)
+    const satm = parseInt(document.getElementById("satm").value)
     disp2.innerHTML = ""
     for (let y of inps2) {
         y.style.borderColor = 'darkgreen';
     }
     let valid2 = true;
-    const coldata = require("./data/collegeadmissions.json")
-    console.log(coldata)
+    var getdata = fetch("./assets/data/collegeadmissions.json").then((resp) => {
+        resp.json();
+    }).then((data) => {
+        console.log(data);
+    });
+    if (actcomp > 36 || actcomp < 1) {
+        disp2.innerHTML += 'Invalid ACT Composite score.<br>';
+        document.getElementById("actcomp").style.borderColor = 'red';
+        valid2 = false;
+    }
+    if (satrw > 800 || satrw < 200) {
+        disp2.innerHTML += 'Invalid SAT Reading/Writing score.<br>';
+        document.getElementById("satrw").style.borderColor = 'red';
+        valid2 = false;
+    }
+    if (satm > 800 || satm < 200) {
+        disp2.innerHTML += 'Invalid SAT Math score.<br>';
+        document.getElementById("satm").style.borderColor = 'red';
+        valid2 = false;
+    }
     if (valid2 == true) {
+        // check test scores for NaN later and dont use NaN
         document.getElementById("searcher").reset()
     }
 }
