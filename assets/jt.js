@@ -35,20 +35,18 @@ function finalCalc() {
 
 function searchz() {
     const disp2 = document.getElementById("ret2")
+    const list2 = document.getElementById("listz")
     const inps2 = document.getElementsByClassName("inputs2")
-    const actcomp = parseInt(document.getElementById("actcomp").value)
-    const satrw = parseInt(document.getElementById("satrw").value)
-    const satm = parseInt(document.getElementById("satm").value)
+    var actcomp = parseInt(document.getElementById("actcomp").value)
+    var satrw = parseInt(document.getElementById("satrw").value)
+    var satm = parseInt(document.getElementById("satm").value)
+    const forlang = document.getElementsByName("years").values
     disp2.innerHTML = ""
     for (let y of inps2) {
         y.style.borderColor = 'darkgreen';
     }
     let valid2 = true;
-    var getdata = fetch("./assets/data/collegeadmissions.json").then((resp) => {
-        resp.json();
-    }).then((data) => {
-        console.log(data);
-    });
+    
     if (actcomp > 36 || actcomp < 1) {
         disp2.innerHTML += 'Invalid ACT Composite score.<br>';
         document.getElementById("actcomp").style.borderColor = 'red';
@@ -64,8 +62,39 @@ function searchz() {
         document.getElementById("satm").style.borderColor = 'red';
         valid2 = false;
     }
-    if (valid2 == true) {
-        // check test scores for NaN later and dont use NaN
-        document.getElementById("searcher").reset()
+    if(!(valid2)){
+        return
     }
+
+    var getdata = fetch("./assets/data/collegeadmissions.json").then((res)=>{return res.json()}).then((coldata)=>{
+        if(isNaN(satm)){satm = 100000;}
+        if(isNaN(satrw)){satrw = 100000;}
+        if(isNaN(actcomp)){actcomp = 100000;}
+        var counter = 20;
+        for(var i in coldata){
+            var school = coldata[i]
+            if(actcomp >= parseInt(school.actcomp) && satrw >= parseInt(school.satrw) && satm >= parseInt(school.satm)){
+                var par = document.createElement("p");
+                var node = document.createTextNode(school.name);
+                var n = parseInt(counter/20)
+                par.appendChild(node);
+                par.style.gridArea = (parseInt(counter % 20)+1) +" / " + n + " / span 1 / span 1";
+                par.style.fontSize = "8px"
+                par.style.height = "45px"
+                par.style.width = "50px"
+                par.style.textAlign = "center"
+                par.style.margin = "0px"
+                //par.style.height = "30px"; */
+                console.log(par)
+                disp2.appendChild(par);
+                //if(counter==50){
+                //    break
+                //}
+                counter++;
+            }
+        }
+    })
+    // check test scores for NaN later and dont use NaN
+    document.getElementById("searcher").reset()
+    
 }

@@ -2,7 +2,7 @@
   "0": {
     "name": "Adelphi University",
     "admitrate": "77%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "660",
     "satrw": "650",
     "t10": "22%",
@@ -12,7 +12,7 @@
   "1": {
     "name": "Agnes Scott College",
     "admitrate": "70%",
-    "actcomp": "27-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "730",
     "t10": "33%",
@@ -22,7 +22,7 @@
   "2": {
     "name": "Alfred University",
     "admitrate": "67%",
-    "actcomp": "21-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "630",
     "t10": "28%",
@@ -32,7 +32,7 @@
   "3": {
     "name": "Allegheny College",
     "admitrate": "75%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "670",
     "satrw": "680",
     "t10": "30%",
@@ -42,7 +42,7 @@
   "4": {
     "name": "American University",
     "admitrate": "64%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "710",
     "satrw": "730",
     "t10": "30%",
@@ -52,7 +52,7 @@
   "5": {
     "name": "Amherst College",
     "admitrate": "9%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "780",
     "t10": "91%",
@@ -62,7 +62,7 @@
   "6": {
     "name": "Appalachian State University",
     "admitrate": "85%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "650",
     "satrw": "650",
     "t10": "15%",
@@ -72,7 +72,7 @@
   "7": {
     "name": "Arizona State University-Tempe",
     "admitrate": "88%",
-    "actcomp": "20-28",
+    "actcomp": "28",
     "satm": "700",
     "satrw": "680",
     "t10": "28%",
@@ -82,7 +82,7 @@
   "8": {
     "name": "Auburn University",
     "admitrate": "71%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "680",
     "satrw": "670",
     "t10": "31%",
@@ -92,7 +92,7 @@
   "9": {
     "name": "Austin College",
     "admitrate": "43%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "670",
     "t10": "30%",
@@ -102,7 +102,7 @@
   "10": {
     "name": "Babson College",
     "admitrate": "25%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "770",
     "satrw": "710",
     "t10": "Not Reported",
@@ -112,7 +112,7 @@
   "11": {
     "name": "Bard College",
     "admitrate": "60%",
-    "actcomp": "28-33",
+    "actcomp": "33",
     "satm": "728",
     "satrw": "740",
     "t10": "34%",
@@ -122,7 +122,7 @@
   "12": {
     "name": "Barnard College",
     "admitrate": "11%",
-    "actcomp": "32-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "770",
     "t10": "89%",
@@ -132,7 +132,7 @@
   "13": {
     "name": "Bates College",
     "admitrate": "17%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "740",
     "satrw": "730",
     "t10": "62%",
@@ -142,7 +142,7 @@
   "14": {
     "name": "Baylor University",
     "admitrate": "57%",
-    "actcomp": "25-32",
+    "actcomp": "32",
     "satm": "680",
     "satrw": "670",
     "t10": "39%",
@@ -152,7 +152,7 @@
   "15": {
     "name": "Belmont University",
     "admitrate": "83%",
-    "actcomp": "23-30",
+    "actcomp": "30",
     "satm": "640",
     "satrw": "660",
     "t10": "29%",
@@ -162,7 +162,7 @@
   "16": {
     "name": "Beloit College",
     "admitrate": "67%",
-    "actcomp": "24-28",
+    "actcomp": "28",
     "satm": "710",
     "satrw": "680",
     "t10": "21%",
@@ -172,7 +172,7 @@
   "17": {
     "name": "Bennington College",
     "admitrate": "60%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "730",
     "t10": "39%",
@@ -182,7 +182,7 @@
   "18": {
     "name": "Bentley University",
     "admitrate": "61%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "723",
     "satrw": "690",
     "t10": "36%",
@@ -192,7 +192,7 @@
   "19": {
     "name": "Berea College",
     "admitrate": "33%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "628",
     "satrw": "640",
     "t10": "28%",
@@ -202,7 +202,7 @@
   "20": {
     "name": "Binghamton University",
     "admitrate": "44%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "720",
     "t10": "52%",
@@ -212,7 +212,7 @@
   "21": {
     "name": "Boston College",
     "admitrate": "19%",
-    "actcomp": "33-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "750",
     "t10": "86%",
@@ -222,7 +222,7 @@
   "22": {
     "name": "Boston University",
     "admitrate": "19%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "740",
     "t10": "70%",
@@ -232,7 +232,7 @@
   "23": {
     "name": "Bowdoin College",
     "admitrate": "9%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "770",
     "satrw": "750",
     "t10": "80%",
@@ -242,7 +242,7 @@
   "24": {
     "name": "Bradley University",
     "admitrate": "76%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "640",
     "satrw": "640",
     "t10": "29%",
@@ -252,7 +252,7 @@
   "25": {
     "name": "Brandeis University",
     "admitrate": "39%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "750",
     "t10": "57%",
@@ -262,7 +262,7 @@
   "26": {
     "name": "Brown University",
     "admitrate": "6%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "800",
     "t10": "91%",
@@ -272,7 +272,7 @@
   "27": {
     "name": "Bryant University",
     "admitrate": "74%",
-    "actcomp": "26-30",
+    "actcomp": "30",
     "satm": "650",
     "satrw": "650",
     "t10": "19%",
@@ -282,7 +282,7 @@
   "28": {
     "name": "Bryn Mawr College",
     "admitrate": "39%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "740",
     "t10": "68%",
@@ -292,7 +292,7 @@
   "29": {
     "name": "Bucknell University",
     "admitrate": "35%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "690",
     "t10": "59%",
@@ -302,7 +302,7 @@
   "30": {
     "name": "Butler University",
     "admitrate": "81%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "670",
     "t10": "43%",
@@ -312,7 +312,7 @@
   "31": {
     "name": "California Institute of Technology",
     "admitrate": "4%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "90%",
@@ -322,7 +322,7 @@
   "32": {
     "name": "California Polytechnic State University-San Luis Obispo",
     "admitrate": "33%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "49%",
@@ -332,7 +332,7 @@
   "33": {
     "name": "California State Polytechnic University-Pomona",
     "admitrate": "61%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "Not Reported",
@@ -342,7 +342,7 @@
   "34": {
     "name": "California State University-Fresno",
     "admitrate": "58%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "15%",
@@ -352,7 +352,7 @@
   "35": {
     "name": "California State University-Fullerton",
     "admitrate": "59%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "20%",
@@ -362,7 +362,7 @@
   "36": {
     "name": "California State University-Long Beach",
     "admitrate": "47%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "Not Reported",
@@ -372,7 +372,7 @@
   "37": {
     "name": "California State University-Los Angeles",
     "admitrate": "91%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "Not Reported",
@@ -382,7 +382,7 @@
   "38": {
     "name": "Carleton College",
     "admitrate": "18%",
-    "actcomp": "31-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "760",
     "t10": "69%",
@@ -392,7 +392,7 @@
   "39": {
     "name": "Carnegie Mellon University",
     "admitrate": "14%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "760",
     "t10": "89%",
@@ -402,7 +402,7 @@
   "40": {
     "name": "Case Western Reserve University",
     "admitrate": "30%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "740",
     "t10": "62%",
@@ -412,7 +412,7 @@
   "41": {
     "name": "Centre College",
     "admitrate": "76%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "730",
     "satrw": "650",
     "t10": "52%",
@@ -422,7 +422,7 @@
   "42": {
     "name": "Chapman University",
     "admitrate": "60%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "710",
     "satrw": "700",
     "t10": "26%",
@@ -432,7 +432,7 @@
   "43": {
     "name": "Claremont McKenna College",
     "admitrate": "11%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "750",
     "t10": "61%",
@@ -442,7 +442,7 @@
   "44": {
     "name": "Clark University",
     "admitrate": "48%",
-    "actcomp": "27-30",
+    "actcomp": "30",
     "satm": "700",
     "satrw": "703",
     "t10": "41%",
@@ -452,7 +452,7 @@
   "45": {
     "name": "Clemson University",
     "admitrate": "49%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "700",
     "t10": "55%",
@@ -462,7 +462,7 @@
   "46": {
     "name": "Coastal Carolina University",
     "admitrate": "79%",
-    "actcomp": "20-25",
+    "actcomp": "25",
     "satm": "590",
     "satrw": "600",
     "t10": "13%",
@@ -472,7 +472,7 @@
   "47": {
     "name": "Colby College",
     "admitrate": "9%",
-    "actcomp": "32-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "750",
     "t10": "86%",
@@ -482,7 +482,7 @@
   "48": {
     "name": "Colgate University",
     "admitrate": "17%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "740",
     "t10": "77%",
@@ -492,7 +492,7 @@
   "49": {
     "name": "College of Charleston",
     "admitrate": "66%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "620",
     "satrw": "660",
     "t10": "15%",
@@ -502,7 +502,7 @@
   "50": {
     "name": "College of the Holy Cross",
     "admitrate": "43%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "710",
     "satrw": "710",
     "t10": "43%",
@@ -512,7 +512,7 @@
   "51": {
     "name": "College of William and Mary",
     "admitrate": "37%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "770",
     "satrw": "750",
     "t10": "82%",
@@ -522,7 +522,7 @@
   "52": {
     "name": "Colorado College",
     "admitrate": "14%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "735",
     "satrw": "720",
     "t10": "71%",
@@ -532,7 +532,7 @@
   "53": {
     "name": "Colorado School of Mines",
     "admitrate": "57%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "720",
     "t10": "57%",
@@ -542,7 +542,7 @@
   "54": {
     "name": "Colorado State University-Fort Collins",
     "admitrate": "90%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "650",
     "t10": "18%",
@@ -552,7 +552,7 @@
   "55": {
     "name": "Columbia University in the City of New York",
     "admitrate": "4%",
-    "actcomp": "34-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "96%",
@@ -562,7 +562,7 @@
   "56": {
     "name": "Connecticut College",
     "admitrate": "41%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "728",
     "satrw": "748",
     "t10": "41%",
@@ -572,7 +572,7 @@
   "57": {
     "name": "Cooper Union for the Advancement of Science and Art",
     "admitrate": "13%",
-    "actcomp": "28-34",
+    "actcomp": "34",
     "satm": "790",
     "satrw": "740",
     "t10": "51%",
@@ -582,7 +582,7 @@
   "58": {
     "name": "Cornell University",
     "admitrate": "9%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "760",
     "t10": "84%",
@@ -592,7 +592,7 @@
   "59": {
     "name": "Creighton University",
     "admitrate": "78%",
-    "actcomp": "24-32",
+    "actcomp": "32",
     "satm": "690",
     "satrw": "680",
     "t10": "36%",
@@ -602,7 +602,7 @@
   "60": {
     "name": "CUNY Bernard M Baruch College",
     "admitrate": "51%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "700",
     "satrw": "650",
     "t10": "60%",
@@ -612,7 +612,7 @@
   "61": {
     "name": "CUNY Brooklyn College",
     "admitrate": "51%",
-    "actcomp": "20-25",
+    "actcomp": "25",
     "satm": "620",
     "satrw": "600",
     "t10": "Not Reported",
@@ -622,7 +622,7 @@
   "62": {
     "name": "CUNY Hunter College",
     "admitrate": "46%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "690",
     "satrw": "660",
     "t10": "Not Reported",
@@ -632,7 +632,7 @@
   "63": {
     "name": "Dartmouth College",
     "admitrate": "6%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "94%",
@@ -642,7 +642,7 @@
   "64": {
     "name": "Davidson College",
     "admitrate": "18%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "740",
     "t10": "74%",
@@ -652,7 +652,7 @@
   "65": {
     "name": "Denison University",
     "admitrate": "26%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "740",
     "satrw": "690",
     "t10": "71%",
@@ -662,7 +662,7 @@
   "66": {
     "name": "DePaul University",
     "admitrate": "69%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "640",
     "satrw": "660",
     "t10": "30%",
@@ -672,7 +672,7 @@
   "67": {
     "name": "DePauw University",
     "admitrate": "65%",
-    "actcomp": "24-31",
+    "actcomp": "31",
     "satm": "740",
     "satrw": "680",
     "t10": "44%",
@@ -682,7 +682,7 @@
   "68": {
     "name": "Dickinson College",
     "admitrate": "48%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "773",
     "satrw": "683",
     "t10": "47%",
@@ -692,7 +692,7 @@
   "69": {
     "name": "Drew University",
     "admitrate": "80%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "680",
     "t10": "31%",
@@ -702,7 +702,7 @@
   "70": {
     "name": "Drexel University",
     "admitrate": "83%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "690",
     "t10": "32%",
@@ -712,7 +712,7 @@
   "71": {
     "name": "Duke University",
     "admitrate": "8%",
-    "actcomp": "34-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "95%",
@@ -722,7 +722,7 @@
   "72": {
     "name": "Duquesne University",
     "admitrate": "92%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "650",
     "satrw": "660",
     "t10": "24%",
@@ -732,7 +732,7 @@
   "73": {
     "name": "Earlham College",
     "admitrate": "69%",
-    "actcomp": "26-30",
+    "actcomp": "30",
     "satm": "670",
     "satrw": "670",
     "t10": "25%",
@@ -742,7 +742,7 @@
   "74": {
     "name": "East Carolina University",
     "admitrate": "88%",
-    "actcomp": "19-24",
+    "actcomp": "24",
     "satm": "570",
     "satrw": "590",
     "t10": "13%",
@@ -752,7 +752,7 @@
   "75": {
     "name": "Eckerd College",
     "admitrate": "70%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "650",
     "satrw": "670",
     "t10": "Not Reported",
@@ -762,7 +762,7 @@
   "76": {
     "name": "Elon University",
     "admitrate": "78%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "660",
     "satrw": "680",
     "t10": "22%",
@@ -772,7 +772,7 @@
   "77": {
     "name": "Emerson College",
     "admitrate": "36%",
-    "actcomp": "27-31",
+    "actcomp": "31",
     "satm": "700",
     "satrw": "690",
     "t10": "29%",
@@ -782,7 +782,7 @@
   "78": {
     "name": "Emory University",
     "admitrate": "13%",
-    "actcomp": "32-34",
+    "actcomp": "34",
     "satm": "790",
     "satrw": "750",
     "t10": "76%",
@@ -792,7 +792,7 @@
   "79": {
     "name": "Fairfield University",
     "admitrate": "56%",
-    "actcomp": "27-31",
+    "actcomp": "31",
     "satm": "690",
     "satrw": "690",
     "t10": "38%",
@@ -802,7 +802,7 @@
   "80": {
     "name": "Florida Atlantic University",
     "admitrate": "78%",
-    "actcomp": "20-26",
+    "actcomp": "26",
     "satm": "590",
     "satrw": "610",
     "t10": "14%",
@@ -812,7 +812,7 @@
   "81": {
     "name": "Florida Gulf Coast University",
     "admitrate": "89%",
-    "actcomp": "19-25",
+    "actcomp": "25",
     "satm": "580",
     "satrw": "600",
     "t10": "16%",
@@ -822,7 +822,7 @@
   "82": {
     "name": "Florida Institute of Technology",
     "admitrate": "66%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "670",
     "satrw": "670",
     "t10": "26%",
@@ -832,7 +832,7 @@
   "83": {
     "name": "Florida International University",
     "admitrate": "64%",
-    "actcomp": "21-27",
+    "actcomp": "27",
     "satm": "610",
     "satrw": "630",
     "t10": "29%",
@@ -842,7 +842,7 @@
   "84": {
     "name": "Florida Southern College",
     "admitrate": "61%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "655",
     "satrw": "680",
     "t10": "24%",
@@ -852,7 +852,7 @@
   "85": {
     "name": "Florida State University",
     "admitrate": "37%",
-    "actcomp": "26-30",
+    "actcomp": "30",
     "satm": "660",
     "satrw": "680",
     "t10": "47%",
@@ -862,7 +862,7 @@
   "86": {
     "name": "Fordham University",
     "admitrate": "58%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "730",
     "t10": "35%",
@@ -872,7 +872,7 @@
   "87": {
     "name": "Franklin and Marshall College",
     "admitrate": "38%",
-    "actcomp": "29-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "710",
     "t10": "53%",
@@ -882,7 +882,7 @@
   "88": {
     "name": "Franklin W Olin College of Engineering",
     "admitrate": "18%",
-    "actcomp": "34-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "780",
     "t10": "Not Reported",
@@ -892,7 +892,7 @@
   "89": {
     "name": "Furman University",
     "admitrate": "71%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "700",
     "satrw": "700",
     "t10": "40%",
@@ -902,7 +902,7 @@
   "90": {
     "name": "George Mason University",
     "admitrate": "91%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "680",
     "satrw": "670",
     "t10": "14%",
@@ -912,7 +912,7 @@
   "91": {
     "name": "George Washington University",
     "admitrate": "50%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "750",
     "satrw": "740",
     "t10": "45%",
@@ -922,7 +922,7 @@
   "92": {
     "name": "Georgetown University",
     "admitrate": "12%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "770",
     "t10": "85%",
@@ -932,7 +932,7 @@
   "93": {
     "name": "Georgia College & State University",
     "admitrate": "88%",
-    "actcomp": "21-27",
+    "actcomp": "27",
     "satm": "620",
     "satrw": "640",
     "t10": "Not Reported",
@@ -940,9 +940,9 @@
     "t50": "Not Reported"
   },
   "94": {
-    "name": "Georgia Institute of Technology-Main Campus",
+    "name": "Georgia Institute of Technology",
     "admitrate": "21%",
-    "actcomp": "31-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "740",
     "t10": "91%",
@@ -952,7 +952,7 @@
   "95": {
     "name": "Georgia State University",
     "admitrate": "69%",
-    "actcomp": "19-27",
+    "actcomp": "27",
     "satm": "630",
     "satrw": "590",
     "t10": "Not Reported",
@@ -962,7 +962,7 @@
   "96": {
     "name": "Gettysburg College",
     "admitrate": "56%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "710",
     "satrw": "720",
     "t10": "42%",
@@ -972,7 +972,7 @@
   "97": {
     "name": "Gonzaga University",
     "admitrate": "73%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "680",
     "satrw": "670",
     "t10": "39%",
@@ -982,7 +982,7 @@
   "98": {
     "name": "Grinnell College",
     "admitrate": "11%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "750",
     "t10": "71%",
@@ -992,7 +992,7 @@
   "99": {
     "name": "Gustavus Adolphus College",
     "admitrate": "73%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "700",
     "t10": "37%",
@@ -1002,7 +1002,7 @@
   "100": {
     "name": "Hamilton College",
     "admitrate": "14%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "760",
     "t10": "80%",
@@ -1012,7 +1012,7 @@
   "101": {
     "name": "Harvard University",
     "admitrate": "5%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "780",
     "t10": "94%",
@@ -1022,7 +1022,7 @@
   "102": {
     "name": "Harvey Mudd College",
     "admitrate": "10%",
-    "actcomp": "34-36",
+    "actcomp": "36",
     "satm": "800",
     "satrw": "760",
     "t10": "Not Reported",
@@ -1032,7 +1032,7 @@
   "103": {
     "name": "Haverford College",
     "admitrate": "18%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "760",
     "t10": "95%",
@@ -1042,7 +1042,7 @@
   "104": {
     "name": "Hendrix College",
     "admitrate": "68%",
-    "actcomp": "24-31",
+    "actcomp": "31",
     "satm": "660",
     "satrw": "680",
     "t10": "37%",
@@ -1052,7 +1052,7 @@
   "105": {
     "name": "High Point University",
     "admitrate": "80%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "650",
     "satrw": "650",
     "t10": "18%",
@@ -1062,7 +1062,7 @@
   "106": {
     "name": "Hobart William Smith Colleges",
     "admitrate": "68%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "690",
     "satrw": "700",
     "t10": "28%",
@@ -1072,7 +1072,7 @@
   "107": {
     "name": "Hofstra University",
     "admitrate": "68%",
-    "actcomp": "27-31",
+    "actcomp": "31",
     "satm": "690",
     "satrw": "680",
     "t10": "32%",
@@ -1082,7 +1082,7 @@
   "108": {
     "name": "Illinois College",
     "admitrate": "79%",
-    "actcomp": "18-23",
+    "actcomp": "23",
     "satm": "560",
     "satrw": "590",
     "t10": "14%",
@@ -1092,7 +1092,7 @@
   "109": {
     "name": "Illinois Institute of Technology",
     "admitrate": "66%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "730",
     "satrw": "680",
     "t10": "43%",
@@ -1102,7 +1102,7 @@
   "110": {
     "name": "Illinois Wesleyan University",
     "admitrate": "45%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "670",
     "t10": "35%",
@@ -1112,7 +1112,7 @@
   "111": {
     "name": "Indiana University-Bloomington",
     "admitrate": "85%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "700",
     "satrw": "680",
     "t10": "29%",
@@ -1122,7 +1122,7 @@
   "112": {
     "name": "Indiana University-Purdue University-Indianapolis",
     "admitrate": "84%",
-    "actcomp": "21-28",
+    "actcomp": "28",
     "satm": "610",
     "satrw": "620",
     "t10": "15%",
@@ -1132,7 +1132,7 @@
   "113": {
     "name": "Iowa State University",
     "admitrate": "91%",
-    "actcomp": "21-28",
+    "actcomp": "28",
     "satm": "680",
     "satrw": "650",
     "t10": "22%",
@@ -1142,7 +1142,7 @@
   "114": {
     "name": "Ithaca College",
     "admitrate": "78%",
-    "actcomp": "27-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "680",
     "t10": "23%",
@@ -1152,7 +1152,7 @@
   "115": {
     "name": "James Madison University",
     "admitrate": "86%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "650",
     "satrw": "660",
     "t10": "15%",
@@ -1162,7 +1162,7 @@
   "116": {
     "name": "Johns Hopkins University",
     "admitrate": "8%",
-    "actcomp": "34-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "99%",
@@ -1172,7 +1172,7 @@
   "117": {
     "name": "Juniata College",
     "admitrate": "74%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "670",
     "t10": "29%",
@@ -1182,7 +1182,7 @@
   "118": {
     "name": "Kalamazoo College",
     "admitrate": "80%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "690",
     "satrw": "690",
     "t10": "39%",
@@ -1192,7 +1192,7 @@
   "119": {
     "name": "Kansas State University",
     "admitrate": "96%",
-    "actcomp": "20-26",
+    "actcomp": "26",
     "satm": "670",
     "satrw": "650",
     "t10": "24%",
@@ -1202,7 +1202,7 @@
   "120": {
     "name": "Kenyon College",
     "admitrate": "37%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "750",
     "satrw": "750",
     "t10": "57%",
@@ -1212,7 +1212,7 @@
   "121": {
     "name": "Lafayette College",
     "admitrate": "41%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "720",
     "t10": "45%",
@@ -1222,7 +1222,7 @@
   "122": {
     "name": "Lake Forest College",
     "admitrate": "64%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "665",
     "t10": "30%",
@@ -1232,7 +1232,7 @@
   "123": {
     "name": "Lawrence University",
     "admitrate": "75%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "730",
     "satrw": "730",
     "t10": "34%",
@@ -1242,7 +1242,7 @@
   "124": {
     "name": "Lehigh University",
     "admitrate": "50%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "693",
     "t10": "66%",
@@ -1252,7 +1252,7 @@
   "125": {
     "name": "Lewis & Clark College",
     "admitrate": "79%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "690",
     "satrw": "730",
     "t10": "40%",
@@ -1260,9 +1260,9 @@
     "t50": "95%"
   },
   "126": {
-    "name": "Linfield College-McMinnville Campus",
+    "name": "Linfield College",
     "admitrate": "83%",
-    "actcomp": "20-27",
+    "actcomp": "27",
     "satm": "600",
     "satrw": "610",
     "t10": "Not Reported",
@@ -1272,7 +1272,7 @@
   "127": {
     "name": "Loyola Marymount University",
     "admitrate": "46%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "700",
     "t10": "33%",
@@ -1282,7 +1282,7 @@
   "128": {
     "name": "Loyola University Chicago",
     "admitrate": "77%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "670",
     "satrw": "690",
     "t10": "29%",
@@ -1292,7 +1292,7 @@
   "129": {
     "name": "Loyola University Maryland",
     "admitrate": "84%",
-    "actcomp": "27-30",
+    "actcomp": "30",
     "satm": "680",
     "satrw": "680",
     "t10": "23%",
@@ -1302,7 +1302,7 @@
   "130": {
     "name": "Macalester College",
     "admitrate": "27%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "765",
     "satrw": "750",
     "t10": "61%",
@@ -1312,7 +1312,7 @@
   "131": {
     "name": "Manhattan College",
     "admitrate": "75%",
-    "actcomp": "22-28",
+    "actcomp": "28",
     "satm": "660",
     "satrw": "660",
     "t10": "Not Reported",
@@ -1322,7 +1322,7 @@
   "132": {
     "name": "Marist College",
     "admitrate": "60%",
-    "actcomp": "26-30",
+    "actcomp": "30",
     "satm": "680",
     "satrw": "680",
     "t10": "20%",
@@ -1332,7 +1332,7 @@
   "133": {
     "name": "Marquette University",
     "admitrate": "86%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "680",
     "satrw": "680",
     "t10": "34%",
@@ -1342,7 +1342,7 @@
   "134": {
     "name": "Massachusetts College of Liberal Arts",
     "admitrate": "91%",
-    "actcomp": "17-21",
+    "actcomp": "21",
     "satm": "600",
     "satrw": "580",
     "t10": "18%",
@@ -1352,7 +1352,7 @@
   "135": {
     "name": "Massachusetts Institute of Technology",
     "admitrate": "4%",
-    "actcomp": "34-36",
+    "actcomp": "36",
     "satm": "800",
     "satrw": "780",
     "t10": "99%",
@@ -1362,7 +1362,7 @@
   "136": {
     "name": "Miami University-Oxford",
     "admitrate": "89%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "690",
     "satrw": "680",
     "t10": "36%",
@@ -1372,7 +1372,7 @@
   "137": {
     "name": "Michigan State University",
     "admitrate": "83%",
-    "actcomp": "22-28",
+    "actcomp": "28",
     "satm": "670",
     "satrw": "650",
     "t10": "23%",
@@ -1382,7 +1382,7 @@
   "138": {
     "name": "Michigan Technological University",
     "admitrate": "86%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "660",
     "t10": "27%",
@@ -1392,7 +1392,7 @@
   "139": {
     "name": "Middlebury College",
     "admitrate": "13%",
-    "actcomp": "32-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "750",
     "t10": "77%",
@@ -1402,7 +1402,7 @@
   "140": {
     "name": "Milwaukee School of Engineering",
     "admitrate": "67%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "750",
     "satrw": "655",
     "t10": "Not Reported",
@@ -1412,7 +1412,7 @@
   "141": {
     "name": "Mississippi State University",
     "admitrate": "76%",
-    "actcomp": "21-30",
+    "actcomp": "30",
     "satm": "660",
     "satrw": "640",
     "t10": "26%",
@@ -1422,7 +1422,7 @@
   "142": {
     "name": "Morehouse College",
     "admitrate": "31%",
-    "actcomp": "18-22",
+    "actcomp": "22",
     "satm": "580",
     "satrw": "560",
     "t10": "15%",
@@ -1432,7 +1432,7 @@
   "143": {
     "name": "Mount Holyoke College",
     "admitrate": "52%",
-    "actcomp": "31-35",
+    "actcomp": "35",
     "satm": "760",
     "satrw": "750",
     "t10": "50%",
@@ -1442,7 +1442,7 @@
   "144": {
     "name": "Muhlenberg College",
     "admitrate": "68%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "680",
     "satrw": "690",
     "t10": "35%",
@@ -1452,7 +1452,7 @@
   "145": {
     "name": "New College of Florida",
     "admitrate": "73%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "660",
     "satrw": "700",
     "t10": "22%",
@@ -1462,7 +1462,7 @@
   "146": {
     "name": "New Jersey Institute of Technology",
     "admitrate": "69%",
-    "actcomp": "27-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "690",
     "t10": "36%",
@@ -1472,7 +1472,7 @@
   "147": {
     "name": "New York Institute of Technology",
     "admitrate": "68%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "665",
     "satrw": "630",
     "t10": "Not Reported",
@@ -1482,7 +1482,7 @@
   "148": {
     "name": "New York University",
     "admitrate": "13%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "95%",
@@ -1492,7 +1492,7 @@
   "149": {
     "name": "North Carolina State University at Raleigh",
     "admitrate": "47%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "740",
     "satrw": "700",
     "t10": "47%",
@@ -1502,7 +1502,7 @@
   "150": {
     "name": "Northeastern University",
     "admitrate": "18%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "760",
     "t10": "71%",
@@ -1512,7 +1512,7 @@
   "151": {
     "name": "Northern Arizona University",
     "admitrate": "78%",
-    "actcomp": "19-26",
+    "actcomp": "26",
     "satm": "628",
     "satrw": "640",
     "t10": "22%",
@@ -1522,7 +1522,7 @@
   "152": {
     "name": "Northwestern University",
     "admitrate": "7%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "770",
     "t10": "95%",
@@ -1532,7 +1532,7 @@
   "153": {
     "name": "Oberlin College",
     "admitrate": "34%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "710",
     "satrw": "750",
     "t10": "54%",
@@ -1542,7 +1542,7 @@
   "154": {
     "name": "Occidental College",
     "admitrate": "38%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "740",
     "t10": "54%",
@@ -1550,9 +1550,9 @@
     "t50": "98%"
   },
   "155": {
-    "name": "Ohio State University-Main Campus",
+    "name": "Ohio State University",
     "admitrate": "57%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "740",
     "satrw": "700",
     "t10": "64%",
@@ -1560,9 +1560,9 @@
     "t50": "99%"
   },
   "156": {
-    "name": "Ohio University-Main Campus",
+    "name": "Ohio University",
     "admitrate": "89%",
-    "actcomp": "22-27",
+    "actcomp": "27",
     "satm": "640",
     "satrw": "650",
     "t10": "22%",
@@ -1572,7 +1572,7 @@
   "157": {
     "name": "Ohio Wesleyan University",
     "admitrate": "68%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "660",
     "satrw": "670",
     "t10": "32%",
@@ -1580,9 +1580,9 @@
     "t50": "91%"
   },
   "158": {
-    "name": "Oklahoma State University-Main Campus",
+    "name": "Oklahoma State University",
     "admitrate": "68%",
-    "actcomp": "20-27",
+    "actcomp": "27",
     "satm": "620",
     "satrw": "630",
     "t10": "28%",
@@ -1592,7 +1592,7 @@
   "159": {
     "name": "Oregon State University",
     "admitrate": "84%",
-    "actcomp": "21-29",
+    "actcomp": "29",
     "satm": "660",
     "satrw": "650",
     "t10": "28%",
@@ -1600,9 +1600,9 @@
     "t50": "87%"
   },
   "160": {
-    "name": "Pennsylvania State University-Main Campus",
+    "name": "Pennsylvania State University",
     "admitrate": "58%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "710",
     "satrw": "690",
     "t10": "Not Reported",
@@ -1612,7 +1612,7 @@
   "161": {
     "name": "Pepperdine University",
     "admitrate": "53%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "730",
     "satrw": "710",
     "t10": "45%",
@@ -1622,7 +1622,7 @@
   "162": {
     "name": "Pitzer College",
     "admitrate": "18%",
-    "actcomp": "31-33",
+    "actcomp": "33",
     "satm": "760",
     "satrw": "750",
     "t10": "69%",
@@ -1632,7 +1632,7 @@
   "163": {
     "name": "Pomona College",
     "admitrate": "7%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "93%",
@@ -1642,7 +1642,7 @@
   "164": {
     "name": "Princeton University",
     "admitrate": "4%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "92%",
@@ -1652,7 +1652,7 @@
   "165": {
     "name": "Providence College",
     "admitrate": "58%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "660",
     "satrw": "670",
     "t10": "24%",
@@ -1660,9 +1660,9 @@
     "t50": "94%"
   },
   "166": {
-    "name": "Purdue University-Main Campus",
+    "name": "Purdue University",
     "admitrate": "69%",
-    "actcomp": "26-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "690",
     "t10": "48%",
@@ -1672,7 +1672,7 @@
   "167": {
     "name": "Quinnipiac University",
     "admitrate": "88%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "650",
     "satrw": "660",
     "t10": "21%",
@@ -1682,7 +1682,7 @@
   "168": {
     "name": "Ramapo College of New Jersey",
     "admitrate": "70%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "640",
     "t10": "16%",
@@ -1692,7 +1692,7 @@
   "169": {
     "name": "Reed College",
     "admitrate": "31%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "750",
     "t10": "51%",
@@ -1702,7 +1702,7 @@
   "170": {
     "name": "Rensselaer Polytechnic Institute",
     "admitrate": "57%",
-    "actcomp": "29-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "720",
     "t10": "55%",
@@ -1712,7 +1712,7 @@
   "171": {
     "name": "Rhodes College",
     "admitrate": "57%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "720",
     "t10": "66%",
@@ -1722,7 +1722,7 @@
   "172": {
     "name": "Rice University",
     "admitrate": "9%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "92%",
@@ -1732,7 +1732,7 @@
   "173": {
     "name": "Rochester Institute of Technology",
     "admitrate": "71%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "710",
     "t10": "43%",
@@ -1742,7 +1742,7 @@
   "174": {
     "name": "Rollins College",
     "admitrate": "49%",
-    "actcomp": "25-29",
+    "actcomp": "29",
     "satm": "660",
     "satrw": "680",
     "t10": "28%",
@@ -1752,7 +1752,7 @@
   "175": {
     "name": "Rose-Hulman Institute of Technology",
     "admitrate": "77%",
-    "actcomp": "27-33",
+    "actcomp": "33",
     "satm": "760",
     "satrw": "700",
     "t10": "66%",
@@ -1762,7 +1762,7 @@
   "176": {
     "name": "Rutgers University-New Brunswick",
     "admitrate": "68%",
-    "actcomp": "27-33",
+    "actcomp": "33",
     "satm": "760",
     "satrw": "710",
     "t10": "31%",
@@ -1772,7 +1772,7 @@
   "177": {
     "name": "Saint Johns University",
     "admitrate": "89%",
-    "actcomp": "22-28",
+    "actcomp": "28",
     "satm": "620",
     "satrw": "620",
     "t10": "16%",
@@ -1782,7 +1782,7 @@
   "178": {
     "name": "Saint Mary's College of California",
     "admitrate": "70%",
-    "actcomp": "21-28",
+    "actcomp": "28",
     "satm": "632",
     "satrw": "630",
     "t10": "Not Reported",
@@ -1792,7 +1792,7 @@
   "179": {
     "name": "San Diego State University",
     "admitrate": "38%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "660",
     "t10": "24%",
@@ -1802,7 +1802,7 @@
   "180": {
     "name": "San Francisco State University",
     "admitrate": "84%",
-    "actcomp": "16-23",
+    "actcomp": "23",
     "satm": "560",
     "satrw": "570",
     "t10": "Not Reported",
@@ -1812,7 +1812,7 @@
   "181": {
     "name": "San Jose State University",
     "admitrate": "84%",
-    "actcomp": "20-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "640",
     "t10": "Not Reported",
@@ -1822,7 +1822,7 @@
   "182": {
     "name": "Santa Clara University",
     "admitrate": "54%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "770",
     "satrw": "720",
     "t10": "35%",
@@ -1832,7 +1832,7 @@
   "183": {
     "name": "Sarah Lawrence College",
     "admitrate": "57%",
-    "actcomp": "29-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "750",
     "t10": "26%",
@@ -1842,7 +1842,7 @@
   "184": {
     "name": "Scripps College",
     "admitrate": "30%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "760",
     "t10": "69%",
@@ -1852,7 +1852,7 @@
   "185": {
     "name": "Seattle University",
     "admitrate": "83%",
-    "actcomp": "24-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "660",
     "t10": "16%",
@@ -1862,7 +1862,7 @@
   "186": {
     "name": "Seton Hall University",
     "admitrate": "77%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "690",
     "satrw": "680",
     "t10": "22%",
@@ -1872,7 +1872,7 @@
   "187": {
     "name": "Skidmore College",
     "admitrate": "31%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "720",
     "satrw": "720",
     "t10": "28%",
@@ -1882,7 +1882,7 @@
   "188": {
     "name": "Smith College",
     "admitrate": "37%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "770",
     "satrw": "740",
     "t10": "74%",
@@ -1892,7 +1892,7 @@
   "189": {
     "name": "Soka University of America",
     "admitrate": "53%",
-    "actcomp": "24-28",
+    "actcomp": "28",
     "satm": "755",
     "satrw": "645",
     "t10": "67%",
@@ -1902,7 +1902,7 @@
   "190": {
     "name": "Southern Methodist University",
     "admitrate": "53%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "770",
     "satrw": "740",
     "t10": "52%",
@@ -1912,7 +1912,7 @@
   "191": {
     "name": "Southwestern University",
     "admitrate": "51%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "650",
     "satrw": "680",
     "t10": "28%",
@@ -1922,7 +1922,7 @@
   "192": {
     "name": "Spelman College",
     "admitrate": "51%",
-    "actcomp": "20-26",
+    "actcomp": "26",
     "satm": "600",
     "satrw": "640",
     "t10": "26%",
@@ -1932,7 +1932,7 @@
   "193": {
     "name": "St John's University-New York",
     "admitrate": "85%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "660",
     "satrw": "650",
     "t10": "19%",
@@ -1942,7 +1942,7 @@
   "194": {
     "name": "St Lawrence University",
     "admitrate": "57%",
-    "actcomp": "29-32",
+    "actcomp": "32",
     "satm": "690",
     "satrw": "710",
     "t10": "30%",
@@ -1952,7 +1952,7 @@
   "195": {
     "name": "St Olaf College",
     "admitrate": "47%",
-    "actcomp": "28-33",
+    "actcomp": "33",
     "satm": "710",
     "satrw": "720",
     "t10": "38%",
@@ -1962,7 +1962,7 @@
   "196": {
     "name": "St. John's College",
     "admitrate": "53%",
-    "actcomp": "27-30",
+    "actcomp": "30",
     "satm": "730",
     "satrw": "750",
     "t10": "49%",
@@ -1972,7 +1972,7 @@
   "197": {
     "name": "St. John's College",
     "admitrate": "63%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "720",
     "satrw": "750",
     "t10": "37%",
@@ -1982,7 +1982,7 @@
   "198": {
     "name": "St. Mary's College of Maryland",
     "admitrate": "77%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "650",
     "satrw": "690",
     "t10": "20%",
@@ -1992,7 +1992,7 @@
   "199": {
     "name": "Stanford University",
     "admitrate": "4%",
-    "actcomp": "34-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "96%",
@@ -2002,7 +2002,7 @@
   "200": {
     "name": "Stetson University",
     "admitrate": "92%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "645",
     "satrw": "650",
     "t10": "20%",
@@ -2012,7 +2012,7 @@
   "201": {
     "name": "Stevens Institute of Technology",
     "admitrate": "53%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "730",
     "t10": "63%",
@@ -2022,7 +2022,7 @@
   "202": {
     "name": "Stonehill College",
     "admitrate": "68%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "650",
     "t10": "19%",
@@ -2032,7 +2032,7 @@
   "203": {
     "name": "Stony Brook University",
     "admitrate": "48%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "770",
     "satrw": "710",
     "t10": "44%",
@@ -2042,7 +2042,7 @@
   "204": {
     "name": "SUNY at Albany",
     "admitrate": "68%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "640",
     "t10": "18%",
@@ -2052,7 +2052,7 @@
   "205": {
     "name": "SUNY at Purchase College",
     "admitrate": "75%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "650",
     "satrw": "670",
     "t10": "Not Reported",
@@ -2062,7 +2062,7 @@
   "206": {
     "name": "SUNY College at Geneseo",
     "admitrate": "74%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "660",
     "satrw": "660",
     "t10": "34%",
@@ -2072,7 +2072,7 @@
   "207": {
     "name": "SUNY College at Oswego",
     "admitrate": "80%",
-    "actcomp": "20-26",
+    "actcomp": "26",
     "satm": "640",
     "satrw": "640",
     "t10": "14%",
@@ -2082,7 +2082,7 @@
   "208": {
     "name": "SUNY College of Environmental Science and Forestry",
     "admitrate": "65%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "650",
     "satrw": "650",
     "t10": "Not Reported",
@@ -2092,7 +2092,7 @@
   "209": {
     "name": "SUNY Oneonta",
     "admitrate": "70%",
-    "actcomp": "18-26",
+    "actcomp": "26",
     "satm": "578",
     "satrw": "579",
     "t10": "Not Reported",
@@ -2102,7 +2102,7 @@
   "210": {
     "name": "Susquehanna University",
     "admitrate": "88%",
-    "actcomp": "22-28",
+    "actcomp": "28",
     "satm": "630",
     "satrw": "640",
     "t10": "22%",
@@ -2112,7 +2112,7 @@
   "211": {
     "name": "Swarthmore College",
     "admitrate": "8%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "770",
     "t10": "90%",
@@ -2122,7 +2122,7 @@
   "212": {
     "name": "Syracuse University",
     "admitrate": "59%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "710",
     "satrw": "690",
     "t10": "33%",
@@ -2132,7 +2132,7 @@
   "213": {
     "name": "Temple University",
     "admitrate": "72%",
-    "actcomp": "24-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "670",
     "t10": "Not Reported",
@@ -2142,7 +2142,7 @@
   "214": {
     "name": "Texas A & M University-College Station",
     "admitrate": "64%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "700",
     "satrw": "680",
     "t10": "60%",
@@ -2152,7 +2152,7 @@
   "215": {
     "name": "Texas Christian University",
     "admitrate": "54%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "670",
     "t10": "40%",
@@ -2162,7 +2162,7 @@
   "216": {
     "name": "Texas Tech University",
     "admitrate": "68%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "640",
     "satrw": "640",
     "t10": "25%",
@@ -2172,7 +2172,7 @@
   "217": {
     "name": "The College of New Jersey",
     "admitrate": "62%",
-    "actcomp": "25-32",
+    "actcomp": "32",
     "satm": "680",
     "satrw": "670",
     "t10": "30%",
@@ -2182,7 +2182,7 @@
   "218": {
     "name": "The College of Wooster",
     "admitrate": "61%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "710",
     "satrw": "720",
     "t10": "43%",
@@ -2192,7 +2192,7 @@
   "219": {
     "name": "The University of Tennessee-Knoxville",
     "admitrate": "75%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "670",
     "t10": "35%",
@@ -2202,7 +2202,7 @@
   "220": {
     "name": "The University of Texas at Austin",
     "admitrate": "29%",
-    "actcomp": "29-34",
+    "actcomp": "34",
     "satm": "770",
     "satrw": "730",
     "t10": "86%",
@@ -2212,7 +2212,7 @@
   "221": {
     "name": "The University of Texas at Dallas",
     "admitrate": "87%",
-    "actcomp": "25-32",
+    "actcomp": "32",
     "satm": "730",
     "satrw": "690",
     "t10": "35%",
@@ -2222,7 +2222,7 @@
   "222": {
     "name": "The University of the South",
     "admitrate": "60%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "690",
     "satrw": "700",
     "t10": "33%",
@@ -2232,7 +2232,7 @@
   "223": {
     "name": "Trinity College",
     "admitrate": "36%",
-    "actcomp": "30-32",
+    "actcomp": "32",
     "satm": "740",
     "satrw": "710",
     "t10": "51%",
@@ -2242,7 +2242,7 @@
   "224": {
     "name": "Trinity University",
     "admitrate": "34%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "738",
     "satrw": "730",
     "t10": "49%",
@@ -2252,7 +2252,7 @@
   "225": {
     "name": "Truman State University",
     "admitrate": "61%",
-    "actcomp": "24-31",
+    "actcomp": "31",
     "satm": "640",
     "satrw": "650",
     "t10": "55%",
@@ -2262,7 +2262,7 @@
   "226": {
     "name": "Tufts University",
     "admitrate": "11%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "760",
     "t10": "82%",
@@ -2272,7 +2272,7 @@
   "227": {
     "name": "Tulane University of Louisiana",
     "admitrate": "10%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "770",
     "satrw": "740",
     "t10": "54%",
@@ -2282,7 +2282,7 @@
   "228": {
     "name": "Union College",
     "admitrate": "47%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "740",
     "satrw": "710",
     "t10": "57%",
@@ -2292,7 +2292,7 @@
   "229": {
     "name": "United States Air Force Academy",
     "admitrate": "12%",
-    "actcomp": "29-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "730",
     "t10": "53%",
@@ -2302,7 +2302,7 @@
   "230": {
     "name": "United States Coast Guard Academy",
     "admitrate": "2%",
-    "actcomp": "24-30",
+    "actcomp": "30",
     "satm": "700",
     "satrw": "690",
     "t10": "47%",
@@ -2312,7 +2312,7 @@
   "231": {
     "name": "United States Merchant Marine Academy",
     "admitrate": "22%",
-    "actcomp": "25-29",
+    "actcomp": "29",
     "satm": "690",
     "satrw": "670",
     "t10": "33%",
@@ -2322,7 +2322,7 @@
   "232": {
     "name": "United States Military Academy",
     "admitrate": "11%",
-    "actcomp": "28-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "700",
     "t10": "41%",
@@ -2332,7 +2332,7 @@
   "233": {
     "name": "United States Naval Academy",
     "admitrate": "9%",
-    "actcomp": "26-32",
+    "actcomp": "32",
     "satm": "760",
     "satrw": "760",
     "t10": "58%",
@@ -2342,7 +2342,7 @@
   "234": {
     "name": "University at Buffalo",
     "admitrate": "70%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "700",
     "satrw": "660",
     "t10": "28%",
@@ -2352,7 +2352,7 @@
   "235": {
     "name": "University of Alabama at Birmingham",
     "admitrate": "89%",
-    "actcomp": "23-30",
+    "actcomp": "30",
     "satm": "708",
     "satrw": "680",
     "t10": "30%",
@@ -2362,7 +2362,7 @@
   "236": {
     "name": "University of Arizona",
     "admitrate": "87%",
-    "actcomp": "21-29",
+    "actcomp": "29",
     "satm": "690",
     "satrw": "680",
     "t10": "39%",
@@ -2372,7 +2372,7 @@
   "237": {
     "name": "University of Arkansas",
     "admitrate": "83%",
-    "actcomp": "21-28",
+    "actcomp": "28",
     "satm": "600",
     "satrw": "620",
     "t10": "25%",
@@ -2382,7 +2382,7 @@
   "238": {
     "name": "University of California-Berkeley",
     "admitrate": "15%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "Not Reported",
@@ -2392,7 +2392,7 @@
   "239": {
     "name": "University of California-Davis",
     "admitrate": "46%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "100%",
@@ -2402,7 +2402,7 @@
   "240": {
     "name": "University of California-Irvine",
     "admitrate": "29%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "98%",
@@ -2412,7 +2412,7 @@
   "241": {
     "name": "University of California-Los Angeles",
     "admitrate": "11%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "Not Reported",
@@ -2422,7 +2422,7 @@
   "242": {
     "name": "University of California-Merced",
     "admitrate": "85%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "17%",
@@ -2432,7 +2432,7 @@
   "243": {
     "name": "University of California-Riverside",
     "admitrate": "66%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "94%",
@@ -2442,7 +2442,7 @@
   "244": {
     "name": "University of California-San Diego",
     "admitrate": "34%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "100%",
@@ -2452,7 +2452,7 @@
   "245": {
     "name": "University of California-Santa Barbara",
     "admitrate": "29%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "100%",
@@ -2462,7 +2462,7 @@
   "246": {
     "name": "University of California-Santa Cruz",
     "admitrate": "59%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "94%",
@@ -2472,7 +2472,7 @@
   "247": {
     "name": "University of Central Florida",
     "admitrate": "36%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "670",
     "satrw": "680",
     "t10": "35%",
@@ -2482,7 +2482,7 @@
   "248": {
     "name": "University of Chicago",
     "admitrate": "6%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "780",
     "t10": "99%",
@@ -2490,9 +2490,9 @@
     "t50": "100%"
   },
   "249": {
-    "name": "University of Cincinnati-Main Campus",
+    "name": "University of Cincinnati",
     "admitrate": "85%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "680",
     "satrw": "670",
     "t10": "21%",
@@ -2502,7 +2502,7 @@
   "250": {
     "name": "University of Colorado Boulder",
     "admitrate": "80%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "700",
     "satrw": "690",
     "t10": "26%",
@@ -2512,7 +2512,7 @@
   "251": {
     "name": "University of Connecticut",
     "admitrate": "56%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "710",
     "satrw": "680",
     "t10": "51%",
@@ -2522,7 +2522,7 @@
   "252": {
     "name": "University of Dayton",
     "admitrate": "81%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "660",
     "t10": "24%",
@@ -2532,7 +2532,7 @@
   "253": {
     "name": "University of Delaware",
     "admitrate": "70%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "670",
     "t10": "32%",
@@ -2542,7 +2542,7 @@
   "254": {
     "name": "University of Denver",
     "admitrate": "63%",
-    "actcomp": "27-31",
+    "actcomp": "31",
     "satm": "690",
     "satrw": "700",
     "t10": "36%",
@@ -2552,7 +2552,7 @@
   "255": {
     "name": "University of Florida",
     "admitrate": "30%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "720",
     "t10": "83%",
@@ -2562,7 +2562,7 @@
   "256": {
     "name": "University of Georgia",
     "admitrate": "40%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "710",
     "t10": "61%",
@@ -2572,7 +2572,7 @@
   "257": {
     "name": "University of Houston",
     "admitrate": "66%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "670",
     "satrw": "660",
     "t10": "30%",
@@ -2582,7 +2582,7 @@
   "258": {
     "name": "University of Illinois at Chicago",
     "admitrate": "79%",
-    "actcomp": "23-31",
+    "actcomp": "31",
     "satm": "660",
     "satrw": "650",
     "t10": "28%",
@@ -2592,7 +2592,7 @@
   "259": {
     "name": "University of Illinois at Urbana-Champaign",
     "admitrate": "60%",
-    "actcomp": "29-34",
+    "actcomp": "34",
     "satm": "790",
     "satrw": "740",
     "t10": "54%",
@@ -2602,7 +2602,7 @@
   "260": {
     "name": "University of Iowa",
     "admitrate": "86%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "680",
     "t10": "33%",
@@ -2612,7 +2612,7 @@
   "261": {
     "name": "University of Kentucky",
     "admitrate": "94%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "660",
     "t10": "35%",
@@ -2622,7 +2622,7 @@
   "262": {
     "name": "University of Louisville",
     "admitrate": "66%",
-    "actcomp": "21-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "630",
     "t10": "27%",
@@ -2632,7 +2632,7 @@
   "263": {
     "name": "University of Maine",
     "admitrate": "96%",
-    "actcomp": "22-30",
+    "actcomp": "30",
     "satm": "630",
     "satrw": "650",
     "t10": "21%",
@@ -2642,7 +2642,7 @@
   "264": {
     "name": "University of Mary Washington",
     "admitrate": "82%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "640",
     "satrw": "680",
     "t10": "14%",
@@ -2652,7 +2652,7 @@
   "265": {
     "name": "University of Maryland-Baltimore County",
     "admitrate": "81%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "710",
     "satrw": "700",
     "t10": "29%",
@@ -2662,7 +2662,7 @@
   "266": {
     "name": "University of Maryland-College Park",
     "admitrate": "52%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "730",
     "t10": "69%",
@@ -2672,7 +2672,7 @@
   "267": {
     "name": "University of Massachusetts-Amherst",
     "admitrate": "66%",
-    "actcomp": "28-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "710",
     "t10": "31%",
@@ -2682,7 +2682,7 @@
   "268": {
     "name": "University of Massachusetts-Boston",
     "admitrate": "78%",
-    "actcomp": "20-27",
+    "actcomp": "27",
     "satm": "600",
     "satrw": "610",
     "t10": "15%",
@@ -2692,7 +2692,7 @@
   "269": {
     "name": "University of Miami",
     "admitrate": "28%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "740",
     "satrw": "720",
     "t10": "65%",
@@ -2702,7 +2702,7 @@
   "270": {
     "name": "University of Michigan-Ann Arbor",
     "admitrate": "20%",
-    "actcomp": "31-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "750",
     "t10": "74%",
@@ -2712,7 +2712,7 @@
   "271": {
     "name": "University of Minnesota-Morris",
     "admitrate": "76%",
-    "actcomp": "21-28",
+    "actcomp": "28",
     "satm": "660",
     "satrw": "600",
     "t10": "17%",
@@ -2722,7 +2722,7 @@
   "272": {
     "name": "University of Minnesota-Twin Cities",
     "admitrate": "73%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "760",
     "satrw": "730",
     "t10": "41%",
@@ -2732,7 +2732,7 @@
   "273": {
     "name": "University of Mississippi",
     "admitrate": "90%",
-    "actcomp": "21-29",
+    "actcomp": "29",
     "satm": "605",
     "satrw": "620",
     "t10": "25%",
@@ -2742,7 +2742,7 @@
   "274": {
     "name": "University of Missouri-Columbia",
     "admitrate": "77%",
-    "actcomp": "23-30",
+    "actcomp": "30",
     "satm": "670",
     "satrw": "680",
     "t10": "33%",
@@ -2752,7 +2752,7 @@
   "275": {
     "name": "University of Nebraska-Lincoln",
     "admitrate": "81%",
-    "actcomp": "22-28",
+    "actcomp": "28",
     "satm": "660",
     "satrw": "660",
     "t10": "31%",
@@ -2762,7 +2762,7 @@
   "276": {
     "name": "University of Nevada-Las Vegas",
     "admitrate": "83%",
-    "actcomp": "18-25",
+    "actcomp": "25",
     "satm": "600",
     "satrw": "610",
     "t10": "21%",
@@ -2772,7 +2772,7 @@
   "277": {
     "name": "University of Nevada-Reno",
     "admitrate": "88%",
-    "actcomp": "20-26",
+    "actcomp": "26",
     "satm": "630",
     "satrw": "640",
     "t10": "24%",
@@ -2780,9 +2780,9 @@
     "t50": "81%"
   },
   "278": {
-    "name": "University of New Hampshire-Main Campus",
+    "name": "University of New Hampshire",
     "admitrate": "87%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "640",
     "satrw": "660",
     "t10": "19%",
@@ -2790,9 +2790,9 @@
     "t50": "86%"
   },
   "279": {
-    "name": "University of New Mexico-Main Campus",
+    "name": "University of New Mexico",
     "admitrate": "65%",
-    "actcomp": "20-26",
+    "actcomp": "26",
     "satm": "620",
     "satrw": "630",
     "t10": "Not Reported",
@@ -2802,7 +2802,7 @@
   "280": {
     "name": "University of North Carolina at Asheville",
     "admitrate": "82%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "690",
     "t10": "13%",
@@ -2812,7 +2812,7 @@
   "281": {
     "name": "University of North Carolina at Chapel Hill",
     "admitrate": "19%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "770",
     "satrw": "740",
     "t10": "74%",
@@ -2822,7 +2822,7 @@
   "282": {
     "name": "University of North Carolina at Charlotte",
     "admitrate": "80%",
-    "actcomp": "21-26",
+    "actcomp": "26",
     "satm": "670",
     "satrw": "650",
     "t10": "16%",
@@ -2832,7 +2832,7 @@
   "283": {
     "name": "University of North Carolina at Greensboro",
     "admitrate": "91%",
-    "actcomp": "21-26",
+    "actcomp": "26",
     "satm": "610",
     "satrw": "650",
     "t10": "46%",
@@ -2842,7 +2842,7 @@
   "284": {
     "name": "University of North Carolina Wilmington",
     "admitrate": "68%",
-    "actcomp": "24-28",
+    "actcomp": "28",
     "satm": "660",
     "satrw": "670",
     "t10": "15%",
@@ -2852,7 +2852,7 @@
   "285": {
     "name": "University of Notre Dame",
     "admitrate": "15%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "760",
     "t10": "91%",
@@ -2860,9 +2860,9 @@
     "t50": "100%"
   },
   "286": {
-    "name": "University of Oklahoma-Norman Campus",
+    "name": "University of Oklahoma",
     "admitrate": "85%",
-    "actcomp": "23-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "670",
     "t10": "32%",
@@ -2872,7 +2872,7 @@
   "287": {
     "name": "University of Oregon",
     "admitrate": "93%",
-    "actcomp": "22-30",
+    "actcomp": "30",
     "satm": "660",
     "satrw": "670",
     "t10": "Not Reported",
@@ -2882,7 +2882,7 @@
   "288": {
     "name": "University of Pennsylvania",
     "admitrate": "6%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "-35",
     "satrw": "800",
     "t10": "93%",
@@ -2890,9 +2890,9 @@
     "t50": "100%"
   },
   "289": {
-    "name": "University of Pittsburgh-Pittsburgh Campus",
+    "name": "University of Pittsburgh",
     "admitrate": "67%",
-    "actcomp": "28-33",
+    "actcomp": "33",
     "satm": "750",
     "satrw": "720",
     "t10": "45%",
@@ -2902,7 +2902,7 @@
   "290": {
     "name": "University of Portland",
     "admitrate": "81%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "690",
     "t10": "Not Reported",
@@ -2912,7 +2912,7 @@
   "291": {
     "name": "University of Puget Sound",
     "admitrate": "88%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "670",
     "satrw": "700",
     "t10": "19%",
@@ -2922,7 +2922,7 @@
   "292": {
     "name": "University of Redlands",
     "admitrate": "83%",
-    "actcomp": "23-28",
+    "actcomp": "28",
     "satm": "660",
     "satrw": "643",
     "t10": "38%",
@@ -2932,7 +2932,7 @@
   "293": {
     "name": "University of Rhode Island",
     "admitrate": "76%",
-    "actcomp": "25-30",
+    "actcomp": "30",
     "satm": "640",
     "satrw": "650",
     "t10": "18%",
@@ -2942,7 +2942,7 @@
   "294": {
     "name": "University of Richmond",
     "admitrate": "29%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "730",
     "t10": "54%",
@@ -2952,7 +2952,7 @@
   "295": {
     "name": "University of Rochester",
     "admitrate": "41%",
-    "actcomp": "31-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "740",
     "t10": "71%",
@@ -2962,7 +2962,7 @@
   "296": {
     "name": "University of San Diego",
     "admitrate": "53%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "29%",
@@ -2972,7 +2972,7 @@
   "297": {
     "name": "University of San Francisco",
     "admitrate": "71%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "700",
     "satrw": "690",
     "t10": "33%",
@@ -2982,7 +2982,7 @@
   "298": {
     "name": "University of South Carolina-Columbia",
     "admitrate": "62%",
-    "actcomp": "26-31",
+    "actcomp": "31",
     "satm": "680",
     "satrw": "680",
     "t10": "30%",
@@ -2990,9 +2990,9 @@
     "t50": "93%"
   },
   "299": {
-    "name": "University of South Florida-Main Campus",
+    "name": "University of South Florida",
     "admitrate": "49%",
-    "actcomp": "24-29",
+    "actcomp": "29",
     "satm": "670",
     "satrw": "660",
     "t10": "30%",
@@ -3002,7 +3002,7 @@
   "300": {
     "name": "University of Southern California",
     "admitrate": "13%",
-    "actcomp": "30-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "740",
     "t10": "80%",
@@ -3012,7 +3012,7 @@
   "301": {
     "name": "University of Tulsa",
     "admitrate": "75%",
-    "actcomp": "22-29",
+    "actcomp": "29",
     "satm": "690",
     "satrw": "680",
     "t10": "42%",
@@ -3022,7 +3022,7 @@
   "302": {
     "name": "University of Utah",
     "admitrate": "84%",
-    "actcomp": "22-30",
+    "actcomp": "30",
     "satm": "700",
     "satrw": "690",
     "t10": "Not Reported",
@@ -3032,7 +3032,7 @@
   "303": {
     "name": "University of Vermont",
     "admitrate": "64%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "700",
     "satrw": "710",
     "t10": "40%",
@@ -3040,9 +3040,9 @@
     "t50": "99%"
   },
   "304": {
-    "name": "University of Virginia-Main Campus",
+    "name": "University of Virginia",
     "admitrate": "21%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "750",
     "t10": "90%",
@@ -3050,9 +3050,9 @@
     "t50": "100%"
   },
   "305": {
-    "name": "University of Washington-Seattle Campus",
+    "name": "University of Washington",
     "admitrate": "53%",
-    "actcomp": "29-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "710",
     "t10": "61%",
@@ -3062,7 +3062,7 @@
   "306": {
     "name": "University of Wisconsin-Madison",
     "admitrate": "60%",
-    "actcomp": "28-32",
+    "actcomp": "32",
     "satm": "780",
     "satrw": "730",
     "t10": "49%",
@@ -3072,7 +3072,7 @@
   "307": {
     "name": "Ursinus College",
     "admitrate": "83%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "680",
     "satrw": "680",
     "t10": "29%",
@@ -3082,7 +3082,7 @@
   "308": {
     "name": "Vanderbilt University",
     "admitrate": "7%",
-    "actcomp": "34-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "91%",
@@ -3092,7 +3092,7 @@
   "309": {
     "name": "Vassar College",
     "admitrate": "20%",
-    "actcomp": "32-34",
+    "actcomp": "34",
     "satm": "780",
     "satrw": "760",
     "t10": "79%",
@@ -3102,7 +3102,7 @@
   "310": {
     "name": "Villanova University",
     "admitrate": "25%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "730",
     "t10": "70%",
@@ -3112,7 +3112,7 @@
   "311": {
     "name": "Virginia Commonwealth University",
     "admitrate": "93%",
-    "actcomp": "20-29",
+    "actcomp": "29",
     "satm": "640",
     "satrw": "660",
     "t10": "18%",
@@ -3122,7 +3122,7 @@
   "312": {
     "name": "Virginia Polytechnic Institute and State University",
     "admitrate": "56%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "710",
     "satrw": "680",
     "t10": "Not Reported",
@@ -3132,7 +3132,7 @@
   "313": {
     "name": "Wake Forest University",
     "admitrate": "25%",
-    "actcomp": "30-33",
+    "actcomp": "33",
     "satm": "770",
     "satrw": "730",
     "t10": "69%",
@@ -3142,7 +3142,7 @@
   "314": {
     "name": "Washington and Lee University",
     "admitrate": "19%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "780",
     "satrw": "750",
     "t10": "78%",
@@ -3152,7 +3152,7 @@
   "315": {
     "name": "Washington State University",
     "admitrate": "86%",
-    "actcomp": "18-25",
+    "actcomp": "25",
     "satm": "610",
     "satrw": "630",
     "t10": "Not Reported",
@@ -3162,7 +3162,7 @@
   "316": {
     "name": "Washington University in St Louis",
     "admitrate": "13%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "770",
     "t10": "89%",
@@ -3172,7 +3172,7 @@
   "317": {
     "name": "Wellesley College",
     "admitrate": "20%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "770",
     "satrw": "750",
     "t10": "85%",
@@ -3182,7 +3182,7 @@
   "318": {
     "name": "Wesleyan University",
     "admitrate": "19%",
-    "actcomp": "31-34",
+    "actcomp": "34",
     "satm": "760",
     "satrw": "750",
     "t10": "76%",
@@ -3192,7 +3192,7 @@
   "319": {
     "name": "West Virginia University",
     "admitrate": "92%",
-    "actcomp": "21-27",
+    "actcomp": "27",
     "satm": "620",
     "satrw": "630",
     "t10": "23%",
@@ -3202,7 +3202,7 @@
   "320": {
     "name": "Wheaton College",
     "admitrate": "86%",
-    "actcomp": "27-32",
+    "actcomp": "32",
     "satm": "720",
     "satrw": "710",
     "t10": "55%",
@@ -3212,7 +3212,7 @@
   "321": {
     "name": "Wheaton College",
     "admitrate": "77%",
-    "actcomp": "25-31",
+    "actcomp": "31",
     "satm": "670",
     "satrw": "680",
     "t10": "31%",
@@ -3222,7 +3222,7 @@
   "322": {
     "name": "Whitman College",
     "admitrate": "59%",
-    "actcomp": "29-33",
+    "actcomp": "33",
     "satm": "730",
     "satrw": "725",
     "t10": "43%",
@@ -3232,7 +3232,7 @@
   "323": {
     "name": "Willamette University",
     "admitrate": "79%",
-    "actcomp": "32-35",
+    "actcomp": "35",
     "satm": "710",
     "satrw": "700",
     "t10": "31%",
@@ -3242,7 +3242,7 @@
   "324": {
     "name": "Williams College",
     "admitrate": "9%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "790",
     "satrw": "770",
     "t10": "90%",
@@ -3252,7 +3252,7 @@
   "325": {
     "name": "Worcester Polytechnic Institute",
     "admitrate": "60%",
-    "actcomp": "Test-Blind",
+    "actcomp": "nd",
     "satm": "ind",
     "satrw": "ind",
     "t10": "59%",
@@ -3262,7 +3262,7 @@
   "326": {
     "name": "Yale University",
     "admitrate": "5%",
-    "actcomp": "33-35",
+    "actcomp": "35",
     "satm": "800",
     "satrw": "780",
     "t10": "97%",
@@ -3272,7 +3272,7 @@
   "327": {
     "name": "Yeshiva University",
     "admitrate": "67%",
-    "actcomp": "24-31",
+    "actcomp": "31",
     "satm": "710",
     "satrw": "700",
     "t10": "60%",
