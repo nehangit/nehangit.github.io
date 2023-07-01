@@ -70,19 +70,20 @@ function searchz() {
         if(isNaN(satm)){satm = 100000;}
         if(isNaN(satrw)){satrw = 100000;}
         if(isNaN(actcomp)){actcomp = 100000;}
-        var counter = 20;
+        var counter = 30;
         for(var i in coldata){
             var school = coldata[i]
             if(actcomp >= parseInt(school.actcomp) && satrw >= parseInt(school.satrw) && satm >= parseInt(school.satm)){
                 var par = document.createElement("p");
                 var node = document.createTextNode(school.name);
-                var n = parseInt(counter/20)
+                var n = parseInt(counter/30)
                 par.appendChild(node);
-                par.style.gridArea = (parseInt(counter % 20)+1) +" / " + n + " / span 1 / span 1";
+                par.style.gridArea = (parseInt(counter % 30)+1) +" / " + n + " / span 1 / span 1";
                 par.style.fontSize = "8px"
-                par.style.height = "45px"
-                par.style.width = "50px"
-                par.style.textAlign = "center"
+                par.style.height = "40px"
+                par.style.width = "80px"
+                par.style.float = "left"
+                par.style.borderStyle = "none"
                 par.style.margin = "0px"
                 //par.style.height = "30px"; */
                 console.log(par)
