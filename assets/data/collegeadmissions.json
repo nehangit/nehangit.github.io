@@ -312,9 +312,9 @@
   "31": {
     "name": "California Institute of Technology",
     "admitrate": "4%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "90%",
     "t25": "100%",
     "t50": "100%"
@@ -322,9 +322,9 @@
   "32": {
     "name": "California Polytechnic State University-San Luis Obispo",
     "admitrate": "33%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "49%",
     "t25": "82%",
     "t50": "98%"
@@ -332,9 +332,9 @@
   "33": {
     "name": "California State Polytechnic University-Pomona",
     "admitrate": "61%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "Not Reported",
     "t25": "Not Reported",
     "t50": "Not Reported"
@@ -342,9 +342,9 @@
   "34": {
     "name": "California State University-Fresno",
     "admitrate": "58%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "15%",
     "t25": "80%",
     "t50": "100%"
@@ -352,9 +352,9 @@
   "35": {
     "name": "California State University-Fullerton",
     "admitrate": "59%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "20%",
     "t25": "59%",
     "t50": "93%"
@@ -362,9 +362,9 @@
   "36": {
     "name": "California State University-Long Beach",
     "admitrate": "47%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "Not Reported",
     "t25": "Not Reported",
     "t50": "Not Reported"
@@ -372,9 +372,9 @@
   "37": {
     "name": "California State University-Los Angeles",
     "admitrate": "91%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "Not Reported",
     "t25": "Not Reported",
     "t50": "Not Reported"
@@ -2382,9 +2382,9 @@
   "238": {
     "name": "University of California-Berkeley",
     "admitrate": "15%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "Not Reported",
     "t25": "Not Reported",
     "t50": "Not Reported"
@@ -2392,9 +2392,9 @@
   "239": {
     "name": "University of California-Davis",
     "admitrate": "46%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "100%",
     "t25": "100%",
     "t50": "100%"
@@ -2402,9 +2402,9 @@
   "240": {
     "name": "University of California-Irvine",
     "admitrate": "29%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "98%",
     "t25": "100%",
     "t50": "100%"
@@ -2412,9 +2412,9 @@
   "241": {
     "name": "University of California-Los Angeles",
     "admitrate": "11%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "Not Reported",
     "t25": "Not Reported",
     "t50": "Not Reported"
@@ -2422,9 +2422,9 @@
   "242": {
     "name": "University of California-Merced",
     "admitrate": "85%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "17%",
     "t25": "Not Reported",
     "t50": "Not Reported"
@@ -2432,9 +2432,9 @@
   "243": {
     "name": "University of California-Riverside",
     "admitrate": "66%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "94%",
     "t25": "100%",
     "t50": "100%"
@@ -2442,9 +2442,9 @@
   "244": {
     "name": "University of California-San Diego",
     "admitrate": "34%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "100%",
     "t25": "100%",
     "t50": "100%"
@@ -2452,9 +2452,9 @@
   "245": {
     "name": "University of California-Santa Barbara",
     "admitrate": "29%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "100%",
     "t25": "100%",
     "t50": "100%"
@@ -2462,9 +2462,9 @@
   "246": {
     "name": "University of California-Santa Cruz",
     "admitrate": "59%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "94%",
     "t25": "100%",
     "t50": "100%"
@@ -2700,7 +2700,7 @@
     "t50": "97%"
   },
   "270": {
-    "name": "University of Michigan-Ann Arbor",
+    "name": "University of Michigan",
     "admitrate": "20%",
     "actcomp": "35",
     "satm": "780",
@@ -2962,9 +2962,9 @@
   "296": {
     "name": "University of San Diego",
     "admitrate": "53%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "29%",
     "t25": "68%",
     "t50": "96%"
@@ -3252,9 +3252,9 @@
   "325": {
     "name": "Worcester Polytechnic Institute",
     "admitrate": "60%",
-    "actcomp": "nd",
-    "satm": "ind",
-    "satrw": "ind",
+    "actcomp": "0",
+    "satm": "0",
+    "satrw": "0",
     "t10": "59%",
     "t25": "90%",
     "t50": "99%"

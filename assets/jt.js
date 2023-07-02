@@ -1,10 +1,9 @@
-
 function finalCalc() {
     const disp = document.getElementById("ret");
     const grade = parseFloat(document.getElementById("current").value);
     const minimum = parseFloat(document.getElementById("mingrade").value);
     const weight = parseFloat(document.getElementById("finweight").value);
-    disp.innerHTML = "<br>";
+    disp.innerHTML = "";
     const inps = document.getElementsByClassName("inputs");
     for (let x of inps) {
         x.style.borderColor = 'darkgreen';
@@ -42,9 +41,47 @@ function searchz() {
     var satm = parseInt(document.getElementById("satm").value)
     const forlang = document.getElementsByName("years").values
     disp2.innerHTML = ""
-    for (let y of inps2) {
-        y.style.borderColor = 'darkgreen';
+
+    function printRes(result){
+        const numrows = 33;
+        var counter = numrows;
+        //console.log(result)
+        for(let s of result){
+            //console.log(s)
+            var par = document.createElement("p");
+            var node = document.createTextNode(s);
+            var n = parseInt(counter/numrows)
+            par.appendChild(node);
+            par.style.gridArea = (parseInt(counter % numrows)+1) +" / " + n + " / span 1 / span 1";
+            par.style.fontSize = "10px"
+            par.style.height = "40px"
+            par.style.width = "110px"
+            par.style.float = "left"
+            par.style.borderStyle = "none"
+            par.style.margin = "0px"
+            par.style.fontFamily = "Times New Roman"
+            //par.style.height = "30px";
+            //console.log(par)
+            disp2.appendChild(par);
+            counter++;
+        }
     }
+    function searchForLang(val, rarr){
+        fetch("./assets/data/flreqs.json").then(res => res.json()).then((fldata)=>{
+        newarr = []
+        for(var i in fldata){
+            if(parseInt(fldata[i].numreq) == val || val == -1 || fldata[i].numreq == ""){
+                //console.log(fldata[i].numreq)
+                if(rarr.includes(fldata[i].name)){
+                    newarr.push(fldata[i].name)
+                }
+            }
+        }
+        printRes(newarr)
+        })
+    }
+    
+    for (let y of inps2){y.style.borderColor = 'darkgreen';}
     let valid2 = true;
     
     if (actcomp > 36 || actcomp < 1) {
@@ -62,40 +99,29 @@ function searchz() {
         document.getElementById("satm").style.borderColor = 'red';
         valid2 = false;
     }
-    if(!(valid2)){
-        return
-    }
+    if(!(valid2)){return}
+    var numflyears = -1
+    if(document.getElementById("oney").checked){numflyears = 1}
+    else if(document.getElementById("twoy").checked){numflyears = 2}
+    else if(document.getElementById("threey").checked){numflyears = 3}
+    else if(document.getElementById("foury").checked){numflyears = 4}
 
-    var getdata = fetch("./assets/data/collegeadmissions.json").then((res)=>{return res.json()}).then((coldata)=>{
+    fetch("./assets/data/collegeadmissions.json").then(res => res.json()).then((coldata)=>{
         if(isNaN(satm)){satm = 100000;}
         if(isNaN(satrw)){satrw = 100000;}
         if(isNaN(actcomp)){actcomp = 100000;}
-        var counter = 30;
+        var retschools = [];
         for(var i in coldata){
             var school = coldata[i]
             if(actcomp >= parseInt(school.actcomp) && satrw >= parseInt(school.satrw) && satm >= parseInt(school.satm)){
-                var par = document.createElement("p");
-                var node = document.createTextNode(school.name);
-                var n = parseInt(counter/30)
-                par.appendChild(node);
-                par.style.gridArea = (parseInt(counter % 30)+1) +" / " + n + " / span 1 / span 1";
-                par.style.fontSize = "8px"
-                par.style.height = "40px"
-                par.style.width = "80px"
-                par.style.float = "left"
-                par.style.borderStyle = "none"
-                par.style.margin = "0px"
-                //par.style.height = "30px"; */
-                console.log(par)
-                disp2.appendChild(par);
-                //if(counter==50){
-                //    break
-                //}
-                counter++;
+                retschools.push(school.name)
             }
         }
+        return retschools //may be empty
+    }).then((colschools) =>{
+        searchForLang(numflyears, colschools)
+       // console.log(langarr)
+       //printRes(colschools)
     })
-    // check test scores for NaN later and dont use NaN
-    document.getElementById("searcher").reset()
-    
+    document.getElementById("searcher").reset()   
 }

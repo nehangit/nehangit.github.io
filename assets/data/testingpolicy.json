@@ -259,21 +259,21 @@
     "scorechoice": ""
   },
   "37": {
-    "name": "California State University, Fresno",
+    "name": "California State University-Fresno",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test-Blind",
     "scorechoice": ""
   },
   "38": {
-    "name": "California State University, Fullerton",
+    "name": "California State University-Fullerton",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test-Blind",
     "scorechoice": ""
   },
   "39": {
-    "name": "California State University, Long Beach",
+    "name": "California State University-Long Beach",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test-Blind",
@@ -2002,63 +2002,63 @@
     "scorechoice": ""
   },
   "286": {
-    "name": "University of California, Berkeley",
+    "name": "University of California-Berkeley",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "287": {
-    "name": "University of California, Davis",
+    "name": "University of California-Davis",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "288": {
-    "name": "University of California, Irvine",
+    "name": "University of California-Irvine",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "289": {
-    "name": "University of California, Los Angeles",
+    "name": "University of California-Los Angeles",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "290": {
-    "name": "University of California, Merced",
+    "name": "University of California-Merced",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": ""
   },
   "291": {
-    "name": "University of California, Riverside",
+    "name": "University of California-Riverside",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "292": {
-    "name": "University of California, San Diego",
+    "name": "University of California-San Diego",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "293": {
-    "name": "University of California, Santa Barbara",
+    "name": "University of California-Santa Barbara",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
     "scorechoice": "Yes"
   },
   "294": {
-    "name": "University of California, Santa Cruz",
+    "name": "University of California-Santa Cruz",
     "actsuper": "",
     "satsuper": "",
     "testopt": "Test Blind",
@@ -2205,14 +2205,14 @@
     "scorechoice": "Yes"
   },
   "315": {
-    "name": "University of Maryland, Baltimore County",
+    "name": "University of Maryland-Baltimore County",
     "actsuper": "Yes",
     "satsuper": "Yes",
     "testopt": "Yes",
     "scorechoice": "Yes"
   },
   "316": {
-    "name": "University of Maryland, College Park",
+    "name": "University of Maryland-College Park",
     "actsuper": "Yes",
     "satsuper": "Yes",
     "testopt": "Yes",
@@ -2555,7 +2555,7 @@
     "scorechoice": "Yes"
   },
   "365": {
-    "name": "University of Virginia-Main Campus",
+    "name": "University of Virginia",
     "actsuper": "Yes",
     "satsuper": "Yes",
     "testopt": "Yes",
