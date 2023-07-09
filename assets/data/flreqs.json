@@ -128,11 +128,11 @@
     "numreq": "2"
   },
   "32": {
-    "name": "Cal Poly, Pomona",
+    "name": "Cal Poly-Pomona",
     "numreq": "2"
   },
   "33": {
-    "name": "Cal Poly, San Luis Obispo",
+    "name": "Cal Poly-San Luis Obispo",
     "numreq": "2"
   },
   "34": {
@@ -140,15 +140,15 @@
     "numreq": ""
   },
   "35": {
-    "name": "California State University, Fresno",
+    "name": "California State University-Fresno",
     "numreq": "2"
   },
   "36": {
-    "name": "California State University, Fullerton",
+    "name": "California State University-Fullerton",
     "numreq": "2"
   },
   "37": {
-    "name": "California State University, Long Beach",
+    "name": "California State University-Long Beach",
     "numreq": "2"
   },
   "38": {
@@ -1104,11 +1104,11 @@
     "numreq": "3"
   },
   "276": {
-    "name": "University of Maryland, Baltimore County",
+    "name": "University of Maryland-Baltimore County",
     "numreq": "2"
   },
   "277": {
-    "name": "University of Maryland, College Park",
+    "name": "University of Maryland-College Park",
     "numreq": "2"
   },
   "278": {
