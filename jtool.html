@@ -25,7 +25,7 @@
                 </form>
                 <p id="ret"></p>
             </div>
-            <div id="colsearch" style="padding-left: 30px;">
+            <div id="colsearch">
                 <!--<h2 style="text-align: center;">Under Construction :)</h2>
     <img src="images/rain.gif" alt="Under construction image" style="width: 1100px; height: 700px; text-align: center;">-->
                 <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 0px; margin-bottom: 20px; font-size: 30px">College Searcher</h2>
@@ -54,12 +54,12 @@
                         <label for="notopt">No</label>
                         <input id="tblind" type="radio" name="toptional" value="blind" />
                         <label for="tblind">Test-blind</label>
-                        <h3 style="font-size: 25px; margin-bottom: 0px;">In the Top 25%?:</h3>
-                        <label for="actcomp">Your ACT Composite (1-36):</label>
+                        <h3 style="font-size: 25px; margin-bottom: 0px;">Are you in the Top 25%?:</h3>
+                        <label for="actcomp">ACT Composite (1-36):</label>
                         <input type="number" class="inputs2" placeholder="ACT Composite" id="actcomp" style="width: 200px" /> <br>
-                        <label for="satrw">Your SAT Reading/Writing Score (200-800):</label>
+                        <label for="satrw">SAT Reading/Writing Score (200-800):</label>
                         <input type="number" class="inputs2" placeholder="SAT R/W" id="satrw" style="width: 200px" /> <br>
-                        <label for="satm">Your SAT Math Score (200-800):</label>
+                        <label for="satm">SAT Math Score (200-800):</label>
                         <input type="number" class="inputs2" placeholder="SAT Math" id="satm" style="width: 200px" /> <br>
                         <h3 style="font-size: 25px; margin-bottom: 0px;">Other:</h3>
                         <input id="demint" type="checkbox" />
@@ -75,9 +75,11 @@
                     </div>
                 </div>
             </div>
-            <div id="div3" style="margin-left: 20px;">
+            <div id="wcounter">
             <h2 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; text-align: center; padding-top: 10px; margin-bottom: 0px; font-size: 30px">Word Counter</h2>
-
+                <label for="inp">Enter text here:</label> <br>
+                <textarea id="inp" rows="4" cols="30" placeholder="Type here..." oninput="count()"></textarea>
+                <p id="numwords"></p>
             </div>
         </div>
         <script src="assets/jt.js"></script>
