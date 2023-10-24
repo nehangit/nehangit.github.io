@@ -3,7 +3,7 @@ TODO:
 - Written pretty poorly because of the fetch promise handling (which I'd use if there was an actual API) and I didn't know JS well at the time.. 
    ~ Need to change to just import the data from json files
 - Rewrite The G tool with React. Other pages are ok without React, but could be cleaner once transitioned.
-- Once transitioned to React can add cooler stuff.. games, animations etc.
+- Once transitioned to React can add cooler stuff.. games, animations, gifs etc.
 */
 
 function finalCalc() {
@@ -60,14 +60,12 @@ function searchz() {       // to do: fix college name inconsistencies between js
     var actcomp = parseInt(document.getElementById("actcomp").value)
     var satrw = parseInt(document.getElementById("satrw").value)
     var satm = parseInt(document.getElementById("satm").value)
-    const forlang = document.getElementsByName("years").values
     disp2.innerHTML = ""
 
     function printRes(result){
         const numrows = 33;
         var counter = numrows;
         for(let s of result){
-            //console.log(s)
             var par = document.createElement("p");
             var node = document.createTextNode(s);
             var n = parseInt(counter/numrows)
@@ -80,6 +78,7 @@ function searchz() {       // to do: fix college name inconsistencies between js
             par.style.borderStyle = "none"
             par.style.margin = "0px"
             par.style.fontFamily = "Times New Roman"
+            par.style.color = "black"
             //par.style.height = "30px";
             disp2.appendChild(par);
             counter++;
