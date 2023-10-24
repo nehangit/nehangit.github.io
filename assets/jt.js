@@ -1,3 +1,11 @@
+/*
+TODO:
+- Written pretty poorly because of the fetch promise handling (which I'd use if there was an actual API) and I didn't know JS well at the time.. 
+   ~ Need to change to just import the data from json files
+- Rewrite The G tool with React. Other pages are ok without React, but could be cleaner once transitioned.
+- Once transitioned to React can add cooler stuff.. games, animations etc.
+*/
+
 function finalCalc() {
     const disp = document.getElementById("ret");
     const grade = parseFloat(document.getElementById("current").value);
